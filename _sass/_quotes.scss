@@ -1,0 +1,98 @@
+.thumb {
+  object-fit:scale-down;
+  object-position: center;
+  max-width: 60px;
+  max-height: 60px;
+  margin-bottom: 1rem;
+}
+
+// .chat .chat-history {
+//   padding: 30px 30px 20px;
+//   border-bottom: 2px solid white;
+// }
+.chat .chat-history .message-data {
+  margin-bottom: 15px;
+}
+.chat .chat-history .message-data-time {
+  color: #a8aab1;
+  padding-left: 6px;
+}
+.chat .chat-history .message {
+  color: white;
+  padding: 18px 20px;
+  line-height: 26px;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  width: 90%;
+  position: relative;
+}
+.chat .chat-history .message:after {
+content: "";
+    position: absolute;
+    top: -15px;
+    left: 20px;
+    border-width: 0 15px 15px;
+    border-style: solid;
+    border-color: #CCDBDC transparent;
+    display: block;
+    width: 0;
+}
+.chat .chat-history .you-message {
+  background: #CCDBDC;
+  color:#003366;
+}
+
+.chat .chat-message {
+  padding: 30px;
+}
+.chat .chat-message .fa-file-o, .chat .chat-message .fa-file-image-o {
+  font-size: 16px;
+  color: gray;
+  cursor: pointer;
+}
+
+.chat-ul li{
+    list-style-type: none;
+}
+
+.align-left {
+  text-align: left;
+}
+
+.align-right {
+  text-align: right;
+}
+
+.message a {
+  color: white;
+  text-decoration: underline;
+}
+
+.message a:hover {
+  color: lightblue;
+  text-decoration: underline;
+}
+
+.message-data-flex {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: flex-end; /* Aligns the content to the right */
+}
+
+.message-data-info {
+  background-color: #3b3b3b; /* Or any other color you prefer */
+  padding: 5px 10px;
+  border-radius: 4px;
+  color: white;
+  flex: 0 0 auto; /* Prevents the box from growing beyond the text width */
+  max-width: 80%; /* Ensures it doesn't exceed the container width */
+  margin-right: 10px; /* Adds space between the text box and the avatar */
+}
+
+.thumb {
+  max-height: 70px; 
+  border-radius: 50%; 
+  flex-shrink: 0; 
+}

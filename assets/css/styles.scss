@@ -1,0 +1,110 @@
+---
+# this should make it be processed
+---
+
+summary {
+  font-style: italic;
+  display: list-item;
+  list-style-type: disclosure-closed;
+  cursor: pointer;
+}
+
+details {
+  background-color: rgb(238, 216, 248);
+  border-radius: 0.5em 0.5em;
+  padding: 5px;
+  margin-bottom: 15px;
+
+}
+
+blockquote p {
+  color: #44077d;
+  font-style: italic;
+  font-size: smaller;
+
+}
+
+.site-footer {
+  background-color: #f5f5f5;
+}
+
+.csg-nav {
+  font-size: .9rem;
+}
+
+
+.highlight {
+  background-color:rgb(241, 209, 255);
+  margin: 0 -0.4em;
+  padding: 0.1em 0.4em;
+  border-radius: 0.8em 0.3em;
+  background: transparent;
+  background-image: linear-gradient(
+    to right,
+    rgba(221, 141, 255, 0.2),
+    rgba(221, 141, 255, 0.7) 4%,
+    rgba(221, 141, 255, 0.4)
+  );
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+.highlight-link {
+  background-color:rgb(241, 209, 255);
+  margin: 0 -0.4em;
+  padding: 0.1em 0.4em;
+  border-radius: 0.8em 0.3em;
+  background: transparent;
+  background-image: linear-gradient(
+    to right,
+    rgba(221, 141, 255, 0.2),
+    rgba(221, 141, 255, 0.7) 4%,
+    rgba(221, 141, 255, 0.4)
+  );
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  color: #1779ba;
+}
+
+.student-q {
+  color: DarkMagenta;
+  font-style: italic;
+  padding: 0.2em;
+  border-radius: 0.2em;
+}
+
+@import "quotes";
+
+{%- for member in site.data.people -%}
+{%- if member.color -%}
+
+.chat .chat-history .{{ member.id }}-message {
+  background: {{ member.color }};
+}
+.chat .chat-history .{{ member.id }}-message:after {
+  border-color: {{ member.color }} transparent;
+    right: 20px;
+    top: -15px;
+    left: auto;
+    bottom:auto;
+}
+
+.{{ member.id }} {
+  color: {{ member.color }};
+}
+{%- endif -%}
+{%- endfor -%}
+
+@import "timeline";
+
+@import "toc";
+
+@import "cards";
+
+@import "tags";
+
+@import "linkCell";
+
+@import "searchToggle";
+
+@import "navBar";
