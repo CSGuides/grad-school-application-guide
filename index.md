@@ -3,128 +3,142 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: Computer Science Graduate Job and Interview Guide
+title: Computer Science Graduate School Application Guide
 nav: Overview
 ---
 
 # Introduction
 
-<span class="highlight">*Are you currently in graduate school, and are you considering applying (or currently looking) for a post-graduate position in computer science?*</span> 
+<span class="highlight">*Are you a current undergraduate student? Do you already have an undergraduate degree? Are you curious about graduate school or thinking about applying to a graduate program for a computing-related Master’s degree or a PhD?*</span>
 
 **If so, this site is for you!**
 
-This website offers a *summary of experiences, insights, and advice*---including many personal opinions and accounts---*on navigating the job search process for computer science academia and industrial research labs*. It contains both general advice as well as detailed accounts of several job searches, including:
+This website offers a *summary of experiences, insights, and advice*—including many personal opinions and accounts—*on navigating the graduate school application process for computer science.* It contains both general advice as well as detailed accounts of several applications, including:
 
-* Multiple searches resulting in job offers at top-tier academic research institutions (e.g.,
-  CMU, UMass Amherst, etc.).
-* Multiple searches resulting in job offers in industrial research (e.g.,
-  GrammaTech, Lincoln Labs, etc.).
-* Multiple searches resulting in job offers at liberal arts colleges (e.g.,
-  Harvey Mudd, St. Lawrence, etc.).
+* Applications from students with self-perceived “low” GPAs  
+* Applications from students with less-traditional academic paths (e.g., longer undergraduate programs, gap time outside of academia after undergraduate programs)  
+* Applications from students who self-perceived that few professors would recommend them  
+* Applications from students who were the first in their families to apply  
+* Applications from students without published undergraduate research  
+* Applications from students with non-standard or limited research experience  
 
-**This website is structured as a how-to guide for graduate students.**
-We provide collective advice, quote and commentary from a few individuals, and application materials from many individuals. 
-We sometimes refer to [specific authors by name](about.md).
+**These students were all admitted** to Computer Science graduate programs across a broad spectrum of selectivity.
 
-# Is This Guide For Me?
+**This website is structured as a how-to guide for graduate applications.**  
+We provide collective advice, quotes and commentary from a few individuals (including both applicants and professors who have collectively reviewed hundreds of graduate applications), and application materials (including essays) from many individuals.
 
-<span class="highlight">If you are in graduate school and either on the job market or planning to apply for CS-related jobs, this guide is for you.</span>
+# What is Graduate School?
 
-However, **this guide isn't just for students currently on the job market!** Even if 
-you are are just starting graduate school, the sections on [finding job opportunities](jobs.md)
-and [application preparation](applying.md) can still be helpful. Your career
-goals will often inform the choices you make during your doctoral studies, making it important to
-be aware of the kinds of jobs available to you and what those jobs may value.  
+The term *“graduate school”* (or *“graduate program”* or *“post-graduate degree”*, etc.) can mean different things. In this guide, we focus on two graduate degree tracks:
 
-It's also helpful to know what goes into an application package so you can plan ahead.
-For example, if you're aiming for an academic career that emphasizes
-teaching, you might plan for being a primary instructor ("instructor of
-record" at some institutions) while still a doctoral student. Conversely, if
-you are most interested in a research-focused career, you might instead choose
-to bolster your resume with industrial internships.  <span class="highlight">*It's much better to know 
-what to expect and plan ahead than to regret not doing something.*</span>
+## Master’s Degree
 
-# Navigating This Guide
+This is the most common graduate degree. It typically takes **1–2 years** to complete and has a significant coursework focus. You typically pay tuition if you are a master’s degree student.  
 
-This guide is organized around four major stages of a job search:
+Five-year combined bachelor’s + master’s programs from the same institution are common. Smaller schools might also have an articulation agreement with a larger university to offer a **3+2** (three years at school X, then two years at school Y) or **4+1** program.
 
-  1. [Finding jobs](jobs.md)
-  2. [Preparing your application](applying.md)
-  3. [Interviewing](interviewing.md)
-  4. [Deciding between offers](deciding.md) 
+A master’s degree can have a research or thesis component, but that is rarer. Master’s degrees are typically funded primarily by the student (you). Students are sometimes paid to be teaching assistants or funded through their jobs, but this is rarer. A master’s degree can have various names (MS, MEng, MSc, etc.).
 
-This guide also contains 
-[<span class="highlight-link">example application materials and interview resources</span>](exampleMaterials.md) 
-that were actually used in real job searches.
-These materials are tailored for different job types, including Research Tenure-Track positions 
-(sometimes abbreviated "R1 TT"), 
-Research Teaching-Focused positions, Liberal Arts Tenure-Track positions, and Industrial Research positions.
+A primary admission consideration is **your ability to succeed at rigorous, graduate-level coursework.**
 
-We next briefly summarize each phase.
+Some schools offer online master’s degree programs. Georgia Tech’s accredited online master’s program is a good example.
 
-## Phase 1: [Finding Jobs](jobs.md)
+## Doctor of Philosophy (PhD)
 
-* <span class="student-q">"What types of jobs exist after CS graduate school?"</span>
+This graduate degree is less common. A PhD always has a **research component.** PhD students work under the direction of advisors; that relationship is critical to graduate success.
 
-* <span class="student-q">"What can I do in graduate school to prepare for the job I want?"</span>
+In the U.S., students typically pursue a master’s degree “along the way” while completing a PhD. While some applicants already have master’s degrees, it is **not required** to apply to a PhD program. A student in a PhD program often obtains a master’s degree around the two-year mark and then spends another four years completing the PhD—for a total of about six years.
 
-* <span class="student-q">"How can I find jobs to apply to?"</span>
+Engineering PhD students are typically **fully funded**: tuition, health insurance, and a stipend are covered.
 
-As you begin your search, a first step is to think about the types of jobs
-that appeal to you.  We discuss various job opportunities in computer science
-for students earning doctoral degrees.  Then we give pointers for discovering
-open searches and how to interpret job postings.
+PhD students are usually paid as teaching assistants or research assistants. They can also run classes as instructors of record, but that is rarer in computer science.
 
-## Phase 2: [Preparing Your Application](applying.md)
+A primary admission consideration is **your ability to carry out rigorous research.**
 
-* <span class="student-q">"What do I need to apply to CS graduate jobs?"</span>
+In this guide, we use terms like “PhD student” to refer to someone in the PhD track, even if that person is currently getting a master’s degree along the way.
 
-* <span class="student-q">"How should I write my application materials?"</span>
+---
 
-Applications are reasonably uniform across academic institutions, and many aspects
-of an academic application apply to industrial research as well.  We provide 
-high-level guidance to help you start crafting your application materials, along with 
-concrete examples from successful job searches.
+A university typically offers both a master’s and PhD track within its graduate program. Applications are usually due for both at the same time (often around **December** of the year before you start).  
 
-## Phase 3: [Interviewing](interviewing.md)
+If you are earlier in your undergraduate degree, or are a returning adult or non-traditional student, this guide can help you take actions to improve your admissions chances. If you are in your final year, you’ll have to decide whether to apply for the master’s or PhD track. *This guide will help you with those decisions and applications!*
 
-* <span class="student-q">"When will I hear back from my applications?"</span>
+# Reading This Guide & Individual Perspectives
 
-* <span class="student-q">"What does an academic interview look like?"</span>
+The technical content of this guide was written by computer science professors. The primary authors are **Wes Weimer** (University of Michigan) and **Madeline Endres** (University of Massachusetts Amherst).  
 
-* <span class="student-q">"How should I structure my job talk?"</span>
+However, many others contributed directly, including by double-checking this information and adding insights.
 
-We discuss common activities for interviews and give tips on preparing for 
-questions---both those you’ll need to answer and those you might want to ask.
+Multiple graduate students also contributed their experiences, stories, and application materials. We often refer to specific contributors by name in this guide.
 
-## Phase 4: [Making a Decision](deciding.md)
+Contributor opinions, comments, and experiences appear adjacent to the main text in highlighted quotations. We believe that a combination of both perspectives—  
+<span class="highlight">*“I am a professor, let me tell you how professors decide which students to admit.”*</span> and  
+<span class="highlight">*“I am a student, let me tell you what it’s like to be a student day-to-day.”*</span>  
+—will give readers the most complete picture.
 
-* <span class="student-q">"Which job should I choose?!"</span>
+Finally, this guide focuses on *common or average experiences* for a broad audience. We sometimes omit qualifiers like “usually” or “typically” for clarity. For example, almost every PhD student is paid to do research work throughout the program. While a few master’s students are paid to do research, it’s rare—so you shouldn’t count on it when you apply, calculate costs, and make plans.
 
-* <span class="student-q">"How can I negotiate my offer?"</span>
+# Applying to a Master’s Degree Program – Overview
 
-When you reach the stage of considering job offers, it's time to make a decision.
-This process can be daunting, and it can be difficult to weigh different factors.
-We provide guidance on managing overlapping deadlines and negotiating your salary and
-startup. We also offer words of encouragement as you consider which offer to
-accept.
+This guide includes sections on major activities such as writing essays, finding letter writers, and interviewing. Here is a quick overview for master’s applications:
 
-# [Examples of Successful Materials](exampleMaterials.md)
+1. **Early Undergrad.** If you can, take actions that will strengthen your application. See later sections for evaluation details.  
+   Don’t panic—if you’re first thinking about this in your senior year, you’re still fine!
 
-Successful applicants from past cycles have generously agreed to provide their
-job search materials. These include 
-CVs, Cover Letters, Research Statements, Teaching Statements, Diversity Statements, Job 
-Talk Slides, and Application Timelines (including Rejections and Acceptances). 
-The portfolios are searchable by tags (e.g., 
-job type, research area, dual career search, etc.). *These examples offer practical guidance
-as you develop your own application.*
+2. **Undergraduate Research (Optional).** Research can help but is *not required.* Most admitted master’s students have no published research.
 
-<span class="highlight">The job search can definitely be challenging! It can be helpful to 
-remember that every successful applicant was once in your position. We hope this Guide 
-helps you better navigate each stage of the cycle.</span>
+3. **Letters of Recommendation.** Identify one primary and two secondary letter writers.  
+   Aim to lock them in by **October.**
 
+4. **Identify Schools.** On average, students apply to **12–16 schools.**
 
+5. **Skip the GREs.** Most programs no longer require or use GRE scores. Only take them if a specific program demands it.
 
-# [About Us](about.md)
+6. **Work on Application Materials.** Most programs ask for a résumé/CV, transcript, and statement of purpose.  
+   Start your statement early and get feedback from mentors and peers.
 
-For more information about the authors of this Guide, along with contribution instructions, see our [About Us](about.md) tab. In general, if you have any questions about this Guide, please email [Madeline Endres](/grad-job-guide/about#authors) at <mendres@umass.edu>.
+7. **Deadlines.** Most are due by **December 15th**, some earlier.  
+   Even programs that say “rolling admission” often review only once per year.
+
+8. **Fee Waivers.** Many schools offer them—apply if eligible. Your current institution may also provide funds.
+
+9. **Submission.** Leave **two weekends** to submit via portals; it’s surprisingly draining.
+
+10. **Contingency Planning.** Plan what to do if things don’t work out—e.g., summer options or reapplications.
+
+<span class="highlight">From Fall 2022 to Winter 2024, the University of Michigan CSE program awarded 34 PhDs and 277 Master’s degrees.</span>  
+Master’s degrees make up the vast majority of graduate degrees awarded.
+
+# Applying to a PhD Program – Overview
+
+This guide also includes full sections on essays, letters, and interviews. Here’s a brief overview for PhD track applications:
+
+1. **Undergraduate Research or Project.** Unlike a master’s application, PhD applications *really benefit* from research experience. It doesn’t need to be published but should demonstrate research potential.
+
+2. **Early Undergrad Preparation.** Engage in classes, serve as a TA, attend undergraduate conferences (e.g., Grace Hopper), and meet with professors to discuss research opportunities.  
+   Apply for REUs (Research Experiences for Undergraduates) or similar summer fellowships.
+
+3. **Letters of Recommendation.** Identify one primary and two secondary writers. Strong, specific letters about your research ability are *crucial.*  
+   Aim to lock them in by **October.**
+
+4. **Identify Schools.** On average, students apply to **12–16 programs.**
+
+5. **Skip the GREs.** Same as with master’s—most schools have dropped them.
+
+6. **Application Materials.** Include a résumé/CV, transcript, and statement of purpose. Start early and get multiple rounds of feedback.
+
+7. **Deadlines.** Usually **December 15th** or earlier.
+
+8. **Fee Waivers.** Apply for them; they’re commonly granted.
+
+9. **Submission.** Leave two weekends for submitting applications.
+
+10. **Contingency Planning.** Plan ahead for alternate paths if you’re not admitted this cycle.
+
+---
+
+<span class="highlight">Applying to graduate school can feel daunting—but remember, many successful students once felt the same way. We hope this guide helps you navigate your journey with confidence.</span>
+
+# [About the Authors](about.md)
+
+For more information about the contributors to this guide, or to share your own materials, see the [About Us](about.md) section.
