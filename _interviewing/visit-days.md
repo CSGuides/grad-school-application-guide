@@ -47,7 +47,7 @@ advisor fit, research interest alignment, stipend, location, ranking, morale, an
 
 {% include quote.html content="Students often make decisions based on non-ranking factors. A student at a lower-ranked school can thrive under the right advisor, just as a top-ranked program can be miserable if it’s not a fit." user="weimer" %}
 
-{% include quote.html content="All other things being equal, I encourage students to prioritize themselves rather than rankings, especially for PhD programs. It’s an endurance race—comfort, community, and location all matter." user="kevin" %}
+{% include quote.html content="All other things being equal, I encourage students to prioritize themselves rather than rankings, especially for PhD programs. It’s an endurance race—comfort, community, and location all matter." user="kleach" %}
 
 Finally, be aware of **exploding industry offers**—companies may pressure you to decide before April 15th.  
 While they might say you’ll have to “reapply,” strong candidates are almost always re-hired quickly in the next cycle.
