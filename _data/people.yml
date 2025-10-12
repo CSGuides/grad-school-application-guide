@@ -61,7 +61,7 @@
   employer: University of Michigan
   avatar: weimerw.jpg
   color: "#990033"
-  target: Graduate Admissions, Research Academia
+  target: Professor of Computer Science and Engineering
   bio: Wes Weimer is a Professor of Computer Science and Engineering at the University of Michigan. He studies software engineering, program analysis, and computer science education.
 
       
@@ -127,7 +127,7 @@
   employer: Vanderbilt University
   avatar: kleach.jpg
   color: "#ff9933" 
-  target: Graduate Admissions, Research Academia
+  target: Professor of Computer Science and Engineering
  
 
 - id: endremad
@@ -180,7 +180,7 @@
 - id: priscila
   display: Priscila Santiesteban
   role: Graduate Student Contributor
-  cycle: 2021
+  cycle: 2021 cycle for
   target: PhD Programs
   avatar: priscila.jpg
   color: "#006699"
