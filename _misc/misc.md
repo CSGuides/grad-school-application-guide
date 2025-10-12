@@ -51,7 +51,7 @@ For various reasons, from COVID concerns to academic integrity issues to the uti
 
 {% include quote.html content="Don’t study for the GRE – it’s a waste of time. It’s being phased out (only two schools I applied to required it), and if you need to take it, it will not be that important." user="kaia" %}
 
-{% include quote.html content="My advice to students is: only if you really want to attend a school that requires GREs. See elsewhere for why selecting a school by name is ill-advised, but if you are dead-set on getting a degree from X University and they require GREs, then that is the only reason to take them. That being said, none of my students in the past 5 years have taken the GRE." user="kevin" %}
+{% include quote.html content="My advice to students is: only if you really want to attend a school that requires GREs. See elsewhere for why selecting a school by name is ill-advised, but if you are dead-set on getting a degree from X University and they require GREs, then that is the only reason to take them. That being said, none of my students in the past 5 years have taken the GRE." user="kleach" %}
 
 ---
 
@@ -85,7 +85,7 @@ Secondary letters can be a few weeks later. (See elsewhere in this guide for the
 
 {% include quote.html content="When I was invited to interview with UVA and USC, one of my recommenders had not yet submitted their letters of recommendation to these schools. (I asked them politely for their submission after this.) This suggests that the deadlines for letters of recommendation are not the same hard deadlines as the ones for your other application materials, so don’t worry if your recommenders don’t submit right away. If you can’t avoid worrying, try not to email them. They often must submit on the order of dozens of recommendation letters per semester, and early reminders might annoy them. 🙂 I will say that both of the professors who were interested in me from these two schools were interested because of my primary letter, so my advice would be to try to have your primary recommender submit by the New Year." user="kaia" %}
 
-{% include quote.html content="Absent-minded professor here. If you see several confirmation emails arrive from a letter writer, but one school is missing, a polite email thanking them for submitting letters and asking about the missing school is not unwelcome. The key is to avoid preemptive emails or repeat emails." user="kevin" %}
+{% include quote.html content="Absent-minded professor here. If you see several confirmation emails arrive from a letter writer, but one school is missing, a polite email thanking them for submitting letters and asking about the missing school is not unwelcome. The key is to avoid preemptive emails or repeat emails." user="kleach" %}
 
 ---
 
