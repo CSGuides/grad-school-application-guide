@@ -36,9 +36,7 @@ from KTH Royal Institute of Technology in Sweden.
 We also include select examples of successful materials from each category. *More examples are available
 on the [Example Materials](exampleMaterials.md) tab.*
 
-{% include_relative _applying/recommendations.md %}
-{% include_relative _applying/cover-letter.md %}
-{% include_relative _applying/resume.md %}
-{% include_relative _applying/statements.md %}
-{% include_relative _applying/publications.md %}
-{% include_relative _applying/submitting.md %}
+
+{% include_relative _applying/identifying-schools.md %}
+{% include_relative _applying/writing-essays.md %}
+
