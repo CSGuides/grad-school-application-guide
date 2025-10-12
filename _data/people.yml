@@ -157,6 +157,7 @@
 - id: sathvika
   display: Sathvika FIXME
   role: Graduate Student Contributor
+  cycle: FIXME cycle for
   target: Master's Programs
   avatar: sathvika.jpg
   color: "#006699"
@@ -165,6 +166,7 @@
 - id: serra
   display: Serra FIXME
   role: Graduate Student Contributor
+  cycle: FIXME cycle for
   target: PhD Programs
   avatar: serra.jpg
   color: "#006699"
@@ -172,6 +174,7 @@
 - id: kaia
   display: Kaia Newman
   role: Graduate Student Contributor
+  cycle: FIXME cycle for
   target: PhD Programs
   avatar: kaia.jpg
   color: "#006699"
@@ -188,8 +191,9 @@
 - id: danni
   display: Danniel Hu
   role: Graduate Student Contributor
+  cycle: FIXME cycle for
   target: PhD Programs
-  avatar: dani.jpg
+  avatar: danni.jpg
   color: "#006699"
 
 

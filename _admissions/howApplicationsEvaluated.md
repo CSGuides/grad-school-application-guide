@@ -96,14 +96,14 @@ For the application numbers, the Applied, Admitted and Accepted columns are the 
 
 First, Master’s track statistics: 
 <figure>
-  <img src="_admissions/images/masters-track-stats.png" alt="Masters Stats">
+  <img src="{{ '/assets/images/masters-track-stats.png' | relative_url }}" alt="Masters Stats">
   <figcaption>Master’s degree numbers for a ten-year span for the University of Michigan CSE division.</figcaption>
 </figure>
 
 
 Second, PhD track statistics: 
 <figure>
-  <img src="_admissions/images/phd-track-stats.png" alt="Masters Stats">
+  <img src="{{ '/assets/images/phd-track-stats.png' | relative_url }}" alt="PhD Stats">
   <figcaption>PhD numbers for a ten-year span for the University of Michigan CSE division.</figcaption>
 </figure>
 
