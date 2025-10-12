@@ -112,8 +112,9 @@ Second, PhD track statistics:
 We also present the internal “dashboard” view of two PhD applicants. Faculty can click to see the entire application packet (e.g., application essays, letters of recommendation, etc.). However, this dashboard view is frequently used by faculty making decisions. First, it is usually the initial view faculty have of a particular applicant: if a student doesn’t look appealing in this summary, the faculty member may not take the time to see the full packet (especially given the number of distinct applications; see above). Second, this view is often used for comparisons (e.g., if you are a faculty member and have funding to admit one PhD student but there are three strong applicants, you may flip back and forth between the summaries of the three applicants while considering). 
 
 Note the demographic information, research interests, identified faculty members, assigned evaluators, transcript information, graphical presentation of GPA distributions, and scored evaluations: 
+
 <figure>
-  <img src="_admissions/images/santiesteban-phd-application-dashboard.png" alt="Santiesteban View">
+  <img src="{{ '/assets/images/santiesteban-phd-application-dashboard.png' | relative_url }}" alt="Santiesteban View">
   <figcaption>Internal faculty dashboard view for one applicant (shared with permission).</figcaption>
 </figure>
 
@@ -124,9 +125,10 @@ In the evaluation area, each elevator gave a numeric score on a 1-6 scale for Ac
 
 A second applicant dashboard view is also available:
 <figure>
-  <img src="_admissions/images/endres-phd-application-dashboard.png" alt="Endres View">
+  <img src="{{ '/assets/images/endres-phd-application-dashboard.png' | relative_url }}" alt="Endres View">
   <figcaption>Internal faculty dashboard view for one applicant (shared with permission).</figcaption>
 </figure>
+
 
 The faculty evaluators and applications are, unfortunately, not available/archived for this older (2018) application. However, note the GRE context view (as discussed elsewhere in this guide, including GRE information is not recommended in modern applications and typically just makes you look worse) and lower-level details, such as “Tier: Unknown” for both one of this applicant’s undergraduate institutions and the previous applicant’s institution. Schools do weight grades by the perceived rigor of the undergraduate program. 
 
