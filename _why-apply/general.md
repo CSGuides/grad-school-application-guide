@@ -1,5 +1,5 @@
 
-# Should I Apply to Grad School?
+# Should I Apply to CS Graduate School?
 
 In our opinion, the **primary reason to go to graduate school** is because you want one of the career paths that graduate school opens up.  
 If you think ahead to the future and see yourself as a **professor**, a PhD is a necessary step along the way.  
