@@ -57,23 +57,13 @@
 
 - id: weimer
   display: Wes Weimer
+  title: Professor of Computer Science and Engineering
   employer: University of Michigan
   avatar: weimerw.jpg
   color: "#990033"
-  cycle: "2004-2005"
-  timeline: timeline.json
-  target: Research Academia, Teaching Academia, and Industrial Research Positions
-  resume:
-    - file: weimer-resume.pdf
-  research:
-    - file: weimer-research.pdf
-  teaching:
-    - file: weimer-teaching.pdf
-  cover:
-    - file: weimer-cover-letter.pdf
-      description: Generic
-    - file: weimer-cover-letter-umass.pdf
-      description: UMass-Amherst, including job search number
+  target: Graduate Admissions, Research Academia
+  bio: Wes Weimer is a Professor of Computer Science and Engineering at the University of Michigan. He studies software engineering, program analysis, and computer science education.
+
       
 - id: legoues
   display: Claire Le Goues
@@ -130,28 +120,15 @@
     - file: angstadt-bowdoin-cover-letter.pdf
       description: Bowdoin College, organized for teaching-focused job posting
 
+
 - id: kleach
   display: Kevin Leach
-  emloyer: Vanderbilt University
+  title: Professor of Computer Science and Engineering
+  employer: Vanderbilt University
   avatar: kleach.jpg
-  color: "#ff9933"  
-  cycle: "2020-2021"
-  timeline: timeline.json
-  target: Research Academia and Instructor Positions
-  resume:
-    - file: kleach-cv-2020.pdf
-      description: Organized for a tenure-track position.  I used this both for teaching- and tenure-track positions.
-  research:
-    - file: kleach-research-statement.pdf
-      description: Tenure-track research statement.
-  teaching:
-    - file: kleach-teaching-statement.pdf
-      description: Two pages, plus a table of teaching at the end.  I spent a good deal of postdoc time teaching.
-  diversity:
-    - file: kleach-diversity-statement.pdf
-  cover: 
-    - file: kleach-cover-letter.pdf
-      description: I generalized the letter here.  Each submission included additional sentences specific to the department (e.g., faculty I knew of).
+  color: "#ff9933" 
+  target: Graduate Admissions, Research Academia
+ 
 
 - id: endremad
   display: Madeline Endres
@@ -173,6 +150,25 @@
   cover: 
     - file: Endres_coverLetter.pdf
       description: Generalized cover letter.
+
+################################################################################
+# Student Quote Contributers
+
+- id: sathvika
+  display: Sathvika FIXME
+  role: Graduate Student Contributor
+  target: Master's Programs
+  avatar: sathvika.jpg
+  color: "#006699"
+  
+
+- id: serra
+  display: Serra FIXME
+  role: Graduate Student Contributor
+  target: PhD Programs
+  avatar: serra.jpg
+  color: "#006699"
+
 
 
 ################################################################################

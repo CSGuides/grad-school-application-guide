@@ -13,7 +13,7 @@ This may be a good opportunity to talk to some of your professors or industrial 
 {% capture quote %}
 I’ll reiterate Wes’s encouragement to talk to your professors early and often. As a student, you see one perspective of academic life at one institution. The reality is academic (and industrial) careers can be quite varied. Your professors have certainly considered (or worked in) many of these career options and are great resources for helping you learn more. Asking them about what kinds of jobs they considered and why they ultimately chose their current position can result in a very interesting conversation. Professors also often have contacts and friends from graduate school in other career paths, so they can often speak directly to non-academic careers as well.
 {% endcapture %}
-{% include quote.html content=quote user="kevin" %}
+{% include quote.html content=quote user="kleach" %}
 
 {% capture quote %}
 Don’t wait to “feel ready.” Apply to jobs and graduate programs even if you think you aren’t prepared yet. Be delusional here too. You don’t have to know everything in advance. From my conversations with professors, for PhD all they really care about is whether you have research experience and a positive mindset. Research is a journey with highs and lows. Sometimes you work for months and realize it doesn’t lead to a valid result, and that is normal. What professors want to see is that you can stay open-minded, that you can say “I can try this, I can learn this new thing,” and that you can persist. Don’t let your own doubts stop you from applying.
