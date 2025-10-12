@@ -107,7 +107,7 @@ Second, PhD track statistics:
   <figcaption>PhD numbers for a ten-year span for the University of Michigan CSE division.</figcaption>
 </figure>
 
- ### Internal Dashboard View of PhD Applicants
+### Internal Dashboard View of PhD Applicants
 
 We also present the internal “dashboard” view of two PhD applicants. Faculty can click to see the entire application packet (e.g., application essays, letters of recommendation, etc.). However, this dashboard view is frequently used by faculty making decisions. First, it is usually the initial view faculty have of a particular applicant: if a student doesn’t look appealing in this summary, the faculty member may not take the time to see the full packet (especially given the number of distinct applications; see above). Second, this view is often used for comparisons (e.g., if you are a faculty member and have funding to admit one PhD student but there are three strong applicants, you may flip back and forth between the summaries of the three applicants while considering). 
 
@@ -127,7 +127,7 @@ A second applicant dashboard view is also available:
   <img src="_admissions/images/endres-phd-application-dashboard.png" alt="Endres View">
   <figcaption>Internal faculty dashboard view for one applicant (shared with permission).</figcaption>
 </figure>
-f
+
 The faculty evaluators and applications are, unfortunately, not available/archived for this older (2018) application. However, note the GRE context view (as discussed elsewhere in this guide, including GRE information is not recommended in modern applications and typically just makes you look worse) and lower-level details, such as “Tier: Unknown” for both one of this applicant’s undergraduate institutions and the previous applicant’s institution. Schools do weight grades by the perceived rigor of the undergraduate program. 
 
 {% capture quote %}
@@ -136,7 +136,7 @@ A word of advice for international students who don't have 3.5+ GPAs: don't let 
 {% include quote.html content=quote user="serra" %}
 
 
-## The Paradox of “Yield”
+### The Paradox of “Yield”
 One interesting aspect of the initial statistics is that the Acceptance rate (i.e., the percentage of those who receive offers who then go on to accept them, also called the yield on offers) is not 100%. This may initially seem surprising. Wouldn’t a top-ranked school like CMU or Berkeley “get” almost everyone it makes an offer to? When Wes Weimer was on the Berkeley graduate admissions committee, the yield was similar to some of the statistics above (about 25%). The explanation given was that students who apply to Berkeley and receive offers (i.e., students who assess well using the standard metrics) are also likely to apply to Stanford and receive offers there (e.g., because Stanfrord uses the same standard metrics). And the same is true for MIT and CMU and the like as well. A student who gets into Berkeley and Stanford (etc.) can only accept one of those offers, and from the university’s perspective it ends up a bit like a coin flip: highly-ranked universities typically have under-50% yield. 
 
 This can lead to a surprising nuanced effect. Suppose the graduate admissions committee is ranking applicants. “Person X is our #1 choice, Person Y is our #2 choice, etc.” If you are trying to fill ten slots (e.g., you have ten open seats in your master’s program) how many people from your ranked list do you admit? If you extend offers to exactly 10, because of yield, you won’t get all 10. So committees and professors sometimes end up solving mathematical constraints (e.g., “if our yield is 50% and we want 10 people, we should admit 20”). However, the effect is not linear. The farther you go down the list, the more likely it is that the person will accept your offer. For example, if Berkeley and Stanford are both trying to end up with 10 students, the #1 student on Berkeley’s list is probably also high on Stanford’s list. But the #10 student on Berkeley’s list may not have made the top ten for Stanford (slightly different faculty priorities, slightly different assessments of the essays, etc.). Many students take the highest-ranked offer they receive (which is not actually a good idea in general; see elsewhere in this guide on decisions). All of this put together means that the further you go down the ranked list, the more likely you are to get that person (your yield goes up) but the less you want them (they were ranked lower on your list). 
