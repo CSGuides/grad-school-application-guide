@@ -169,6 +169,21 @@
   avatar: serra.jpg
   color: "#006699"
 
+- id: kaia
+  display: Kaia Newman
+  role: Graduate Student Contributor
+  target: PhD Programs
+  avatar: kaia.jpg
+  color: "#006699"
+
+
+- id: priscila
+  display: Priscila Santiesteban
+  role: Graduate Student Contributor
+  target: PhD Programs
+  avatar: priscila.jpg
+  color: "#006699"
+
 
 
 ################################################################################
