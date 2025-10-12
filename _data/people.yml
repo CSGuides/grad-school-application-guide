@@ -180,6 +180,7 @@
 - id: priscila
   display: Priscila Santiesteban
   role: Graduate Student Contributor
+  cycle: 2021
   target: PhD Programs
   avatar: priscila.jpg
   color: "#006699"
