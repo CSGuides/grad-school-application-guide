@@ -7,4 +7,4 @@ description: >-
 permalink: /jobs/
 ---
 
-{% include_relative _jobs/general.md %}
+{% include_relative _why-apply/general.md %}
