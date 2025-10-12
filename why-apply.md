@@ -4,7 +4,7 @@ title: Should I Apply to Graduate School?
 description: >-
   Learn why students choose to pursue graduate school in computer science,
   what career paths it enables, and how to decide if it's right for you.
-permalink: /jobs/
+permalink: /why-apply/
 ---
 
 {% include_relative _why-apply/general.md %}
