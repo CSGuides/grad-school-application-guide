@@ -127,7 +127,7 @@ Culture shock is real, and daily routines (shopping, transportation, communicati
 
 ---
 
-## Overall Reflections
+## Overall Reflections 
 
 Graduate school is not “easy,” but it’s more of a **marathon than a sprint**.  
 The University of Michigan CSE’s 2020–21 climate report found that students rated faculty/student relationships as “good” and overall satisfaction as “somewhat satisfied” ([source](https://cse-climate.engin.umich.edu/reports/committee-reports/graduate-student-check-in-report-2020-21/#quantitative)).
