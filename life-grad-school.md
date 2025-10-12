@@ -8,8 +8,6 @@ description: >-
 permalink: /life/
 ---
 
-# What is Graduate School Like?
-
 Day-to-day life as a graduate student may be very different from what you are used to.  
 That is both a challenge and an opportunity.
 
