@@ -3,10 +3,10 @@
 While these example materials can be helpful, we encourage you to consider them
 with care, lest they mislead you. [Wes](/grad-job-guide/about#authors) notes
 that most academics suffer from [imposter
-syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Other job
+syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Other grad
 applicants' materials can easily lead to a mental trap wherein you read them and
 think "I have fewer publications than Person A and less teaching experience than
-Person B, I'll never get a job!" You may not have noticed that Person A had no
+Person B, I'll never get an offer!" You may not have noticed that Person A had no
 teaching experience, or that Person B, no service contributions. Beware of
 comparing your entire self to only the best attributes of others, and remember
 that application materials serve to highlight the best, most hirable properties
@@ -16,7 +16,7 @@ Failures](https://www.nature.com/articles/nj7322-467a) as a useful contrast!)
 
 This page provides neither a random nor indicative sample of applicants, and the
 materials are biased towards top-tier outcomes across multiple categories of
-positions. These may be the right kinds of jobs for you to consider, but they
+positions. These may be the right kinds of schools for you to consider, but they
 also might not be, for your career and personal goals! As a concrete example, <a
 href="https://en.wikipedia.org/wiki/Stephanie_Forrest">Stephanie Forrest</a>
 received R1 tenure-track offers from both the University of Michigan and also
@@ -25,7 +25,7 @@ better fit for her context.
 
 In evaluating your own choices and possible outcomes, we encourage you to
 consider:
--  _Opportunity costs_ relative to the job you're actually seeking. 
+-  _Opportunity costs_ relative to the grad program you're actually seeking. 
 There is simply not enough time to do everything during your
 graduate career. If you are looking for a
 teaching-focused position, at a certain point, serving as instructor of record
@@ -47,7 +47,7 @@ those at the Univeristy of New Mexico to develop a broad sense
 of expectations.
 
 The latter suggestion serves to help you mitigate your imposter syndrome while
-giving you the information necessary to make good job search and career choices.
+giving you the information necessary to make good grad program search and career choices.
 [Wes](/grad-job-guide/about#authors) recommends that applicants seeking
 academic jobs sit down (perhaps with their advisors) and determine that "on
 average, my record is comparable to people who are hired at schools ranked
