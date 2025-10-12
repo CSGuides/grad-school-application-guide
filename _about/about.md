@@ -28,6 +28,19 @@ Kevin Angstadt and Madeline Endres are the primary
 maintainers of this version of the guide (there are older versions out
 there, but we anticipate this site to be most up-to-date).
 
+# Additional Contributors and Student Perspectives
+
+In addition to the authors listed above, we thank several graduate students and contributors
+who shared their personal experiences, stories, and application reflections included throughout this guide.
+These individuals are not formal authors but have provided valuable context and insight.
+
+- Sathvika [LastName, optional if known] — Shared reflections on applying to graduate programs and overcoming self-doubt.
+- Yu [LastName] — Contributed notes on international student experiences and funding.
+- Zohreh [LastName] — Provided comments on balancing career goals and personal commitments during applications.
+- Hanchi [LastName] — Offered feedback on writing statements of purpose and letters of recommendation.
+- Lauren [LastName] — Contributed experiences with U.S. vs. non-U.S. application timelines.
+
+
 # Contributing
 
 We welcome contributions from the community to this guide.  The repository is

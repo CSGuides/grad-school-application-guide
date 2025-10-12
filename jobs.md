@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Finding Jobs
+title: Should I Apply to Graduate School?
 description: >-
-  Learn about job opportunities, where to find open searches, and
-  how to read postings.
+  Learn why students choose to pursue graduate school in computer science,
+  what career paths it enables, and how to decide if it's right for you.
 permalink: /jobs/
 ---
 
 {% include_relative _jobs/general.md %}
-{% include_relative _jobs/specific.md %}
-{% include_relative _jobs/subfields.md %}
