@@ -24,7 +24,7 @@ including how to prepare and what kinds of questions you might be asked.
 
 ---
 
-{% include_relative _interviewing/interviews.md %}
+{% include_relative _interviewing/interview.md %}
 
 ---
 
