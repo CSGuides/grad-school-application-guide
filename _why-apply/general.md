@@ -68,9 +68,7 @@ While PhD compensation is not high compared to industrial positions, it is seen 
 If you are not certain about whether you want a master’s degree or a master’s degree and a PhD, there is some consideration to applying to PhD programs, having them pay you, getting the master’s degree along the way, and then leaving if you don’t like it. This is “free” compared to paying your own way through a master’s degree program. However, this is harder to do than it might seem because PhD and master’s degree programs are looking for very different things when making admissions decisions. This ends up being fairly rare in practice.
 
 
-**Time Gaps Between Schooling.**
-
-It is very common to complete an undergraduate degree, work in industry for a bit, and then apply to graduate school. Being such a “returning adult student” does not make you a worse applicant or put you at a disadvantage. For example, about half of Wes Weimer’s PhD advisees worked outside of school (in industry, in government, etc.) for at least a year before starting a graduate program. In his personal experience, the median time in the “real world” is 2 years, with a common range of 0 to 6. After six years people often self-select out of applying (e.g., because they are used to “real-world” salaries and/or are focusing on building a life or family relationships) but are still qualified. If you are thinking about graduate school but have been “out” for a while, do not worry.
+**Time Gaps Between Schooling.** It is very common to complete an undergraduate degree, work in industry for a bit, and then apply to graduate school. Being such a “returning adult student” does not make you a worse applicant or put you at a disadvantage. For example, about half of Wes Weimer’s PhD advisees worked outside of school (in industry, in government, etc.) for at least a year before starting a graduate program. In his personal experience, the median time in the “real world” is 2 years, with a common range of 0 to 6. After six years people often self-select out of applying (e.g., because they are used to “real-world” salaries and/or are focusing on building a life or family relationships) but are still qualified. If you are thinking about graduate school but have been “out” for a while, do not worry.
 
 {% capture quote %}
 I have had a number of students graduate with a bachelor’s degree and work a few (1–3) years at a company before applying to a graduate program. It’s also not uncommon for students to apply for both jobs and graduate programs at the same time.
@@ -79,17 +77,13 @@ I have had a number of students graduate with a bachelor’s degree and work a f
 
 
 
-**Company, Government or Military Support.**
-
-In some cases, an organization may offer to pay for you to pursue a graduate degree. For example, some companies offer a “graduate school assistance program” or “tuition reimbursement” program for eligible employees. This is a standard benefit that you can ask a company HR representative about. Many governments and militaries offer something similar. Informally, the rationale is that it is a net positive for the organization to pay for your training to become an effective leader (rather than having you leave or having to hire someone new at that level).
+**Company, Government or Military Support.** In some cases, an organization may offer to pay for you to pursue a graduate degree. For example, some companies offer a “graduate school assistance program” or “tuition reimbursement” program for eligible employees. This is a standard benefit that you can ask a company HR representative about. Many governments and militaries offer something similar. Informally, the rationale is that it is a net positive for the organization to pay for your training to become an effective leader (rather than having you leave or having to hire someone new at that level).
 
 In practice, these often have less-obvious constraints. For example, they may restrict which universities you can apply to (e.g., a Silicon Valley company may only pay for tuition at Bay Area schools, etc.). In Wes Weimer’s personal experience, the options associated with the US military almost always feature very optimistic time budgets (e.g., requiring that you complete the degree 1–2 years faster than the average student). Despite that, they are definitely worth considering if one of them is applicable to you.
 
 ---
 
-**International Considerations.**
-
-FIXME: Yu, Zohreh, Hanchi, Lauren, Sathvika, etc.? Anyone who feels qualified should add text here.
+**International Considerations.** FIXME: 
 
 {% capture quote %}
 Ignore unnecessary outside noise. You’ll hear a lot about jobs, funding, visas, and the future. It’s important to stay informed, but don’t get consumed. Visa news in particular can feel scary. One week there’s a rumor, the next week it’s withdrawn or forgotten. If you constantly dwell on these uncertainties, you’ll only add stress. Focus on what you can control, on your own journey, your effort, and your growth.
