@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Interviewing
+title: Interviews and Deciding
 description: >-
   After you submit your graduate school applications, it's time to prepare for 
   interviews, visit days, and decision-making.
