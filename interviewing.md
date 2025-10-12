@@ -20,8 +20,7 @@ faculty to assess your fit for their department or research group.
 is evaluating you, but you are also evaluating them.</span>
 
 In this section, we’ll cover what to expect during interviews and visit days, 
-including how to prepare, what kinds of questions you might be asked, 
-and how to make your final decision among multiple offers.
+including how to prepare and what kinds of questions you might be asked.
 
 ---
 
