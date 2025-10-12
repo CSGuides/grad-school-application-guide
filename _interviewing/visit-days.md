@@ -3,7 +3,7 @@
 If you receive an offer, you may be invited to an **in-person or virtual visit day**. Most U.S. PhD programs cover your expenses.  
 Attend these if you can — they’re invaluable for comparing fit across schools.
 
-{% include quote.html content="Attend these visit days. Depending on the number of offers, you may not attend all, but go to at least two. The difference between visits can be illuminating. Missing class for visit days should be considered an excused absence—your advisors can advocate for you." user="kevin" %}
+{% include quote.html content="Attend these visit days. Depending on the number of offers, you may not attend all, but go to at least two. The difference between visits can be illuminating. Missing class for visit days should be considered an excused absence—your advisors can advocate for you." user="kleach" %}
 
 ---
 
