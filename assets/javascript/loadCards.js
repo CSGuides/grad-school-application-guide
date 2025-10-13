@@ -87,7 +87,7 @@ function generateContentSections(types, data) {
     var cardHtml = `
       <div class="cell person-card" data-age="${item.age}" data-name="${item.name.toLowerCase()}" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}">
         <div class="card">
-          ${item.profileImageLoc ? `<img src="/grad-school-apply-guide/assets/materials/${item.profileImageLoc}" alt="Profile Image" class="thumbnail">` : ''}
+          ${item.profileImageLoc ? `<img src="/grad-school-application-guide/assets/materials/${item.profileImageLoc}" alt="Profile Image" class="thumbnail">` : ''}
           <div class="card-section">
             <h4>${item.name}</h4>
             <p>${item.cycle} cycle</p>
@@ -105,7 +105,7 @@ function generateContentSections(types, data) {
     // Populate sections dynamically based on contributionTypes.json
     Object.keys(types).forEach(key => {
       if (item[key]) {
-        var sectionHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}" data-name="${item.name.toLowerCase()}"><a href="/grad-school-apply-guide/assets/materials/${item[key]}" target="_blank">${item.name}'s ${types[key][1]}</a></div>`;
+        var sectionHtml = `<div class="cell link-cell" data-tags="${item.tags ? item.tags.join(',').toLowerCase() : ''}" data-name="${item.name.toLowerCase()}"><a href="/grad-school-application-guide/assets/materials/${item[key]}" target="_blank">${item.name}'s ${types[key][1]}</a></div>`;
         $(`#${key}Content`).append(sectionHtml);
       }
     });
@@ -173,14 +173,14 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
 
   $(document).on("click", ".button[data-open='exampleModal1']", function(event) {
     var id = $(this).data("id");
-    var timelinePath = "/grad-school-apply-guide/assets/materials/" + $(this).data("timeline");
+    var timelinePath = "/grad-school-application-guide/assets/materials/" + $(this).data("timeline");
     var item = data.find(i => i.id == id);
 
     $("#modalTitle").text(item.name);
     $("#modalCycle").text(`${item.cycle} cycle`);
 
     if (item.profileImageLoc) {
-      $("#modalImage").attr("src", "/grad-school-apply-guide/assets/materials/" + item.profileImageLoc).show();
+      $("#modalImage").attr("src", "/grad-school-application-guide/assets/materials/" + item.profileImageLoc).show();
     } else {
       $("#modalImage").hide();
     }
@@ -191,7 +191,7 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     $.getJSON("../assets/materials/contributionTypes.json", function(types) {
       Object.keys(types).forEach(key => {
         if (item[key]) {
-          modalContent += `<div class="cell link-cell"><a href="/grad-school-apply-guide/assets/materials/${item[key]}" target="_blank">${types[key][1]}</a></div>`;
+          modalContent += `<div class="cell link-cell"><a href="/grad-school-application-guide/assets/materials/${item[key]}" target="_blank">${types[key][1]}</a></div>`;
         }
       });
       $("#modalContent").html(modalContent);
