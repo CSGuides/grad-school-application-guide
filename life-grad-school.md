@@ -8,6 +8,8 @@ description: >-
 permalink: /life/
 ---
 
+# Life Once You Are In!
+
 Day-to-day life as a graduate student may be very different from what you are used to. That is both a challenge and an opportunity. 
 
 While master’s degree students may feel a bit like undergraduates (the graduate courses for a master’s degree can be similar to senior-level technical electives), PhD students often feel quite different, focusing primarily on research rather than courses.  
