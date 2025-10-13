@@ -1,4 +1,4 @@
-# How Applications Are Evaluated
+# How Will My Application be Evaluated?
 
 Understanding how applications are evaluated can help inform your application strategy. This description is based on the processes from the University of Michigan and the University of Massachusetts at Amherst, large indicative public research institutions, but the general process is the same at other programs. After describing the process we will summarize the implications and reinforce why it matters for you to understand this. 
 
