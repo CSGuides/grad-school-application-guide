@@ -14,9 +14,9 @@
     "id": 2,
     "name": "Priscila Santiesteban",
     "cycle": "2021",
-    "cv": "priscila/priscila-resume.pdf",
-    "transcript": "priscila/priscila-transcript.pdf",
-    "statementOfPurpose": "priscila/priscila-purpose.pdf",
+    "cv": "priscila/priscila_resume.pdf",
+    "transcript": "priscila/priscila_transcript.pdf",
+    "statementOfPurpose": "priscila/priscila_purpose.pdf",
     "profileImageLoc": "priscila/priscila.jpg",
     "tags": ["PhD", "First-Gen", "Software Engineering", "Liberal Arts Undergrad"]
   },
