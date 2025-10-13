@@ -2,16 +2,20 @@
 
 Understanding how applications are evaluated can help inform your application strategy. This description is based on the processes from the University of Michigan and the University of Massachusetts at Amherst, large indicative public research institutions, but the general process is the same at other programs. After describing the process we will summarize the implications and reinforce why it matters for you to understand this. 
 
-Master’s degree students are typically evaluated by the department as a whole, often via a committee. Ph.D. students are typically evaluated by individual faculty members (i.e., potential research advisors) with assistance from a committee. However, a smaller number of programs admit Ph.D. students to the department as whole; students match with a research advisor later. The University of Virginia is an example of a hybrid: Ph.D. admission is based on a faculty champion, but students participate in a “Rotation” program that gives a structured opportunity to match with another advisor. Knowing how, and by whom, your application will be evaluated can help you tailor it.
+Master’s degree students are typically evaluated by the department as a whole, often via a committee. Ph.D. students are typically evaluated by individual faculty members (i.e., potential research advisors) with assistance from a committee. However, a smaller number of programs admit Ph.D. students to the department as whole; students match with a research advisor later. The University of Virginia is an example of a hybrid: [Ph.D. admission is based on a faculty champion](https://github.com/fxlin/uvacs-gradhandbook-publish/blob/main/uvacs_gradhandbook-current.pdf), but students participate in a “Rotation” program that gives a structured opportunity to match with another advisor. Knowing how, and by whom, your application will be evaluated can help you tailor it.
+
 
 ## Graduate Admissions
 
 While the exact details vary between institutions, most programs have a graduate admissions committee responsible for overseeing graduate applications, assessments, and offers. Unlike undergraduate admission, graduate school applications are reviewed by the department (e.g., the Computer Science department).  This departmental committee can involve many people:
-Faculty. In many cases, this committee is a service assignment for faculty members. Faculty, especially more senior faculty, are expected to allocate a portion of their job effort to department-level activities. 
-Staff. In some cases, especially at larger programs, non-faculty professional staff assist. Broadly speaking, staff may carry out any of the activities described here except evaluating a PhD applicant’s potential research fit. 
-Students. In some cases, graduate students may assist. For example, Wes assisted with graduate admissions while he was a student at Berkeley and Madeline assisted with graduate admissions while she was a student at Michigan. In cases we are aware of where students assist, a student is never the sole evaluator of an application. 
 
-As one example, for academic year 2024-2025, the University of Michigan CSE PhD Admissions Committee was made up of 10 faculty members (1 chair and 9 representatives of various topical areas), 3 staff members, and 1 graduate student. In that same period, the separate Master’s Committee included 4 faculty members (1 chair, 1 advising, and 2 regular members) and 3 staff members. 
+**Faculty.** In many cases, this committee is a service assignment for faculty members. Faculty, especially more senior faculty, are expected to allocate a portion of their job effort to department-level activities.
+
+**Staff.** In some cases, especially at larger programs, non-faculty professional staff assist. Broadly speaking, staff may carry out any of the activities described here except evaluating a PhD applicant’s potential research fit. 
+
+**Students.** In some cases, graduate students may assist. For example, Wes assisted with graduate admissions while he was a student at Berkeley and Madeline assisted with graduate admissions while she was a student at Michigan. In cases we are aware of where students assist, a student is never the sole evaluator of an application. 
+
+As one example, for academic year 2024-2025, the University of Michigan CSE PhD Admissions Committee was made up of 10 faculty members (1 chair and 9 representatives of various topical areas), 3 staff members, and 1 graduate student. In that same period, the separate Master’s Committee included 4 faculty members (1 chair, 1 advising, and 2 regular members) and 3 staff members.  
 
 While there is some amount of automation, especially regarding numerical scores (e.g., GPA), the committees are generally responsible for providing an initial assessment of each application and then assigning some applications to relevant faculty members for closer consideration. 
 For the master’s degree track, applications may be read by multiple members of the committee.
@@ -28,6 +32,7 @@ Hiring faculty members may also choose to look at any application by name. This 
 In this light, the committee assigning an application to a faculty member and the faculty member following up on an external suggestion to look at an application flow together into the same result: the faculty member looks at the application and evaluates it. 
 
 All faculty evaluating an application (either because they were assigned it or because they found it or searched for it) typically provide both numerical scores and also a freeform assessment. While the criteria phrasing vary slightly between institutions, the Michigan CSE and UMass CICS numerical categories highlight similar aspects:
+
 
 <table>
   <tr>
@@ -64,7 +69,8 @@ Undergraduate GPA & Transcript, Taking Into Account Your Undergraduate Instituti
 Faculty members can see the completed evaluations of other faculty members and may use this to determine the next steps. If you are a faculty member and you did not find an application compelling and you see that another faculty member also gave it low marks, you gain confidence in not pursuing that student. If you are a faculty member and you found an application to be great and another faculty member found it to be good, you two may decide that you will collectively recruit that student (perhaps as co-advisors, etc.).
 
 Ultimately, a faculty member looking to recruit a new student will consider multiple factors when reviewing an application:
-How many new students the faculty member is looking to hire (e.g., “Two of my students are graduating, but one of my grants that was funding one student is ending, so I want to hire one new student …”).
+
+**1**How many new students the faculty member is looking to hire (e.g., “Two of my students are graduating, but one of my grants that was funding one student is ending, so I want to hire one new student …”).
 The relative chance of the student accepting an offer. Fewer than 50% of students who are admitted to a graduate program accept that offer. (Most students, ideally including you, will apply to multiple schools and get into multiple schools. If you have two offers of admission, you cannot accept them both.) A very attractive student will likely also receive offers from many schools. This leads to a subtle tension on the faculty side: the more attractive an application is, the more you want that student, but the less likely you are to end up with that student (because that student will also get other offers and may take one of them instead). 
 As a concrete example, in 2025, Michigan CSE admitted (i.e., extended offers to) 109 students for its PhD track and 58 of those students accepted. In that same year, Michigan offered admission to its master’s track to 218 students and 64 of those students accepted. 
 Whether the student is likely to complete the program. It is generally viewed as a poor outcome for everyone involved if a student accepts an offer into a six-year PhD program and leaves at year five without obtaining a PhD Such a student might have been better served (especially in terms of opportunity cost) by leaving at year 2 with a Master’s degree or not attending a PhD program at all. As discussed elsewhere in this guide, a primary motivation for attending a graduate program is your desired career path (e.g., to obtain a job that requires a graduate degree, which itself requires completing the program). Similarly, a master’s degree applicant who does not appear likely to complete the rigorous coursework required for that degree is unlikely to be selected. 
