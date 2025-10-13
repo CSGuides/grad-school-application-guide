@@ -13,7 +13,7 @@ permalink: /applying/
 <span class="highlight">Once you’ve decided to apply to graduate school, the next step is 
 to identify which programs to target and prepare your application materials.</span>
 
-In this section, we’ll cover two key parts of the process:
+In this section, we’ll cover key parts of the process:
 
 1. **Identifying Schools:** how to choose which graduate programs to apply to, 
 including strategies for balancing “reach,” “target,” and “safety” schools.  

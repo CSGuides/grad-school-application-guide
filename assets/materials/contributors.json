@@ -30,7 +30,7 @@
     "statementOfPurpose": "priscila/priscila-sop.pdf",
     "personalStatement": "priscila/priscila-personal.pdf",
     "profileImageLoc": "priscila/priscila.jpg",
-    "tags": ["PhD", "First-Gen", "US Undergrad", "Software Engineering"]
+    "tags": ["PhD", "First-Gen", "US Undergrad", "Software Engineering", "Liberal Arts Undergrad"]
   },
   {
     "id": 4,
@@ -58,33 +58,31 @@
     "id": 6,
     "name": "Madeline Endres",
     "cycle": "FIXME",
-    "cv": "zach/zach-cv.pdf",
-    "transcript": "zach/zach-transcript.pdf",
-    "statementOfPurpose": "zach/zach-sop.pdf",
-    "personalStatement": "endremad/Endres_headshot.jpeg",
-    "profileImageLoc": "zach/zach.jpg",
+    "statementOfPurpose": "endremad/endres-statement.pdf",
+    "personalStatement": "endremad/endres-personal.pdf",
+    "profileImageLoc": "endremad/Endres_headshot.jpeg",
     "tags": ["PhD", "US Undergrad", "Software Engineering"]
   },
   {
     "id": 5,
     "name": "Danniel Hu",
     "cycle": "FIXME",
-    "cv": "zach/zach-cv.pdf",
-    "transcript": "zach/zach-transcript.pdf",
-    "statementOfPurpose": "zach/zach-sop.pdf",
-    "personalStatement": "zach/zach-personal.pdf",
-    "profileImageLoc": "zach/zach.jpg",
+    "cv": "dannihu/hu-resume.pdf",
+    "transcript": "dannihu/hu-transcript.pdf",
+    "statementOfPurpose": "dannihu/hu-purpose.pdf",
+    "personalStatement": "",
+    "profileImageLoc": "dannihu/hu-profile.jpg",
     "tags": ["PhD", "US Undergrad", "First-Gen", "Software Engineering"]
   },
   {
     "id": 5,
     "name": "Hammad Ahmad",
     "cycle": "FIXME",
-    "cv": "zach/zach-cv.pdf",
-    "transcript": "zach/zach-transcript.pdf",
-    "statementOfPurpose": "zach/zach-sop.pdf",
-    "personalStatement": "zach/zach-personal.pdf",
+    "cv": "",
+    "transcript": "",
+    "statementOfPurpose": "",
+    "personalStatement": "",
     "profileImageLoc": "hammada/hammad_headshot.png",
-    "tags": ["PhD", "Non-US Undergrad", "International", "Computer Systems"]
+    "tags": ["PhD", "Non-US Undergrad", "International", "Computer Systems", "Liberal Arts Undergrad"]
   }
 ]
