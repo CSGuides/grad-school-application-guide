@@ -149,11 +149,11 @@
 # Student Quote Contributers
 
 - id: sathvika
-  display: Sathvika FIXME
+  display: Sathvika Prabhu
   role: Graduate Student Contributor
   cycle: FIXME cycle for
   target: Master's Programs
-  avatar: sathvika.jpg
+  avatar: sathvika.jpeg
   color: "#006699"
   
 
@@ -162,7 +162,7 @@
   role: Graduate Student Contributor
   cycle: FIXME cycle for
   target: PhD Programs
-  avatar: sdane_profile.jpg
+  avatar: sdane.jpg
   color: "#006699"
   cv:
     - file: sdane_cv.pdf

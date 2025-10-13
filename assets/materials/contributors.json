@@ -7,7 +7,7 @@
     "transcript": "sdane/sdane_transcript.pdf",
     "statementOfPurpose": "sdane/sdane_purpose.pdf",
     "personalStatement": "sdane/sdane_personal.pdf",
-    "profileImageLoc": "sdane/sdane_profile.jpg",
+    "profileImageLoc": "sdane/sdane.jpg",
     "tags": ["PhD", "International", "Computer Systems"]
   },
   {
@@ -55,7 +55,7 @@
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
     "statementOfPurpose": "dannihu/hu_purpose.pdf",
-    "profileImageLoc": "dannihu/hu_profile.png",
+    "profileImageLoc": "dannihu/hu-profile.jpg",
     "tags": ["PhD", "First-Gen", "Software Engineering", "Tranfser Student"]
   },
   {
