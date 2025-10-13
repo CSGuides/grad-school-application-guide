@@ -36,11 +36,11 @@
     "id": 4,
     "name": "Kaia Newman",
     "cycle": "FIXME",
-    "cv": "kaia/kaia-cv.pdf",
-    "transcript": "kaia/kaia-transcript.pdf",
-    "statementOfPurpose": "kaia/kaia-sop.pdf",
-    "personalStatement": "kaia/kaia-personal.pdf",
-    "profileImageLoc": "kaia/kaia.jpg",
+    "cv": "knewman/newman-cv.pdf",
+    "transcript": "knewman/newman-transcript.pdf",
+    "statementOfPurpose": "knewman/newman-purpose.pdf",
+    "profileImageLoc": "knewman/newman-profile.png",
+    "GREscores": "knewman/newman-gre.png",
     "tags": ["PhD", "US Undergrad","Low-GPA", "Software Engineering"]
   },
   {
@@ -64,24 +64,20 @@
     "tags": ["PhD", "US Undergrad", "Software Engineering"]
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "Danniel Hu",
     "cycle": "FIXME",
     "cv": "dannihu/hu-resume.pdf",
     "transcript": "dannihu/hu-transcript.pdf",
     "statementOfPurpose": "dannihu/hu-purpose.pdf",
     "personalStatement": "",
-    "profileImageLoc": "dannihu/hu-profile.jpg",
+    "profileImageLoc": "dannihu/hu-profile.png",
     "tags": ["PhD", "US Undergrad", "First-Gen", "Software Engineering"]
   },
   {
-    "id": 5,
+    "id": 8,
     "name": "Hammad Ahmad",
     "cycle": "FIXME",
-    "cv": "",
-    "transcript": "",
-    "statementOfPurpose": "",
-    "personalStatement": "",
     "profileImageLoc": "hammada/hammad_headshot.png",
     "tags": ["PhD", "Non-US Undergrad", "International", "Computer Systems", "Liberal Arts Undergrad"]
   }

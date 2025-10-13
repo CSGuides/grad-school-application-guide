@@ -2,5 +2,6 @@
   "cv": [1, "CV/Resume", "applying/#preparing-your-resume"],
   "transcript": [2, "Transcript", "applying/#transcript"],
   "statementOfPurpose": [3, "Statement of Purpose", "applying/#writing-your-essays"],
-  "personalStatement": [4, "Personal Statement", "applying/#writing-your-essays"]
+  "personalStatement": [4, "Personal Statement", "applying/#writing-your-essays"],
+  "GREscores":[4, "GRE Scores", "applying/#writing-your-essays"]
 }
