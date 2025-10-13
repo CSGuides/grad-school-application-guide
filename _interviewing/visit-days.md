@@ -1,58 +1,108 @@
 # Visit Days: You Interview a Grad School
 
-If you receive an offer, you may be invited to an **in-person or virtual visit day**. Most U.S. PhD programs cover your expenses.  
-Attend these if you can — they’re invaluable for comparing fit across schools.
+For almost every PhD program and many master’s programs, if you are offered admission, the department will also pay for you to fly out and visit in person. Visit day invitations are typically only extended to people who are admitted, but in some rare cases you may be invited to interview on a visit day without your admission status being certain.
 
-{% include quote.html content="Attend these visit days. Depending on the number of offers, you may not attend all, but go to at least two. The difference between visits can be illuminating. Missing class for visit days should be considered an excused absence—your advisors can advocate for you." user="kleach" %}
+When possible, the department covers all costs (travel, lodging, food, etc.). In some cases (COVID, budget emergencies), visit days may be conducted remotely. In addition, the reimbursement amount is typically sufficient for students already in the US to visit US schools, but is rarely enough for international students to visit US schools. 
 
----
+{% include quote.html content=" It’s worth stating explicitly: you should attend these visit days. Depending on the number of offers you receive, you may not be able to—or want to—attend all visit days, but I encourage my students to go to no less than two. The delta between visits can be very illuminating. It’s also worth stating that missing class for visit days should be considered an excused absence. If you run into any trouble with a professor giving you a hard time, reach out to one of your letter writers (or advisor) for support—more often than not, they will gladly advocate for you.
+" user="kleach" %} 
 
-### What to Expect
+A department’s visit day activities typically last one to two days. Meetings with potential advisors, meetings with current students, listening to presentations about the department and its policies and opportunities, and social or town activities are all common.
 
-Visit days often include:
+{% include quote.html content="  In my opinion, the most important activity on a visit day is meeting with the advisor(s) who wants to recruit you, and the next most important ones are meeting students of that advisor and other professors who could advise you/who you could work with.
+" user="kaia" %} 
 
-- Meetings with potential advisors and students  
-- Department presentations  
-- Social or community events  
+**Talking to Students.** Graduate students will give you the most accurate information about what it is like to be a graduate student. Current graduate students of a potential advisor will give you the best idea of what it is like to be a graduate student who works with that potential advisor. We encourage you to prioritize asking questions that will help you establish a personality fit. It is much easier to assess a research topic alignment remotely (e.g., by looking at the potential advisor’s papers). It is much harder to tell if you will actually be comfortable working with a potential advisor. 
 
-{% include quote.html content="The most important activity on a visit day is meeting with the advisor(s) who want to recruit you, and the next most important ones are meeting students of that advisor and other professors you could work with." user="kaia" %}
+Kaia Newman asked a number of questions of advisors and graduate students, both virtually and via in-person visit days for multiple schools (Arizona State U., Carnegie Mellon U., North Carolina State U., Oregon State U., U. Southern California, and U. Virginia). She emailed and met with students and professors who were interested in working with her before the in-person visit days as well. 
 
-Talking to current students gives you the clearest sense of **advisor fit** and **department culture**.  
 
----
+{% include quote.html content="I prefer written information, since I can refer back to it and I express my questions and thoughts more clearly when I have time to write them down.
+" user="kaia" %} 
 
-### Inverted Question Strategy
 
-Because departments are trying to recruit you, answers may sound overly positive.  
-You can phrase questions to get more realistic information—for example:
+{% include quote.html content="Kaia’s questions for professors included:
+-What is your advising style?
+-What are your favorite and least favorite parts of being a professor?
+-How do you choose a first project for a new Ph.D. student? How did your current students get their first projects?
+-What does a week in your lab look like?
+-Do you think there are many opportunities available for interdisciplinary collaboration at this university?
+-What are the most important qualities of a successful Ph.D. student?
+-Why did you choose to become a professor?
+-Can I talk to your students (or other people they work with, if they’re new) to discuss more about the environment and opportunities at [school]?
 
-- Instead of: “Is it easy to switch advisors?”  
-  Ask: “Do you know anyone who has switched advisors? How did that go?”  
-- Instead of: “Is there a reporting process for misconduct?”  
-  Ask: “Do you know anyone who’s used that process? What was it like?”
+Kaia’s questions for students included:
+-What other places were you choosing between, and why did you choose [school]?
+-How many times a week do you meet with your advisor, and how does this compare to other advisors?
+-What’s your least favorite part about being a student at [school]?
+-Do you talk to other students in your lab? How is building a community at [school]?
+-How many people share a lab? What does the lab building look like?
+-What is the qualifying process at [school] like?
+-What projects are you working on right now?
+-What is some advice that you would give yourself if you could go back in time?
+-Do labs collaborate with one another?
+-Have you ever heard of someone switching advisors?
+-Are there specific faculty you’ve heard of that you wouldn’t want to work with?
+-Are there any scandals in the department that you’ve heard about?
+-How does the cost of living in [city] compare with your stipend?
+-How big is the department? How many Ph.D. students are there in computer science?
 
-The goal is to learn from how people respond—not just what they say.
+Other potential questions include:
+-Where have recently-graduated students ended up? What sort of jobs did they get? (Do those align with your career goals as an applicant?)
+-How many students do you know who were able to work as teaching assistants? As full instructors of record?
+-How many master’s degree students do you know who were hired as paid research assistants?
 
----
+" user="kaia" %} 
+
+**Inverted Phrasing.** By the time you are attending a visit day, the school is trying to convince you to accept the offer. Many applicants have multiple offers (see elsewhere in this guide for raw numbers). Many faculty and students will have been told to put a positive outlook on things and convince all of the visitors to accept. One the one hand, that can reduce pressure. On the other hand, that can make it difficult to be confident that you are getting precise information: you may wonder if people are just telling you what you want to hear. Sadly, direct experience with visit days (from both sides) suggests that this bias is quite real. 
+
+If you ask something like “Do people change their advising situations here commonly? I don’t want to have to worry about changing groups all the time” you are likely to get an answer like “No, almost everyone settles down with their first advisor, don’t worry about that!” But if you were instead to ask “Do people change their advising situations here commonly? I think I might want to do interdisciplinary research and I want to add a co-advisor without much hassle” you are likely to get an answer like ”Sure, I know many people who changed or added advisors, don’t worry about that!” Those two claims aren’t strictly contradictory, but if you only hear one of them (because you only ask one framing of the question) it can be hard to tell what the real situation is. This isn’t malicious: people are not trying to deceive you, they are trying to solve your problem. Informally, your question about “X” gets translated into “Is it possible for X to turn out the way I’d like it to if I come here?”, to which the answer is almost always “Yes, that’s possible!” 
+
+People are not maliciously lying but many will tell you what you want to hear if it’s possible to do so. As a result, you (logically) get a larger amount of information when you implicitly indicate that you want X but they are unable to tell you what you want to hear. Similarly, if you know the answer to a question, you get some information (e.g., about department climate) if they don’t know it. 
+
+This leads to a conversational strategy where you “invert” the implicit direction of your question. This explanation may feel abstract, so let us consider three examples.
+
+- Suppose you believe you will benefit from more structured meetings. Perhaps you know that you do not have good scheduling habits on your own, and so you would really appreciate being held accountable for meetings. If you just ask a student “I want to stay on task; does your advisor care if you attend group meetings?”, you’ll receive “Of course, yes!” as an answer, which is basically no information. But if you invert things and ask “I know some students want a bit more freedom and do their best creative thinking alone; if I skipped the group meetings, would that be OK?”. 
+  - Suppose they say “Yes, it’s OK to skip meetings.” You gain no information; they may just be telling you what you want to hear.
+  - Suppose they say “No, actually, my advisor cares about that and you really have to be there.” The person thinks they are disappointing you, so this answer gives you a lot of confidence. 
+- Suppose you have seen friends be mistreated based on race, gender, ethnicity or some other characteristic. You know that happens fairly frequently at every school. You want to figure out what the culture is around that sort of thing (e.g., is it accepted? is the reporting process easy?). If you just ask “Is there a reporting process for misconduct here? Are there things a mistreated student can do?”, you’ll receive “Of course!” as an answer. That’s true at every school, and it’s basically no information. But if you invert things and ask “I know some students who are worried about going to a school where students are mistreated. Do you know anyone who has complained or reported that sort of thing here? What was that like?” 
+  - Suppose they say “No, I don’t know anyone like that.” Since you know that does actually happen commonly, what you have learned is that the climate and culture around reporting are very poor (e.g., people don’t feel comfortable talking about that sort of thing with their friends).
+  - Suppose they say “Actually, yes, over the five years I’ve been here two of my friends have had issues with grading treatment in class and potential bias. They both said it wasn’t fun, but ultimately they were able to get the grades they deserved.” The person thinks they are disappointing you, so this answer gives you a lot of confidence that reporting and resolving complaints is normalized. (This is actually a much more positive result than hearing nothing.)
+- Suppose you want to have the freedom to switch advisors if the first one doesn’t work out. If you just ask someone “Is it possible to switch advisors here?”, you’ll receive “Of course, yes, there’s a simple form …” as an answer, which is basically no information. Every department has such a form or process, but at some departments it is very hard to switch in practice even if it is easy on paper (e.g., perhaps students fear the prior advisor will make their committees difficult going forward, etc.). Similarly, there is typically a moderate amount of advisor switching in the background, so you know what the general answer is. If you instead invert things and ask “I know some students are worried about a lot of advisor switching. Do you know anyone who had to switch advisors?”
+  - Suppose they say “No, I don’t know anyone like that. Don’t worry about it!” You gain no information (or information that paints things negatively). Since you know advisor switching does (or should) happen, if people are not hearing about it, that’s probably a bad sign (e.g., it’s very difficult in practice). On average, a more senior graduate student “should” know someone who switched advisors. 
+  - Suppose they say “Actually, yes, over the last few years I know two people who switched advisors. It was a little tricky, and one of them said they felt like they ended up a semester behind, but it seemed to work out.” The person thinks they are disappointing you, so this answer gives you a lot of confidence that it is possible. (Even though it is described as somewhat onerous, this is actually a much more positive result than people saying they have never heard of anyone switching.) 
+
+Consider writing your persuasive statement of purpose. Elsewhere in this guide, we encourage you to provide concrete evidence, and the same concept can apply to your visit day questions. While there are many fact-based, yes/no questions you want answered, try to frame your questions to collect evidence. For example, instead of asking “will this program prepare me to teach computer science in a liberal arts school?” (to which the answer is most likely “yes, sure!”), ask questions like “how many courses a semester have graduate students as instructors of record?” Just like with the phone interviews, what information professors and students share with you is just as important as how they respond. Be observant, and take lots of notes on your visit.
 
 # Making Decisions
+In the United States, universities coordinate to require graduate school decisions on the same date: April 15th. That means that if you hear from one University in February, you do not have to decide immediately, and can wait to hear from another one in March. 
 
-In the U.S., graduate schools coordinate deadlines around **April 15th**.  
-You can (and should) wait to make decisions until you have all offers in hand.
+{% include quote.html content="Don’t believe everything you read on Reddit or similar platforms during grad school applications. I was on my phone day and night, constantly switching between Reddit and my email while waiting for decisions, and that period was very bad for my mental health. Being here now is proof that not everything you read is true. I came across so many profile evaluations and posts where people gave advice with unrealistically high expectations, and it made me doubt myself. I am not from a Tier 1 or Tier 2 university in India, and I didn’t have the same exposure and resources that students in such universities usually have. While my GPA was good, I didn’t have published papers. Having those things definitely helps, but lacking them doesn’t disqualify you. The process is extremely holistic, and every part of your journey matters, so mention everything you’ve done and accomplished, whether small or big. Don’t beat yourself up; the process is uncertain by nature. Even now, I can’t pinpoint exactly what helped me get here, but I presume it was my GPA, projects and hackathons, strong recommendation letters, and a good statement of purpose. I may not have been as academically accomplished as other applicants who didn’t get in, and there were times I even felt guilty for taking someone else’s place here. But trust me, you will often receive more than you expect. You will get what feels like unearned, unmerited, undeserved favor for the hard work you’ve done so far, and it will carry you further than you think. One thing I would emphasize is to make sure your statement of purpose is true to your life. I don’t know for sure, but in my case, I was extremely truthful in my essays. They had a genuine personal connection while also being technically strong, at least according to me back then. So stay patient, stay grounded, and remember that your story matters more than any comment you read online.
+" user="sathvika" %} 
 
-{% include quote.html content="Don’t believe everything you read on Reddit during applications. The process is uncertain and holistic. Stay patient and grounded—your story matters more than any comment you read online." user="sathvika" %}
+Students often incorporate a number of factors into these decisions: potential advisor relationship fit, potential research interest fit, stipend amount, location, ranking, research advisor’s record of placing students in good jobs, department morale, etc. The advice elsewhere in this guide (e.g., things to ask at interviews and visit days) will help you have multiple pieces of information for comparison. 
 
-When comparing offers, consider both objective and personal factors:  
-advisor fit, research interest alignment, stipend, location, ranking, morale, and department climate.
+We highlight two common considerations for additional discussion: 
 
-{% include quote.html content="Students often make decisions based on non-ranking factors. A student at a lower-ranked school can thrive under the right advisor, just as a top-ranked program can be miserable if it’s not a fit." user="weimer" %}
+**Feelings and Rankings.** Some students end up choosing between two options, one of which looks better “on paper” (e.g., higher ranking, household name organization, etc.) and one of which feels better personally. There is no one-size-fits-all answer to these considerations, but we encourage you to consider master degree vs. PhD distinctions and ranking tiers.
 
-{% include quote.html content="All other things being equal, I encourage students to prioritize themselves rather than rankings, especially for PhD programs. It’s an endurance race—comfort, community, and location all matter." user="kleach" %}
+First, a higher ranking (“prestige”) is typically more important for the jobs one pursues with a master’s degree. Since master’s programs focus on coursework, rather than individual scholarship, when you are evaluated for subsequent jobs the recognized strength of your degree-granting institution matters more. A PhD student can stand out by doing unique research at a less-selective school, but a master’s degree student typically does not do individual research. In addition, a master’s degree is typically much shorter (e.g., 1-2 years vs. 5-6 years). All other things being equal, if you could get a master’s degree at CMU (but you hate Pittsburgh) or a master’s degree at the school ranked #100 (in a town you love), you should probably accept the CMU offer. 
 
-Finally, be aware of **exploding industry offers**—companies may pressure you to decide before April 15th.  
-While they might say you’ll have to “reapply,” strong candidates are almost always re-hired quickly in the next cycle.
+Second, people often pay more attention to rankings than they should. Rankings are better interpreted as broad “tiers” or “categories” and not as a specific total ordering. For example, within the top twenty or thirty CS departments, the exact ranking of the program will matter much less than a PhD student’s advisor-advisee fit and enthusiasm to complete the program. If you love the camaraderie of the department and are excited about the town and research topics at the PhD program at School Ranked #20, but you also have an offer from School Ranked #10 where everything seems dreary and you don’t feel as much of a fit with the potential advisor, you’ll should choose #20, even though it is nominally ranked lower. Ranking differences only really start to come into play when the schools are quite far apart in ranking, at which point the ranking starts to be more indicative of available resources, collaborators, and other impacts that cumulative matter over four to six years. There is a common adage that the best student at MIT and the best student at any other (lower-ranked or less-selective) school are just as good -- it’s just that the distribution at the lower-ranked school has a longer tail. 
 
----
+{% include quote.html content="Claire Le Goues, now a tenured professor at CMU (ranked about #1), was once a graduate student at the University of Virginia (then ranked about #30). Priscila Santiesteban had an offer from Stanford (then ranked about #5) but chose to attend Michigan (then ranked about #10). And so on. Students commonly make decisions based on non-ranking assessments.
+" user="weimer" %} 
 
+{% include quote.html content="All other things being equal, I always encourage students to prioritize themselves rather than school rankings when making this final decision, especially for PhD programs. It’s an endurance race, and giving yourself every advantage to make it over the finish line is critical to success. Don’t discount things like weather, housing, city size, location, etc. While we encourage you not to be picky when applying to schools, now is the time to bring back all these considerations.
+" user="kleach" %} 
 
+We encourage you to talk through potential decisions with local advisors, people you meet at conferences, professors in other classes, and so on. By contrast, in our personal opinion, family members tend not to be good sources of guidance in these situations: in most cases they lack specific knowledge of what graduate degree work entails, and thus tend to over-prioritize location information and their outdated assessments of ranking. 
+
+**Simultaneous Industrial Offers.** Many students apply to industry (e.g., Microsoft, Google, etc.) and graduate school at the same time. In most cases, this results in an offer from the industrial position arriving before the graduate school due date of April 15th. The industrial company almost always then says “this offer will expire in two weeks, you have to decide now” and “if you don’t take this offer, it goes away, and if you apply again you have to go through the system again”. This “short-fuse” or “exploding offer” strategy is designed to put pressure on students — to encourage them to feel fear and take the safe option. In our personal opinions, even if this is not actively malicious (logistically, companies can’t hold positions open forever) it is one of the most structurally deceptive things companies do to students in this setting. 
+
+The company can tell that you are the sort of person who might also be applying to graduate programs. If you are such a qualified person, it is to the company’s advantage to hire you, rather than having you go to the graduate program. It is thus to the company’s advantage to highlight the safety of their available offer, rather than the uncertainty of the graduate program offer, which might not arrive until March. If you choose the company’s offer out of anxiety, it is to the company’s benefit … but not yours. It is to your benefit (following optimal game theory) to avoid making irreversible decisions until you have as much information as possible. 
+
+When the company says “this offer will expire, and if you don’t take it you’ll have to re-apply through our system”, that’s not a lie, but it is very deceptive in almost all cases. The reason is that companies keep records of interviews and applications for a few years and larger companies are constantly hiring. Companies like Microsoft and Google hire throughout the year, every year (barring the occasional hiring freeze). If you were good enough to receive an offer in October, you will also be good enough to receive an offer in March: people enter and exit those companies all the time. In addition, large companies are not interested in wasting work. While it is true that you will have to reapply through their system, if they see that you had a skills interview or behavioral interview within the last year or half-year, after you reapply through the system you will find that your application skips to Step 5 (etc.) rather than going through Steps 1-4 again: it is not a good use of their employee time and salary money to double interview you. 
+
+In Wes Weimer’s personal experience, every single time one of his advisees has turned down an industrial position to wait for graduate school and then re-applied for that industrial position later, the advisee was fast-tracked through the process and received the offer again. 
 
