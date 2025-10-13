@@ -6,10 +6,10 @@ Your application essays are one of the last things you have control over as you 
 
 Based on decades of combined experience across multiple schools (Berkeley, MIT, Virginia, Michigan, UMass, etc.), we identify critical aspects to keep in mind for essays. These are based on the principles of student opportunity cost (you have limited space and each thing you include is something else you cannot include) and that faculty members are making decisions while reading many of these and balancing risk and reward. In summary:
 
--- **1.** Length Constraints and Differentiating Information. Many applicants overlook these opportunity costs and spend words on information that is not specific to them. Instead, you should efficiently present information that differentiates you from others. 
--- **2.**  Misleading Prompts and Retention. Many applicants misinterpret the webpage prompts for application essays and include irrelevant information. Instead, you should include information that will help your application, including arguing that you are likely to complete the graduate program.
--- **3.**  Persuasive Essays. Many applicants imagine the essays should be descriptive (“I did X and then I did Y”). In reality, the most effective essays are persuasive and convince the reader that you would be a high-benefit, low-cost graduate student. 
--- **4.**  Argument and Evidence. Many applicants include unsupported assertions (“I can conduct rigorous analyses”). Instead, you should present concrete evidence leading to such conclusions. 
+- Length Constraints and Differentiating Information. Many applicants overlook these opportunity costs and spend words on information that is not specific to them. Instead, you should efficiently present information that differentiates you from others. 
+-  Misleading Prompts and Retention. Many applicants misinterpret the webpage prompts for application essays and include irrelevant information. Instead, you should include information that will help your application, including arguing that you are likely to complete the graduate program.
+-  Persuasive Essays. Many applicants imagine the essays should be descriptive (“I did X and then I did Y”). In reality, the most effective essays are persuasive and convince the reader that you would be a high-benefit, low-cost graduate student. 
+-  Argument and Evidence. Many applicants include unsupported assertions (“I can conduct rigorous analyses”). Instead, you should present concrete evidence leading to such conclusions. 
 
 We consider each issue in turn. These apply to both “personal statements” and “research statements”. In addition, this reasoning also applies to what you want in the letters of recommendation written about you. 
 
@@ -45,12 +45,12 @@ Instead, students who are not happy in graduate school (see elsewhere in this gu
 
 The chain of reasoning might go like this:
 
---**1.** Faculty members want everyone who is admitted to complete the graduate program and earn a degree.
---**2.** Faculty members know the primary reason for people leaving the graduate program is a lack of motivation to continue (unhappiness).
---**3.** Faculty members thus want to know, in advance, if a student is motivated or not to complete the program. If there are two applicants and you only have space for one, and one of them is strongly motivated, you are likely to choose the motivated one. 
---**4.** Faculty members know that one of the primary reasons to get a PhD or a master’s degree is because you want a particular career (such as tenure-track professor). 
---**5.** Faculty members believe that you are more likely to stay in the program and complete the graduate degree if you think our graduate program will help you attain those career goals. Is this degree a necessary step along your career path?
---**6.** Faculty members thus direct the webpage essay prompts to be written with an emphasis on motivation.
+- Faculty members want everyone who is admitted to complete the graduate program and earn a degree.
+- Faculty members know the primary reason for people leaving the graduate program is a lack of motivation to continue (unhappiness).
+- Faculty members thus want to know, in advance, if a student is motivated or not to complete the program. If there are two applicants and you only have space for one, and one of them is strongly motivated, you are likely to choose the motivated one. 
+- Faculty members know that one of the primary reasons to get a PhD or a master’s degree is because you want a particular career (such as tenure-track professor). 
+- Faculty members believe that you are more likely to stay in the program and complete the graduate degree if you think our graduate program will help you attain those career goals. Is this degree a necessary step along your career path?
+- Faculty members thus direct the webpage essay prompts to be written with an emphasis on motivation.
 
 
 Unfortunately, between the start and the end of that chain, the words changed. The prompt should perhaps say something like “Convince us that you will complete the program if you are admitted.” Instead, it says something like “Tell us about your motivation and why our program will help you attain your goals.” This is what is known, in research, as a [construct validity error](https://en.wikipedia.org/wiki/Construct_validity). Every step along that chain of reasoning makes sense. But somehow we end up with prompts that students tend to respond to by writing things like:
@@ -66,10 +66,10 @@ Many applicants assume that the essays they write should be descriptive. This is
 Your application strongly, strongly benefits from being persuasive. That is, your application essays should make the explicit argument that you are a high-reward, low-risk applicant who is likely to succeed at, and complete, the graduate program. 
 
 The most common argument structure is, implicitly, that the past predicts the future. Broadly, graduate students carry out certain activities (depending on PhD vs. Master’s track, etc.):
--- **1.** Taking graduate classes
--- **2.** Conducting independent research 
--- **3.** Assisting with teaching
--- **4.** Serving on local or international committees
+- Taking graduate classes
+- Conducting independent research 
+- Assisting with teaching
+- Serving on local or international committees
 
 The most direct argument is that you have prior experience and success with some subset of those activities and are thus likely to succeed at them in the future. For example, if you were a very effective teaching assistant as an undergraduate, you will probably be a very effective teaching assistant as a graduate student. If you submitted a paper to a peer-reviewed venue as an undergraduate, you will probably be able to do so again as a PhD student. And so on.
 
