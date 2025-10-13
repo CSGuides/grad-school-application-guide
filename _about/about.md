@@ -21,18 +21,6 @@ Priscila Santiesteban and Madeline Endres are the primary
 maintainers of this version of the guide (there are older versions out
 there, but we anticipate this site to be most up-to-date).
 
-# Additional Contributors and Student Perspectives
-
-In addition to the authors listed above, we thank several graduate students and contributors
-who shared their personal experiences, stories, and application reflections included throughout this guide.
-These individuals are not formal authors but have provided valuable context and insight.
-
-- Sathvika — Shared reflections on applying to graduate programs and overcoming self-doubt.
-- [Yu Huang](https://yuhuang-lab.github.io/) — Contributed notes on international student experiences and funding.
-- Zohreh [LastName] — Provided comments on balancing career goals and personal commitments during applications.
-- Hanchi [LastName] — Offered feedback on writing statements of purpose and letters of recommendation.
-- Lauren [LastName] — Contributed experiences with U.S. vs. non-U.S. application timelines.
-
 
 # Contributing
 
@@ -52,8 +40,9 @@ typo)?  Please [create an issue]({{site.repo}}/issues) on our GitHub project.
 
 # Acknowledgments
 
-Many wise and wonderful people were kind enough to grant Wes the boon of their
-wisdom on this subject. They include, but are not limited to:
+In addition to the authors listed above, we thank several graduate students and contributors
+who shared their personal experiences, stories, and application reflections included throughout this guide.
+These individuals are not formal authors but have provided valuable context and insight.
 
 On the faculty side, we are indebted to:
 - Hammad Ahmad (Assistant Teaching Professor, Carnegie Mellon University)
