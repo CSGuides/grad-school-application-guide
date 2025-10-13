@@ -36,11 +36,11 @@
     "id": 4,
     "name": "Kaia Newman",
     "cycle": "FIXME",
-    "cv": "knewman/newman-cv.pdf",
-    "transcript": "knewman/newman-transcript.pdf",
-    "statementOfPurpose": "knewman/newman-purpose.pdf",
-    "profileImageLoc": "knewman/newman-profile.png",
-    "GREscores": "knewman/newman-gre.png",
+    "cv": "knewman/newman_cv.pdf",
+    "transcript": "knewman/newman_transcript.pdf",
+    "statementOfPurpose": "knewman/newman_purpose.pdf",
+    "profileImageLoc": "knewman/newman_profile.png",
+    "GREscores": "knewman/newman_gre.png",
     "tags": ["PhD", "US Undergrad","Low-GPA", "Software Engineering"]
   },
   {
@@ -58,8 +58,8 @@
     "id": 6,
     "name": "Madeline Endres",
     "cycle": "FIXME",
-    "statementOfPurpose": "endremad/endres-statement.pdf",
-    "personalStatement": "endremad/endres-personal.pdf",
+    "statementOfPurpose": "endremad/endres_statement.pdf",
+    "personalStatement": "endremad/endres_personal.pdf",
     "profileImageLoc": "endremad/Endres_headshot.jpeg",
     "tags": ["PhD", "US Undergrad", "Software Engineering"]
   },
@@ -67,10 +67,10 @@
     "id": 7,
     "name": "Danniel Hu",
     "cycle": "FIXME",
-    "cv": "dannihu/hu-resume.pdf",
-    "transcript": "dannihu/hu-transcript.pdf",
-    "statementOfPurpose": "dannihu/hu-purpose.pdf",
-    "profileImageLoc": "dannihu/hu-profile.png",
+    "cv": "dannihu/hu_resume.pdf",
+    "transcript": "dannihu/hu_transcript.pdf",
+    "statementOfPurpose": "dannihu/hu_purpose.pdf",
+    "profileImageLoc": "dannihu/hu_profile.png",
     "tags": ["PhD", "US Undergrad", "First-Gen", "Software Engineering"]
   },
   {
