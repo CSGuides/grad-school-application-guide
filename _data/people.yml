@@ -197,6 +197,12 @@
   target: PhD Programs
   avatar: priscila.jpg
   color: "#006699"
+  cv:
+    - file: priscila_resume.pdf
+  transcript:
+    - file: priscila_transcript.pdf
+  statementOfPurpose:
+    - file: priscila_purpose.pdf
 
 - id: danni
   display: Danniel Hu

@@ -13,11 +13,10 @@
   {
     "id": 2,
     "name": "Priscila Santiesteban",
-    "cycle": "2021-2022",
-    "cv": "priscila/priscila-cv.pdf",
+    "cycle": "2021",
+    "cv": "priscila/priscila-resume.pdf",
     "transcript": "priscila/priscila-transcript.pdf",
-    "statementOfPurpose": "priscila/priscila-sop.pdf",
-    "personalStatement": "priscila/priscila-personal.pdf",
+    "statementOfPurpose": "priscila/priscila-purpose.pdf",
     "profileImageLoc": "priscila/priscila.jpg",
     "tags": ["PhD", "First-Gen", "Software Engineering", "Liberal Arts Undergrad"]
   },
@@ -36,10 +35,7 @@
     "id": 4,
     "name": "Zachary Karas",
     "cycle": "FIXME",
-    "cv": "zkaras/zkaras-cv.pdf",
-    "transcript": "zkaras/zkaras-transcript.pdf",
     "statementOfPurpose": "zkaras/zkaras_purpose.pdf",
-    "personalStatement": "zkaras/zkaras-personal.pdf",
     "profileImageLoc": "zkaras/zkaras_profile.png",
     "tags": ["PhD", "Low-GPA", "First-Gen", "Software Engineering", "Returning-Adult"]
   },
@@ -69,7 +65,7 @@
     "cv": "rohit/rohit_cv.pdf",
     "transcript": "rohit/rohit_transcript.pdf",
     "statementOfPurpose": "rohit/rohit_purpose.pdf",
-    "profileImageLoc": "rohit/rohit_profile.png",
+    "profileImageLoc": "rohit/rohit_profile.jpeg",
     "tags": ["Master's"]
   }
 ]
