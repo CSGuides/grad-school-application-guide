@@ -70,7 +70,7 @@
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
     "statementOfPurpose": "dannihu/hu_purpose.pdf",
-    "profileImageLoc": "dannihu/hu_profile.png",
+    "profileImageLoc": "/assets/materials/dannihu/hu_profile.png",
     "tags": ["PhD", "US Undergrad", "First-Gen", "Software Engineering"]
   },
   {
