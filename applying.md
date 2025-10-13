@@ -17,7 +17,9 @@ In this section, we’ll cover two key parts of the process:
 
 1. **Identifying Schools:** how to choose which graduate programs to apply to, 
 including strategies for balancing “reach,” “target,” and “safety” schools.  
-2. **Writing Application Essays:** how to approach statements of purpose, personal statements, 
+2. **Letters of Reccomendation:** how do you approach professors for letters, when is the best time to ask,
+and who should you ask. 
+3. **Writing Application Essays:** how to approach statements of purpose, personal statements, 
 and other written materials effectively.
 
 Each subsection includes practical advice, quotes from students and faculty, and examples to guide your preparation.  
