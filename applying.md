@@ -8,6 +8,8 @@ description: >-
 permalink: /applying/
 ---
 
+# I've Decided to Apply! What Now?
+
 <span class="highlight">Once you’ve decided to apply to graduate school, the next step is 
 to identify which programs to target and prepare your application materials.</span>
 
