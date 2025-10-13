@@ -61,7 +61,7 @@
     "cv": "zach/zach-cv.pdf",
     "transcript": "zach/zach-transcript.pdf",
     "statementOfPurpose": "zach/zach-sop.pdf",
-    "personalStatement": "materials/endremad/Endres_headshot.jpeg",
+    "personalStatement": "endremad/Endres_headshot.jpeg",
     "profileImageLoc": "zach/zach.jpg",
     "tags": ["PhD", "US Undergrad", "Software Engineering"]
   },
@@ -84,7 +84,7 @@
     "transcript": "zach/zach-transcript.pdf",
     "statementOfPurpose": "zach/zach-sop.pdf",
     "personalStatement": "zach/zach-personal.pdf",
-    "profileImageLoc": "/assets/materials/hammada/hammad_headshot.png",
+    "profileImageLoc": "hammada/hammad_headshot.png",
     "tags": ["PhD", "Non-US Undergrad", "International", "Computer Systems"]
   }
 ]
