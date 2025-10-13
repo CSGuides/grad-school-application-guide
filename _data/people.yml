@@ -137,19 +137,13 @@
   color: "#7600bc"  
   cycle: "2023-2024"
   target: Research Academia Positions
-  resume:
+  cv:
     - file: Endres_cv_feb.pdf
-  research:
-    - file: Endres_researchStatement.pdf
-      description: Tenure-track research statement.
-  teaching:
-    - file: Endres_teachingStatement.pdf
-      description: Three pages, split between classroom instruction and graduate student mentoring.
-  diversity:
-    - file: Endres_diversityStatement.pdf
-  cover: 
-    - file: Endres_coverLetter.pdf
-      description: Generalized cover letter.
+  statementOfPurpose:
+    - file: endres_statement.pdf
+  personalStatement:
+    - file: endres_personal.pdf
+  
 
 ################################################################################
 # Student Quote Contributers
