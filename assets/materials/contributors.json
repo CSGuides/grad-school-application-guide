@@ -1,28 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Serra FIXME",
+    "name": "Serra Dane",
     "cycle": "FIXME",
-    "cv": "serra/serra-cv.pdf",
-    "transcript": "serra/serra-transcript.pdf",
-    "statementOfPurpose": "serra/serra-sop.pdf",
-    "personalStatement": "serra/serra-personal.pdf",
-    "profileImageLoc": "serra/serra.jpg",
-    "tags": ["PhD", "International", "Non-US-Undergrad", "Computer Systems"]
+    "cv": "sdane/sdane_cv.pdf",
+    "transcript": "sdane/sdane_transcript.pdf",
+    "statementOfPurpose": "sdane/sdane_purpose.pdf",
+    "personalStatement": "sdane/sdane_personal.pdf",
+    "profileImageLoc": "sdane/sdane_profile.jpg",
+    "tags": ["PhD", "International", "Computer Systems"]
   },
   {
     "id": 2,
-    "name": "Sathvika FIXME",
-    "cycle": "FIXME",
-    "cv": "sathvika/sathvika-cv.pdf",
-    "transcript": "sathvika/sathvika-transcript.pdf",
-    "statementOfPurpose": "sathvika/sathvika-sop.pdf",
-    "personalStatement": "sathvika/sathvika-personal.pdf",
-    "profileImageLoc": "sathvika/sathvika.jpg",
-    "tags": ["Master's", "International", "Non-US-Undergrad"]
-  },
-  {
-    "id": 3,
     "name": "Priscila Santiesteban",
     "cycle": "2021-2022",
     "cv": "priscila/priscila-cv.pdf",
@@ -30,10 +19,10 @@
     "statementOfPurpose": "priscila/priscila-sop.pdf",
     "personalStatement": "priscila/priscila-personal.pdf",
     "profileImageLoc": "priscila/priscila.jpg",
-    "tags": ["PhD", "First-Gen", "US Undergrad", "Software Engineering", "Liberal Arts Undergrad"]
+    "tags": ["PhD", "First-Gen", "Software Engineering", "Liberal Arts Undergrad"]
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Kaia Newman",
     "cycle": "FIXME",
     "cv": "knewman/newman_cv.pdf",
@@ -41,43 +30,46 @@
     "statementOfPurpose": "knewman/newman_purpose.pdf",
     "profileImageLoc": "knewman/newman_profile.png",
     "GREscores": "knewman/newman_gre.png",
-    "tags": ["PhD", "US Undergrad","Low-GPA", "Software Engineering"]
+    "tags": ["PhD", "Low-GPA", "Software Engineering"]
+  },
+  {
+    "id": 4,
+    "name": "Zachary Karas",
+    "cycle": "FIXME",
+    "cv": "zkaras/zkaras-cv.pdf",
+    "transcript": "zkaras/zkaras-transcript.pdf",
+    "statementOfPurpose": "zkaras/zkaras_purpose.pdf",
+    "personalStatement": "zkaras/zkaras-personal.pdf",
+    "profileImageLoc": "zkaras/zkaras_profile.png",
+    "tags": ["PhD", "Low-GPA", "First-Gen", "Software Engineering", "Returning-Adult"]
   },
   {
     "id": 5,
-    "name": "Zachary Karas",
-    "cycle": "FIXME",
-    "cv": "zach/zach-cv.pdf",
-    "transcript": "zach/zach-transcript.pdf",
-    "statementOfPurpose": "zach/zach-sop.pdf",
-    "personalStatement": "zach/zach-personal.pdf",
-    "profileImageLoc": "zach/zach.jpg",
-    "tags": ["PhD", "US Undergrad", "Low-GPA", "First-Gen", "Software Engineering"]
-  },
-  {
-    "id": 6,
     "name": "Madeline Endres",
     "cycle": "FIXME",
     "statementOfPurpose": "endremad/endres_statement.pdf",
     "personalStatement": "endremad/endres_personal.pdf",
     "profileImageLoc": "endremad/Endres_headshot.jpeg",
-    "tags": ["PhD", "US Undergrad", "Software Engineering"]
+    "tags": ["PhD", "Software Engineering"]
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Danniel Hu",
     "cycle": "FIXME",
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
     "statementOfPurpose": "dannihu/hu_purpose.pdf",
     "profileImageLoc": "dannihu/hu_profile.png",
-    "tags": ["PhD", "US Undergrad", "First-Gen", "Software Engineering"]
+    "tags": ["PhD", "First-Gen", "Software Engineering", "Tranfser Student"]
   },
   {
-    "id": 8,
-    "name": "Hammad Ahmad",
+    "id": 7,
+    "name": "Rohit Sarpalle",
     "cycle": "FIXME",
-    "profileImageLoc": "hammada/hammad_headshot.png",
-    "tags": ["PhD", "Non-US Undergrad", "International", "Computer Systems", "Liberal Arts Undergrad"]
+    "cv": "rohit/rohit_cv.pdf",
+    "transcript": "rohit/rohit_transcript.pdf",
+    "statementOfPurpose": "rohit/rohit_purpose.pdf",
+    "profileImageLoc": "rohit/rohit_profile.png",
+    "tags": ["Master's"]
   }
 ]

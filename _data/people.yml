@@ -158,12 +158,20 @@
   
 
 - id: serra
-  display: Serra FIXME
+  display: Serra Dane
   role: Graduate Student Contributor
   cycle: FIXME cycle for
   target: PhD Programs
-  avatar: serra.jpg
+  avatar: sdane_profile.jpg
   color: "#006699"
+  cv:
+    - file: sdane_cv.pdf
+  transcript:
+    - file: sdane_transcript.pdf
+  statementOfPurpose:
+    - file: sdane_purpose.pdf
+  personalStatement:
+    - file: sdane_personal.pdf
 
 - id: kaia
   display: Kaia Newman
@@ -172,6 +180,14 @@
   target: PhD Programs
   avatar: newman_profile.png
   color: "#006699"
+  cv:
+    - file: newman_cv.pdf
+  transcript:
+    - file: newman_transcript.pdf
+  statementOfPurpose:
+    - file: newman_purpose.pdf
+  GREscores:
+    - file: newman_gre.png 
 
 
 - id: priscila
@@ -189,6 +205,40 @@
   target: PhD Programs
   avatar: hu-profile.jpg
   color: "#006699"
+  cv:
+    - file: hu_resume.pdf
+  transcript:
+    - file: hu_transcript.pdf
+  statementOfPurpose:
+    - file: hu_purpose.pdf
+
+- id: zachK
+  display: Zachary Karas
+  role: Graduate Student Contributor
+  cycle: FIXME cycle for
+  target: PhD Programs
+  avatar: zkaras_profile.png
+  color: "#006699"
+  statementOfPurpose:
+    - file: zkaras_purpose.pdf
+
+- id: rohit
+  display: Rohit Sarpalle
+  role: Graduate Student Contributor
+  cycle: FIXME cycle for
+  target: Master's Programs
+  avatar: newman_profile.png
+  color: "#006699"
+  cv:
+    - file: rohit_cv.pdf
+  transcript:
+    - file: rohit_transcript.pdf
+  statementOfPurpose:
+    - file: rohit_purpose.pdf
+  personalStatement:
+    - file: rohit_personal.pdf
+  
+  
 
 
 
