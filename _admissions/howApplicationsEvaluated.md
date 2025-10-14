@@ -128,7 +128,7 @@ We also present the internal “dashboard” view of two PhD applicants. Faculty
 Note the demographic information, research interests, identified faculty members, assigned evaluators, transcript information, graphical presentation of GPA distributions, and scored evaluations: 
 
 <figure>
-  [<img src="{{ '/assets/images/santiesteban-phd-application-dashboard.png' | relative_url }}" alt="Santiesteban View">](https://csguides.github.io/grad-school-application-guide/assets/images/santiesteban-phd-application-dashboard.png)
+  <a href="https://csguides.github.io/grad-school-application-guide/assets/images/santiesteban-phd-application-dashboard.png"><img src="{{ '/assets/images/santiesteban-phd-application-dashboard.png' | relative_url }}" alt="Santiesteban View"></a> 
   <figcaption>Internal faculty dashboard view for one applicant (shared with permission).</figcaption>
 </figure>
 
@@ -140,7 +140,8 @@ In the evaluation area, each elevator gave a numeric score on a 1-6 scale for Ac
 
 A second applicant dashboard view is also available:
 <figure>
-  [<img src="{{ '/assets/images/endres-phd-application-dashboard.png' | relative_url }}" alt="Endres View">](https://csguides.github.io/grad-school-application-guide/assets/images/endres-phd-application-dashboard.png)
+  
+  <a href="https://csguides.github.io/grad-school-application-guide/assets/images/endres-phd-application-dashboard.png"><img src="{{ '/assets/images/endres-phd-application-dashboard.png' | relative_url }}" alt="Endres View"></a> 
   <figcaption>Internal faculty dashboard view for one applicant (shared with permission).</figcaption>
 </figure>
 

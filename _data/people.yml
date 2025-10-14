@@ -95,7 +95,7 @@
 
 - id: angstadt
   display: Kevin Angstadt
-  title: Professor of Math, Computer Science, and Statistics
+  title: Professor of Computer Science
   employer: St. Lawrence University
   avatar: angstadt.png
   color: "#993300"
@@ -161,7 +161,7 @@
   role: Graduate Student Contributor
   cycle: "accepted to" 
   target: PhD Programs
-  avatar: sdane.jpg
+  avatar: sdane.png
   color: "#006699"
   cv:
     - file: sdane_cv.pdf

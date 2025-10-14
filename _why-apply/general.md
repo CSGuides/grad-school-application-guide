@@ -74,7 +74,7 @@ If you are not certain about whether you want a master’s degree or a master’
 {% capture quote %}
 I have had a number of students graduate with a bachelor’s degree and work a few (1-3) years at a company before applying to a graduate program. It’s also not uncommon for students to apply for both jobs and graduate programs at the same time.
 {% endcapture %}
-{% include quote.html content=quote user="kleach" %}
+{% include quote.html content=quote user="angstadt" %}
 
 
 
