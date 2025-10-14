@@ -5,33 +5,32 @@ Applying to graduate school can be a daunting and confusing process. Here, we di
 
 **Should I go to Graduate School?** The best generally-accepted reason to go to graduate school is because you want a job that requires a graduate degree. Going to graduate school because your parents are pressuring you to do so is ill-advised. Going to graduate school because you want to be more competitive in a tough job market requires nuance: a graduate degree does help with employability and salary, but graduate schools are harder to get into at such times because everyone else has the same idea. See the section on this topic in this guide. 
 
-**Am I smart enough for Graduate School?**  In our experience students who ask this question are exhibiting imposter syndrome. While intelligence is one factor in success, perseverance and a clear career goal that necessitates a graduate degree (see elsewhere in this guide) are far better indicators of fit. Your motivation and willingness to learn are more important than your incoming preparation. 
+**Am I smart enough for Graduate School?**  In our experience students, who ask this question are exhibiting imposter syndrome. While intelligence is one factor in success, perseverance and a clear career goal that necessitates a graduate degree (see elsewhere in this guide) are far better indicators of fit. Your motivation and willingness to learn are more important than your incoming preparation. 
 
 **How many schools should I apply to and which school should I apply to?** See the section on this topic in this guide. 
 
 **What program should I use to write my application materials?** Many students write drafts of their application essays in Google docs for easy passaround editing with friends and advisors. We recommend preparing final versions using LaTeX (e.g., via Overleaf). This is very minor, but because academic journal articles and conference papers are written with full justification (rather than left-justified text, leaving a “ragged right” margin), some academics unintentionally view LaTeX or fully-justified text as more rigorous (e.g., justified text signals science, left alignment signals a high school essay). Alternatively, since you will have to write articles in LaTeX or formal Word/Docs later, doing so at application time demonstrates your attention. 
 
-{% include quote.html content="You could make your CV on Overleaf rather than Google Docs or Microsoft Word. I liked it because it’s modular and you can add and take away whole sections with the proper layout with ease! You can search for simple CV templates on Overleaf here: https://www.overleaf.com/latex/templates
-" user="kaia" %} 
-
+{% include quote.html content="You could make your CV on Overleaf rather than Google Docs or Microsoft Word. I liked it because it’s modular and you can add and take away whole sections with the proper layout with ease! [Simple CV templates on Overleaf are available.](https://www.overleaf.com/latex/templates) 
+" user="knewman" %} 
 
 **Should I take the GREs?** No. For various reasons, from COVID concerns to academic integrity issues to the utility of the information, the GREs (both the general tests and the CS subject test) are no longer considered relevant. 
 
 {% include quote.html content="Don’t study for the GRE – it’s a waste of time. It’s being phased out (only two schools I applied to required it), and if you need to take it, it will not be that important. 
-" user="kaia" %} 
+" user="knewman" %} 
 
 {% include quote.html content="My advice to students is: only if you really want to attend a school that requires GREs. See elsewhere for why selecting a school by name is ill-advised, but if you are dead-set on getting a degree from X University and they require GREs, then that is the only reason to take them. That being said, none of my students in the past 5 years have taken the GRE. 
-" user="kleach" %} 
+" user="angstadt" %} 
 
 **How can I afford the application fees?** Most schools have a “Fee Waiver” or similar option, especially for PhD applications. These typically look sketchy to students, since they may involve emailing a particular address (rather than being automatically applied), or may require you to request them in advance to get a code (which can be hard to do if you put everything off until the last minute before the deadline). In addition, many US programs are only open to US Citizens. Because of that, these fee waiver programs are typically underutilized. While funding varies from year to year, when Wes was more associated with the fee waiver program at Michigan, we supported every qualified applicant who applied for it. In addition, some smaller schools have non-advertised “under the table”-esque programs to help defray application costs for scholars applying to graduate school; ask your advisor if such a program exists. Morality, your worth as a person, and the family finances you happen to have at application time are unrelated: do not let social stigma preclude you from discussing this with your advisor. In many cases, support programs exist but the student has to ask about them first or bring up need first. 
 
 **What if one of my recommendation letters is late?** The verbiage on application portals suggests that the world will end and your application will be destroyed if all of the materials are not in by the listed date. It is important to note that such wording applies to materials under the student’s control. If you fail to submit your application essay or transcript on time, your application will likely be summarily rejected. But we know that you cannot force your professors or supervisors to write letters any faster. So materials supplied by others can typically be turned in later, even at selective schools, without harming your application. Your primary letter of recommendation should be submitted near the deadline (say, within a week). Secondary letters can be a few weeks later. (See elsewhere in this guide for primary-secondary distinction.) 
 
 {% include quote.html content="When I was invited to interview with UVA and USC, one of my recommenders had not yet submitted their letters of recommendation to these schools. (I asked them politely for their submission after this.) This suggests that the deadlines for letters of recommendation are not the same hard deadlines as the ones for your other application materials, so don’t worry if your recommenders don’t submit right away. If you can’t avoid worrying, try not to email them. They often must submit on the order of dozens of recommendation letters per semester, and early reminders might annoy them. 🙂I will say that both of the professors who were interested in me from these two schools were interested because of my primary letter, so my advice would be to try to have your primary recommender submit by the New Year.ly two schools I applied to required it), and if you need to take it, it will not be that important. 
-" user="kaia" %} 
+" user="knewman" %} 
 
 {% include quote.html content="Absent-minded professor here. If you see several confirmation emails arrive from a letter writer, but one school is missing, a polite email thanking them for submitting letters and asking about the missing school is not unwelcome. The key is to avoid preemptive emails or repeat emails.
-" user="kleach" %} 
+" user="angstadt" %} 
 
 **I have a graduate school offer**. Can I defer it for a year? In some cases, yes. This is school specific, and you will want to contact the school and program (for master’s degree students) or the particular advisor or committee (for PhD students). Elsewhere in this guide we show ten years of Michigan CSE statistics, including deferred applications: on average, about 0-3 out of ~125 admitted PhD students were granted deferrals and 0-8 out of ~200 admitted MS students were granted deferrals. Rates will vary by school and some schools do not support deferrals at all. Others may suggest that you should apply again the next year but will be fast-tracked or that a positive note will be made in your application. While deferrals do happen, they are not something you should count on. 
 
@@ -43,26 +42,27 @@ Applying to graduate school can be a daunting and confusing process. Here, we di
 
 PhD students are often required to complete a preliminary or qualifying examination (typically called “prelims” or “quals”). The contents vary from school to school, but this checkpoint typically involves reading or writing a scientific paper, presenting it, and answering questions about it. For example, the University of Michigan CSE division typically requires this to be completed by the end of the second year for PhD-track students. FIXME: Students think this matters for making decisions but it is largely irrelevant. 
 
-**I am certain that my application is weaker than everyone else’s because (check all that apply):** 
--I was never a teaching assistant
--My GPA is too low
--I never published a paper
--I never took any graduate classes
--I’m not a native English speaker
--I didn’t have an undergraduate internship
--No professor really likes me or knows me
--I’m a member of a group that doesn’t seem to be common in graduate school
--My undergraduate school is weaker than many others
--I’ve done some course projects but I don’t think that’s research-y enough
--I haven’t done any real service work or tutoring
--I have a mental or physical health concern
--My earlier work was on topic X but my recent work is on topic Y
--I’ve been out of school for too long
--I have done enough for one essay but not enough for two
+**I am certain that my application is weaker than everyone else’s ...** 
+For example, perhaps some or all of these apply to you: 
 
-… and so on … 
+- I was never a teaching assistant
+- I think My GPA is too low
+- I never published a paper
+- I never took any graduate classes
+- I’m not a native English speaker
+- I didn’t have an undergraduate internship
+- No professor really likes me or knows me
+- I’m a member of a group that doesn’t seem to be common in graduate school
+- My undergraduate school is weaker than many others
+- I’ve done some course projects but I don’t think that’s research-y enough
+- I haven’t done any real service work or tutoring
+- I have a mental or physical health concern
+- My earlier work was on topic X but my recent work is on topic Y
+- I’ve been out of school for too long
+- I have done enough for one essay but not enough for two
+- … and so on … 
 
-Speaking very directly for a moment, in Wes Weimer’s opinion this is felt by every single applicant ever. Every single student I have ever advised on this topic, over multiple decades, including the ones who had one or more papers published already (!), thought there were weaknesses in their own applications and were concerned about getting in somewhere. This is [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Every single student I have ever advised on this subject has thought “no, there is something uniquely weak about my application”. You, dear reader, likely had the immediate reaction of “No, but my application is actually weaker than average because …”. That’s part of what imposter syndrome feels like. While I’m sure there is one exception somewhere, every single applicant I have ever encountered has described thinking “No, you see, my application is specifically weak in a way that others generally are not …” 
+Speaking very directly for a moment, in Wes Weimer’s opinion this is felt by every single applicant ever. Every single student I have ever advised on this topic, over multiple decades, including the ones who had one or more papers published already (!), thought there were weaknesses in their own applications and were concerned about getting in somewhere. This is [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome). Every single student I have ever advised on this subject has thought “no, there is something uniquely weak about my application”. You, dear reader, likely had the immediate reaction of “No, but my application is *actually* weaker than average because …”. That’s part of what imposter syndrome feels like. While I’m sure there is one exception somewhere, every single applicant I have ever encountered has described thinking “No, you see, my application is specifically weak in a way that others generally are not.” 
 
 In the specifics, there is no one-size-fits-all solution to this. But in general, there is. First, read the section on this guide on how schools make admissions decisions. Second, read the section on this guide on how to write application materials, including how to arrange evidence persuasively. Then, construct an argument that emphasizes the things you have done. This may be harder for some students than others, but if you completed your undergraduate degree, you will have things to talk about. When you are laying out your persuasive application essay, highlight the things you can back up with evidence. If you took some difficult classes but were never a TA, your essay might focus on your demonstrated ability to succeed at rigorous coursework, read and analyze technical materials, and construct creative solutions to tricky problems. If you were a TA but perceive that you took only easy classes, first talk to your advisor about whether those classes were actually that easy, and then second you might structure your essay around your demonstrated ability to break down difficult subjects into their component pieces (analysis), to convey difficult CS material to a wide range of audiences (teaching and office hours), and to supervise undergraduates on independent or less-structured work (guiding team final projects). If you spent your time submitting a paper for publication but have low grades as a result, structure your essay around your demonstrated ability to carry out the stages of the research process (identifying an important problem, designing an experiment, carrying it out, analyzing the results, writing them up, etc.). 
 
