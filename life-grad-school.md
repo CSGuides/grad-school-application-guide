@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What is Graduate School Like?
-nav: Life in Grad School
+nav: Grad Life
 description: >-
   Learn what day-to-day life is like as a graduate student, including time management, 
   research expectations, and personal reflections from current students.
@@ -12,12 +12,11 @@ permalink: /life/
 
 Day-to-day life as a graduate student may be very different from what you are used to. That is both a challenge and an opportunity. 
 
-While master’s degree students may feel a bit like undergraduates (the graduate courses for a master’s degree can be similar to senior-level technical electives), PhD students often feel quite different, focusing primarily on research rather than courses.  
-In addition, graduate school is usually in a new town (and often in a new country!) and feelings of [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) are common.
+While master’s degree students may feel a bit like undergraduates (the graduate courses for a master’s degree can be similar to senior-level technical electives), PhD students often feel quite different, focusing primarily on research rather than courses. In addition, graduate school is usually in a new town (and often in a new country!) and feelings of [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) are common.
 
 On the positive side, graduate school often involves significantly more day-to-day freedom than the undergraduate experience. Many graduate students report first feeling like a “real adult” in graduate school: greater freedom, greater responsibility, and a decreased reliance on family all contribute to that sentiment.
 
-{% include quote.html content="The daily schedule of a PhD student can vary a lot from person to person, and lab to lab. For example, I tend to work between 10-6, but take a long lunch break, and I’ll sometimes continue working at my leisure in the evenings or weekends. This is how I prefer to work (pacing myself at about 75% capacity over 5-6 days instead of pushing 100% for 5 days), since that gives me a lot of flexibility and some downtime during the week. As long as I meet my deadlines, I’m not required to follow a strict 9–5. That said, some people prefer a more traditional routine to maintain clearer boundaries between work and life, and some labs may set different expectations for their students." user="danni" %}
+{% include quote.html content="The daily schedule of a PhD student can vary a lot from person to person, and lab to lab. For example, I tend to work between 10-6, but take a long lunch break, and I’ll sometimes continue working at my leisure in the evenings or weekends. This is how I prefer to work (pacing myself at about 75% capacity over 5-6 days instead of pushing 100% for 5 days), since that gives me a lot of flexibility and some downtime during the week. As long as I meet my deadlines, I’m not required to follow a strict 9–5. That said, some people prefer a more traditional routine to maintain clearer boundaries between work and life, and some labs may set different expectations for their students." user="dannihu" %}
 
 ---
 
