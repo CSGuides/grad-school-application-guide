@@ -90,7 +90,7 @@ function generateContentSections(types, data) {
           ${item.profileImageLoc ? `<img src="/grad-school-application-guide/assets/materials/${item.profileImageLoc}" alt="Profile Image" class="thumbnail">` : ''}
           <div class="card-section">
             <h4>${item.name}</h4>
-            <p>${item.cycle} cycle</p>
+            <p>${item.cycle}</p>
             ${tagHtml}
           </div>
           <div class="more-button-container">
@@ -177,7 +177,7 @@ $.getJSON("../assets/materials/contributors.json", function(data) {
     var item = data.find(i => i.id == id);
 
     $("#modalTitle").text(item.name);
-    $("#modalCycle").text(`${item.cycle} cycle`);
+    $("#modalCycle").text(`${item.cycle}`);
 
     if (item.profileImageLoc) {
       $("#modalImage").attr("src", "/grad-school-application-guide/assets/materials/" + item.profileImageLoc).show();
