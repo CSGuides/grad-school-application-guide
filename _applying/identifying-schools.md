@@ -36,9 +36,9 @@ You may find [Philip Guo’s vlog on choosing CS graduate schools](https://www.y
 {% capture quote %}
 Beyond hard limiters like money or family/partner things, I think that my top three reasons to choose or apply to a program were well-ordered. 
 
-1. Advisor personality fit → are they someone you have similar values to/agree with on their mission and someone you can speak honestly to?
-2. Advisor research fit
-3. University fit → climate, location, ethos, prestige/connections
+1. #1. Advisor personality fit → are they someone you have similar values to/agree with on their mission and someone you can speak honestly to?
+2. #2. Advisor research fit
+3. #3. University fit → climate, location, ethos, prestige/connections
 
 Your advisor has influence over many of your activities in grad school and consequently can have a large influence over your happiness. A great advisor–advisee fit will often allow you to explore, or give you an appreciation for, new areas, making research fit at the outset less important. Don’t make yourself unhappy in the long run by prioritizing something for the wrong reasons. If you don’t enjoy indirectness or your advisor being hands-on, for example, consider these quirks seriously and include them in your roundabout questioning.
 {% endcapture %}

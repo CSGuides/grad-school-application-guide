@@ -64,14 +64,13 @@
   target: Professor of Computer Science and Engineering
   bio: Wes Weimer is a Professor of Computer Science and Engineering at the University of Michigan. He studies software engineering, program analysis, and computer science education.
 
-
 - id: angstadt
   display: Kevin Angstadt
   title: Professor of Computer Science
-  employer: St. Lawrence University
+  employer: St. Lawrence University 
   avatar: angstadt.png
   color: "#993300"
-  target: Professor of Computer Science
+  bio: Kevin Angstadt is a Professor of Computer Science and Engineering at St. Lawrence University.
       
 - id: legoues
   display: Claire Le Goues

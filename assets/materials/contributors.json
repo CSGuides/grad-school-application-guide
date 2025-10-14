@@ -3,6 +3,7 @@
     "id": 1,
     "name": "Serra Dane",
     "cv": "sdane/sdane_cv.pdf",
+    "cycle": "Accepted at U. Michigan", 
     "transcript": "sdane/sdane_transcript.pdf",
     "statementOfPurpose": "sdane/sdane_purpose.pdf",
     "personalStatement": "sdane/sdane_personal.pdf",
@@ -13,6 +14,7 @@
     "id": 2,
     "name": "Priscila Santiesteban",
     "cv": "priscila/priscila_resume.pdf",
+    "cycle": "Accepted at U. Michigan", 
     "transcript": "priscila/priscila_transcript.pdf",
     "statementOfPurpose": "priscila/priscila_purpose.pdf",
     "profileImageLoc": "priscila/pasanti2025.jpeg",
@@ -22,6 +24,7 @@
     "id": 3,
     "name": "Kaia Newman",
     "cv": "knewman/newman_cv.pdf",
+    "cycle": "Accepted at Carnegie Mellon U.", 
     "transcript": "knewman/newman_transcript.pdf",
     "statementOfPurpose": "knewman/newman_purpose.pdf",
     "profileImageLoc": "knewman/newman_profile.png",
@@ -31,6 +34,7 @@
   {
     "id": 4,
     "name": "Zachary Karas",
+    "cycle": "Accepted at Vanderbilt U.", 
     "statementOfPurpose": "zkaras/zkaras_purpose.pdf",
     "profileImageLoc": "zkaras/zkaras_profile.png",
     "tags": ["PhD", "Lower GPA", "First Generation", "Software Engineering", "Transfer Student", "Returning Adult"]
@@ -38,6 +42,7 @@
   {
     "id": 5,
     "name": "Madeline Endres",
+    "cycle": "Accepted at U. Michigan", 
     "statementOfPurpose": "endremad/endres_statement.pdf",
     "personalStatement": "endremad/endres_personal.pdf",
     "profileImageLoc": "endremad/Endres_headshot.jpeg",
@@ -48,6 +53,7 @@
     "name": "Danniel Hu",
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
+    "cycle": "Accepted at U. Michigan", 
     "statementOfPurpose": "dannihu/hu_purpose.pdf",
     "profileImageLoc": "dannihu/hu-profile.jpg",
     "tags": ["PhD", "First Generation", "AI", "Transfer Student", "Returning Adult"]
@@ -56,6 +62,7 @@
     "id": 7,
     "name": "Rohit Sarpalle",
     "cv": "rohit/rohit_cv.pdf",
+    "cycle": "Accepted at U. Michigan", 
     "transcript": "rohit/rohit_transcript.pdf",
     "statementOfPurpose": "rohit/rohit_purpose.pdf",
     "profileImageLoc": "rohit/rohit_profile.jpeg",
@@ -64,8 +71,9 @@
   {
     "id": 8,
     "name": "Jeremy Lacomis",
+    "cycle": "Accepted at Carnegie Mellon U.", 
     "statementOfPurpose": "lacomis/lacomis_purpose.pdf",
-    "profileImageLoc": "rohit/lacomis.jpg",
+    "profileImageLoc": "lacomis/lacomis.jpg",
     "tags": ["PhD"]
   }
 ]
