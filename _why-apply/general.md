@@ -1,9 +1,7 @@
 
 # Should I Apply to CS Graduate School?
 
-In our opinion, the **primary reason to go to graduate school** is because you want one of the career paths that graduate school opens up.  
-If you think ahead to the future and see yourself as a **professor**, a PhD is a necessary step along the way.  
-If you see yourself in a position of **additional responsibility at a company**—a senior developer or manager, with more duties and a higher salary—a master’s degree is a great way to get there in the short term.
+In our opinion, the **primary reason to go to graduate school** is because you want one of the career paths that graduate school opens up.  If you think ahead to the future and see yourself as a **professor**, a PhD is a necessary step along the way.  If you see yourself in a position of **additional responsibility at a company**—a senior developer or manager, with more duties and a higher salary—a master’s degree is a great way to get there in the short term.
 
 
 {% capture quote %}
@@ -42,7 +40,7 @@ A graduate degree is required for, or significantly helps with, many career opti
 
 While this guide defaults to a US perspective, these positions have international analogs. A tenure-track faculty position at McGill University in Canada or the National University of Singapore or University College London is very similar to one in the US. An institution like the CISPA Helmholtz Center for Information Security (in Germany), Max Planck Institutes (in Germany), or the National Institute for Research in Digital Science and Technology (Inria in France) is very similar to a federal lab in the US.
 
-Our associated graduate job guide details which jobs are available to students completing a graduate degree and offers advice on how to get them. [Link](https://csguides.github.io/grad-job-guide/jobs/)
+[Our associated graduate job guide](https://csguides.github.io/grad-job-guide/jobs/) details which jobs are available to students completing a graduate degree and offers advice on how to get them. 
 
 
 ---
