@@ -2,7 +2,7 @@
 
 Understanding how applications are evaluated can help inform your application strategy. This description is based on the processes from the University of Michigan and the University of Massachusetts at Amherst, large indicative public research institutions, but the general process is the same at other programs. After describing the process we will summarize the implications and reinforce why it matters for you to understand this. 
 
-Master’s degree students are typically evaluated by the department as a whole, often via a committee. Ph.D. students are typically evaluated by individual faculty members (i.e., potential research advisors) with assistance from a committee. However, a smaller number of programs admit Ph.D. students to the department as whole; students match with a research advisor later. The University of Virginia is an example of a hybrid: [Ph.D. admission is based on a faculty champion](https://github.com/fxlin/uvacs-gradhandbook-publish/blob/main/uvacs_gradhandbook-current.pdf), but students participate in a “Rotation” program that gives a structured opportunity to match with another advisor. Knowing how, and by whom, your application will be evaluated can help you tailor it.
+Master’s degree students are typically evaluated by the department as a whole, often via a committee. Ph.D. students are typically evaluated by individual faculty members (i.e., potential research advisors) with assistance from a committee. However, a smaller number of programs admit Ph.D. students to the department as whole; students match with a research advisor later. The University of Virginia is an example of a hybrid: [their PhD admission is based on a faculty champion](https://github.com/fxlin/uvacs-gradhandbook-publish/blob/main/uvacs_gradhandbook-current.pdf), but students participate in a “Rotation” program that gives a structured opportunity to match with another advisor. Knowing how, and by whom, your application will be evaluated can help you tailor it.
 
 
 ## Graduate Admissions
@@ -63,8 +63,7 @@ All faculty evaluating an application (either because they were assigned it or b
 </table>
 
 
-Michigan also has an automatically-computed metric: 
-Undergraduate GPA & Transcript, Taking Into Account Your Undergraduate Institution, Compared to Students Admitted Here In The Last 12 Years
+Michigan also has an automatically-computed metric: Undergraduate GPA & Transcript Taking Into Account Your Undergraduate Institution, Compared to Students Admitted Here In The Last 12 Years. The qualifiers in that metric are a good example of the nuanced considerations in these decisions. 
 
 Faculty members can see the completed evaluations of other faculty members and may use this to determine the next steps. If you are a faculty member and you did not find an application compelling and you see that another faculty member also gave it low marks, you gain confidence in not pursuing that student. If you are a faculty member and you found an application to be great and another faculty member found it to be good, you two may decide that you will collectively recruit that student (perhaps as co-advisors, etc.).
 
@@ -108,14 +107,15 @@ For historical context, we provide the PhD and Master’s degree numbers for a t
 
 For the application numbers, the Applied, Admitted and Accepted columns are the most relevant. (Some columns, like “Pending”, may reflect students who never officially responded in time; such cases can be viewed as “Declined”.) 
 
-First, Master’s track statistics: 
+First, Michigan Master’s track statistics: 
 <figure>
   <img src="{{ '/assets/images/masters-track-stats.png' | relative_url }}" alt="Masters Stats">
   <figcaption>Master’s degree numbers for a ten-year span for the University of Michigan CSE division.</figcaption>
 </figure>
 
+&nbsp; 
 
-Second, PhD track statistics: 
+Second, Michigan PhD track statistics: 
 <figure>
   <img src="{{ '/assets/images/phd-track-stats.png' | relative_url }}" alt="PhD Stats">
   <figcaption>PhD numbers for a ten-year span for the University of Michigan CSE division.</figcaption>
@@ -128,10 +128,11 @@ We also present the internal “dashboard” view of two PhD applicants. Faculty
 Note the demographic information, research interests, identified faculty members, assigned evaluators, transcript information, graphical presentation of GPA distributions, and scored evaluations: 
 
 <figure>
-  <img src="{{ '/assets/images/santiesteban-phd-application-dashboard.png' | relative_url }}" alt="Santiesteban View">
+  [<img src="{{ '/assets/images/santiesteban-phd-application-dashboard.png' | relative_url }}" alt="Santiesteban View">](https://csguides.github.io/grad-school-application-guide/assets/images/santiesteban-phd-application-dashboard.png)
   <figcaption>Internal faculty dashboard view for one applicant (shared with permission).</figcaption>
 </figure>
 
+&nbsp; 
 
 For this applicant, note how the applicant identified three faculty members (Banovic, Kasikci, Weimer) but was evaluated by others with some overlap (Dreslinski, Wang, Weimer). This can happen for multiple reasons. The most common is that professors read the application materials and decide that the student is or is not a good fit. However, there may be other reasons that are less visible to applicants. For example, at the time [Xinyu Wang](https://web.eecs.umich.edu/~xwangsd/) may have been a newly-hired faculty member in that area looking to grow a research group, and [Baris Kasikci](https://homes.cs.washington.edu/~baris/) may have been leaving Michigan for the University of Washington (and thus not taking on new Michigan students).  
 
@@ -139,10 +140,11 @@ In the evaluation area, each elevator gave a numeric score on a 1-6 scale for Ac
 
 A second applicant dashboard view is also available:
 <figure>
-  <img src="{{ '/assets/images/endres-phd-application-dashboard.png' | relative_url }}" alt="Endres View">
+  [<img src="{{ '/assets/images/endres-phd-application-dashboard.png' | relative_url }}" alt="Endres View">](https://csguides.github.io/grad-school-application-guide/assets/images/endres-phd-application-dashboard.png)
   <figcaption>Internal faculty dashboard view for one applicant (shared with permission).</figcaption>
 </figure>
 
+&nbsp; 
 
 The faculty evaluators and applications are, unfortunately, not available/archived for this older (2018) application. However, note the GRE context view (as discussed elsewhere in this guide, including GRE information is not recommended in modern applications and typically just makes you look worse) and lower-level details, such as “Tier: Unknown” for both one of this applicant’s undergraduate institutions and the previous applicant’s institution. Schools do weight grades by the perceived rigor of the undergraduate program. 
 
@@ -153,8 +155,9 @@ A word of advice for international students who don't have 3.5+ GPAs: don't let 
 
 
 ### The Paradox of “Yield”
-One interesting aspect of the initial statistics is that the Acceptance rate (i.e., the percentage of those who receive offers who then go on to accept them, also called the yield on offers) is not 100%. This may initially seem surprising. Wouldn’t a top-ranked school like CMU or Berkeley “get” almost everyone it makes an offer to? When Wes Weimer was on the Berkeley graduate admissions committee, the yield was similar to some of the statistics above (about 25%). The explanation given was that students who apply to Berkeley and receive offers (i.e., students who assess well using the standard metrics) are also likely to apply to Stanford and receive offers there (e.g., because Stanfrord uses the same standard metrics). And the same is true for MIT and CMU and the like as well. A student who gets into Berkeley and Stanford (etc.) can only accept one of those offers, and from the university’s perspective it ends up a bit like a coin flip: highly-ranked universities typically have under-50% yield. 
+One interesting aspect of the initial statistics is that the Acceptance rate (i.e., the percentage of those who receive offers who then go on to accept them, also called the yield on offers) is not 100%. This may initially seem surprising. Wouldn’t a top-ranked school like CMU or Berkeley “get” almost everyone it makes an offer to? When Wes Weimer was on the Berkeley graduate admissions committee, the yield was similar to some of the statistics above (about 25%). The explanation given was that students who apply to Berkeley and receive offers (i.e., students who assess well using the standard metrics) are also likely to apply to Stanford and receive offers there (e.g., because Stanford uses the same standard metrics). And the same is true for MIT and CMU and the like as well. A student who gets into Berkeley and Stanford (etc.) can only accept one of those offers, and from the university’s perspective it ends up a bit like a coin flip: highly-ranked universities typically have under-50% yield. 
 
 This can lead to a surprising nuanced effect. Suppose the graduate admissions committee is ranking applicants. “Person X is our #1 choice, Person Y is our #2 choice, etc.” If you are trying to fill ten slots (e.g., you have ten open seats in your master’s program) how many people from your ranked list do you admit? If you extend offers to exactly 10, because of yield, you won’t get all 10. So committees and professors sometimes end up solving mathematical constraints (e.g., “if our yield is 50% and we want 10 people, we should admit 20”). However, the effect is not linear. The farther you go down the list, the more likely it is that the person will accept your offer. For example, if Berkeley and Stanford are both trying to end up with 10 students, the #1 student on Berkeley’s list is probably also high on Stanford’s list. But the #10 student on Berkeley’s list may not have made the top ten for Stanford (slightly different faculty priorities, slightly different assessments of the essays, etc.). Many students take the highest-ranked offer they receive (which is not actually a good idea in general; see elsewhere in this guide on decisions). All of this put together means that the further you go down the ranked list, the more likely you are to get that person (your yield goes up) but the less you want them (they were ranked lower on your list). 
 
-This observation helps illuminate how decisions are made behind the scenes. However, it can also inform and motivate some aspects of your applicant. Faculty and committees are often, implicitly or explicitly, ranking applicants. “I only have funding for one PhD student. Should I extend an offer to Wen
+This observation helps illuminate how decisions are made behind the scenes. However, it can also inform and motivate some aspects of your applicant. Faculty and committees are often, implicitly or explicitly, ranking applicants. “I only have funding for one PhD student. Should I extend an offer to Wenxin, who published a human study on programming outcomes, or Madeline, who has significant teaching experience but no submitted research work?” Faculty internal deliberations and committee conversations often end up using these one-sentence summaries of applicants (e.g., “Jeremy from Virginia is a returning adult student and submitted a journal article on reducing software energy consumption”). You, the applicant, can either provide that sort of summary in your application materials explicitly or you can have faculty members infer it. When faculty infer it, we sometimes forget important parts of your portfolio. Elsewhere in this guide, we’ll discuss how you can persuasively structure your application materials to provide a summary in a compelling manner.  
+
