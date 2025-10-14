@@ -1,6 +1,16 @@
 [
   {
     "id": 1,
+    "name": "Kevin Angstadt",
+    "cycle": "Accepted at U. Virginia", 
+    "statementOfPurpose": "angstadt/angstadt_purpose.pdf",
+    "cv": "angstadt/angstadt_cv.pdf",
+    "profileImageLoc": "angstadt/angstadt.png",
+    "outcomes": "angstadt/angstadt_outcomes.docx",
+    "tags": ["PhD", "Liberal Arts Undergrad"]
+  },
+  {
+    "id": 2,
     "name": "Serra Dane",
     "cv": "sdane/sdane_cv.pdf",
     "cycle": "Accepted at U. Michigan", 
@@ -11,36 +21,7 @@
     "tags": ["PhD", "Non-US Undergraduate", "Computer Systems"]
   },
   {
-    "id": 2,
-    "name": "Priscila Santiesteban",
-    "cv": "priscila/priscila_resume.pdf",
-    "cycle": "Accepted at U. Michigan", 
-    "transcript": "priscila/priscila_transcript.pdf",
-    "statementOfPurpose": "priscila/priscila_purpose.pdf",
-    "profileImageLoc": "priscila/pasanti2025.jpeg",
-    "tags": ["PhD", "First Geneneration", "Software Engineering", "Liberal Arts Undergrad"]
-  },
-  {
     "id": 3,
-    "name": "Kaia Newman",
-    "cv": "knewman/newman_cv.pdf",
-    "cycle": "Accepted at Carnegie Mellon U.", 
-    "transcript": "knewman/newman_transcript.pdf",
-    "statementOfPurpose": "knewman/newman_purpose.pdf",
-    "profileImageLoc": "knewman/newman_profile.png",
-    "GREscores": "knewman/newman_gre.png",
-    "tags": ["PhD", "Lower GPA", "Software Engineering"]
-  },
-  {
-    "id": 4,
-    "name": "Zachary Karas",
-    "cycle": "Accepted at Vanderbilt U.", 
-    "statementOfPurpose": "zkaras/zkaras_purpose.pdf",
-    "profileImageLoc": "zkaras/zkaras_profile.png",
-    "tags": ["PhD", "Lower GPA", "First Generation", "Software Engineering", "Transfer Student", "Returning Adult"]
-  },
-  {
-    "id": 5,
     "name": "Madeline Endres",
     "cycle": "Accepted at U. Michigan", 
     "statementOfPurpose": "endremad/endres_statement.pdf",
@@ -49,7 +30,7 @@
     "tags": ["PhD", "Software Engineering"]
   },
   {
-    "id": 6,
+    "id": 4,
     "name": "Danniell Hu",
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
@@ -59,17 +40,15 @@
     "tags": ["PhD", "First Generation", "AI", "Transfer Student", "Returning Adult", "Lower GPA"]
   },
   {
-    "id": 7,
-    "name": "Rohit Sarpalle",
-    "cv": "rohit/rohit_cv.pdf",
-    "cycle": "Accepted at U. Michigan", 
-    "transcript": "rohit/rohit_transcript.pdf",
-    "statementOfPurpose": "rohit/rohit_purpose.pdf",
-    "profileImageLoc": "rohit/rohit_profile.jpeg",
-    "tags": ["Master's"]
+    "id": 5,
+    "name": "Zachary Karas",
+    "cycle": "Accepted at Vanderbilt U.", 
+    "statementOfPurpose": "zkaras/zkaras_purpose.pdf",
+    "profileImageLoc": "zkaras/zkaras_profile.png",
+    "tags": ["PhD", "Lower GPA", "First Generation", "Software Engineering", "Transfer Student", "Returning Adult"]
   },
   {
-    "id": 8,
+    "id": 6,
     "name": "Jeremy Lacomis",
     "cycle": "Accepted at Carnegie Mellon U.", 
     "statementOfPurpose": "lacomis/lacomis_purpose.pdf",
@@ -77,13 +56,35 @@
     "tags": ["PhD", "Returning Adult", "Lower GPA", "Software Engineering"]
   },
   {
+    "id": 7,
+    "name": "Kaia Newman",
+    "cv": "knewman/newman_cv.pdf",
+    "cycle": "Accepted at Carnegie Mellon U.", 
+    "transcript": "knewman/newman_transcript.pdf",
+    "statementOfPurpose": "knewman/newman_purpose.pdf",
+    "outcomes": "knewman/newman_outcomes.pdf",
+    "profileImageLoc": "knewman/newman_profile.png",
+    "GREscores": "knewman/newman_gre.png",
+    "tags": ["PhD", "Lower GPA", "Software Engineering"]
+  },
+  {
+    "id": 8,
+    "name": "Priscila Santiesteban",
+    "cv": "priscila/priscila_resume.pdf",
+    "cycle": "Accepted at U. Michigan", 
+    "transcript": "priscila/priscila_transcript.pdf",
+    "statementOfPurpose": "priscila/priscila_purpose.pdf",
+    "profileImageLoc": "priscila/pasanti2025.jpeg",
+    "tags": ["PhD", "First Geneneration", "Software Engineering", "Liberal Arts Undergrad"]
+  },
+  {
     "id": 9,
-    "name": "Kevin Angstadt",
-    "cycle": "Accepted at U. Virginia", 
-    "statementOfPurpose": "angstadt/angstadt_purpose.pdf",
-    "cv": "angstadt/angstadt_cv.pdf",
-    "profileImageLoc": "angstadt/angstadt.png",
-    "outcomes": "angstadt/angstadt_outcomes.docx",
-    "tags": ["PhD", "Liberal Arts Undergrad"]
+    "name": "Rohit Sarpalle",
+    "cv": "rohit/rohit_cv.pdf",
+    "cycle": "Accepted at U. Michigan", 
+    "transcript": "rohit/rohit_transcript.pdf",
+    "statementOfPurpose": "rohit/rohit_purpose.pdf",
+    "profileImageLoc": "rohit/rohit_profile.jpeg",
+    "tags": ["Master's"]
   }
 ]
