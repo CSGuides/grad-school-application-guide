@@ -1,8 +1,8 @@
 {
   "cv": [1, "CV/Resume", "applying/#preparing-your-resume"],
   "transcript": [2, "Transcript", "applying/#transcript"],
-  "statementOfPurpose": [3, "Statement of Purpose", "applying/#writing-your-essays"],
+  "statementOfPurpose": [3, "Application Essay", "applying/#writing-your-essays"],
   "personalStatement": [4, "Personal Statement", "applying/#writing-your-essays"],
-  "GREscores":[5, "GRE Scores", "applying/#preparing-your-resume"],
-  "outcomes":[6, "Application Outcomes", "interviewing"]
+  "GREscores":[5, "GRE Score", "applying/#preparing-your-resume"],
+  "outcomes":[6, "Application Outcome", "interviewing"]
 }
