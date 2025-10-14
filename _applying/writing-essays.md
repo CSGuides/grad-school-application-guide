@@ -33,7 +33,7 @@ In most cases, especially if you are not certain about how to write your applica
 
 Consider the following 2025 application prompts from Michigan CSE:
 
-*Statement of Purpose: Your statement of purpose should be a concise, well-written document about your academic and/or research background, as well as your career goals. Additionally, it should communicate how CSE’s graduate program will help you meet your career and educational objectives. *
+*Statement of Purpose: Your statement of purpose should be a concise, well-written document about your academic and/or research background, as well as your career goals. Additionally, it should communicate how CSE’s graduate program will help you meet your career and educational objectives.*
 
 *Personal Statement:  Your personal statement should describe how your life experiences – cultural, geographical, financial, educational, and/or other opportunities/challenges – motivated your decision to pursue a graduate degree in CSE.*
 

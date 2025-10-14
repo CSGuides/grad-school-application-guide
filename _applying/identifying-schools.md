@@ -4,7 +4,7 @@ If you are applying, getting into one or more graduate programs is **“infinite
 
 To see why, suppose, for simplicity, that every school independently has a 10% chance of accepting your application. (See historical Michigan numbers above for comparison; the advice here is primarily drawn from US schools.) If you apply to “only” five programs, there is a (100% - 10%)^5 = 59% chance that the biased coin comes up “tails” each time and you are rejected by all programs. So we want to apply to many programs.  
 
-However, even applying to 15 programs with 10% acceptance rates still leaves a 20% chance of being rejected by all of them, so we also recommend applying to programs with a range of selectivities. This usually takes the form of ~10 schools in a band, 1–2 *“aspirational”* schools (long-shot selective schools that would be great, but may not accept you) and 3–4 *“safety”* schools (less-selective schools that are more likely to accept you).  
+However, even applying to 15 programs with 10% acceptance rates still leaves a 20% chance of being rejected by all of them, so we also recommend applying to programs with a range of selectivities. This usually takes the form of ~10 schools in a band, 1–2 *aspirational* schools (long-shot selective schools that would be great, but may not accept you) and 3–4 *safety* schools (less-selective schools that are more likely to accept you).  
 
 Students we work with typically apply to **12–16 programs.** If you apply to more than 16 programs, you run the risk of failing to secure letter writers or offending your letter writers. While letters of recommendation are primarily shared between institutions, letter writers often specialize them to particular schools, and so it is an increasing imposition to ask them to write too many letters.  
 
@@ -15,7 +15,7 @@ PhD applicants who have been involved in an independent study or undergraduate r
 {% capture quote %}
 This is potentially a controversial opinion, but I have found that the actual school for a master’s or PhD program matters quite a bit less than most students think. As noted earlier in this guide, a master’s helps you enter the workforce at a higher position—the credential itself (and your performance in the interview) is what matters. PhD programs follow an apprenticeship model: you are learning the craft of research from an expert (your advisor). Within reason, your choice of advisor can have a much bigger impact on your overall success than the school name on your diploma. There are certainly reasons you might wish to have a degree from school XYZ, but your time is much better spent looking at the faculty you will learn from and collaborate with.
 {% endcapture %}
-{% include quote.html content=quote user="kleach" %}
+{% include quote.html content=quote user="angstadt" %}
 
 {% capture quote %}
 Don't be influenced by prestige alone when picking a PhD program. Remember, you are committing to 4-6 years in a specific lab, with a specific advisor, working on a highly specialized topic. Your success and happiness will depend on the quality of that environment. Prioritize finding a research area that genuinely excites you and an advisor whose mentorship style fits your needs. You can always ask to meet with the students of the lab to understand these better. These factors are ultimately more important than a school's ranking. If you can find both a great fit and a top-ranked school, you've hit the jackpot.
@@ -35,13 +35,14 @@ You may find [Philip Guo’s vlog on choosing CS graduate schools](https://www.y
 
 {% capture quote %}
 Beyond hard limiters like money or family/partner things, I think that my top three reasons to choose or apply to a program were well-ordered.  
-1. Advisor personality fit → are they someone you have similar values to/agree with on their mission and someone you can speak honestly to?  
-2. Advisor research fit  
-3. University fit → climate, location, ethos, prestige/connections  
-
-Your advisor has influence over many of your activities in grad school and consequently can have a large influence over your happiness. A great advisor–advisee fit will often allow you to explore—or give you an appreciation for—new areas, making research fit at the outset less important. Don’t make yourself unhappy in the long run by prioritizing something for the wrong reasons. If you don’t enjoy indirectness or your advisor being hands-on, for example, consider these quirks seriously and include them in your roundabout questioning.
+<ol>
+<li>Advisor personality fit → are they someone you have similar values to/agree with on their mission and someone you can speak honestly to?  </li> 
+<li>Advisor research fit  </li> 
+<li>University fit → climate, location, ethos, prestige/connections  </li> 
+</ol>
+Your advisor has influence over many of your activities in grad school and consequently can have a large influence over your happiness. A great advisor–advisee fit will often allow you to explore&mdash;or give you an appreciation for&mdash;new areas, making research fit at the outset less important. Don’t make yourself unhappy in the long run by prioritizing something for the wrong reasons. If you don’t enjoy indirectness or your advisor being hands-on, for example, consider these quirks seriously and include them in your roundabout questioning.
 {% endcapture %}
-{% include quote.html content=quote user="kaia" %}
+{% include quote.html content=quote user="knewman" %}
 
 
 Finally, we note two common pitfalls. The first is restricting attention to a particular location, such as “I will only apply to schools on the East Coast”. You can do a geographically-targeted graduate school application, but we encourage you to double-check this guide’s suggestions on mitigating risks and contingency planning. Second, some lower-ranked PhD programs are easier to get into but are not fully funded. That is a complicated topic of discussion, but the authors of this guide strongly recommend against such programs for PhD applicants. It is typically better to apply again next year than to accept such an offer; PhD programs that ask you to pay your own way rarely have your best interests at heart. 
@@ -97,7 +98,7 @@ When applying online, you should **always waive your right to see your letters o
 {% capture quote %}
 Waive your right to see your letters on every application. Technically it’s your right to see them, but it can only hurt your chances if you choose not to do so. Some believe it implies that the letter is not purely the opinion of the recommender because you had to make a pass over it. 
 {% endcapture %}
-{% include quote.html content=quote user="kaia" %}
+{% include quote.html content=quote user="knewman" %}
 
 # Approaching Letter Writers
 
