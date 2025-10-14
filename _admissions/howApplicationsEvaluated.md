@@ -151,7 +151,7 @@ The faculty evaluators and applications are, unfortunately, not available/archiv
 {% capture quote %}
 A word of advice for international students who don't have 3.5+ GPAs: don't let your GPA be misinterpreted. I had a 3.47 GPA from my time at Middle East Technical University in Turkey. That number doesn't look competitive but I was at the top %25 of my class at one of the country's best universities. It’s a common practice for schools in Turkey to grade more harshly, and this puts us at a disadvantage. My solution was to address it head-on in my application, explaining the grading culture and emphasizing my high class rank to prove my standing. And if you're in a position to explain your GPA don't hesitate to apply for competitive schools that expect higher GPAs.
 {% endcapture %}
-{% include quote.html content=quote user="serra" %}
+{% include quote.html content=quote user="sdane" %}
 
 
 ### The Paradox of “Yield”

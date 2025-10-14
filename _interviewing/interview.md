@@ -8,7 +8,7 @@ The purpose of the interview is almost always to help the decision-maker make a 
 
 
 {% include quote.html content=" Interviews matter: I thought that I had prepared my application well and also had strong recommendation letters. And I mostly thought that when I got interview invitations, they would be really casual and I would talk about my research, which I thought I knew really well. Although I got many interviews, in most of them the experience was different from what I expected. Since I had not prepared myself to answer technical questions outside my research or even within my research, I was not able to convince them that I had a strong fundamental knowledge. After a couple of interviews went badly, I practiced more and eventually was able to do better. But I suggest preparing for interviews, since it's the last step to getting accepted.
-" user="serra" %}
+" user="sdane" %}
 
 ---
 

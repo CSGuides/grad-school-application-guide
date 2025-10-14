@@ -20,7 +20,7 @@ This is potentially a controversial opinion, but I have found that the actual sc
 {% capture quote %}
 Don't be influenced by prestige alone when picking a PhD program. Remember, you are committing to 4-6 years in a specific lab, with a specific advisor, working on a highly specialized topic. Your success and happiness will depend on the quality of that environment. Prioritize finding a research area that genuinely excites you and an advisor whose mentorship style fits your needs. You can always ask to meet with the students of the lab to understand these better. These factors are ultimately more important than a school's ranking. If you can find both a great fit and a top-ranked school, you've hit the jackpot.
 {% endcapture %}
-{% include quote.html content=quote user="serra" %}
+{% include quote.html content=quote user="sdane" %}
 
 Graduate programs are often assessed using nebulous metrics known as **rankings.** There is much more to a graduate program, and much more to graduate applications, than simple rankings. However, rankings do correlate with selectivity and they can be a useful tool for generating initial ideas about where to apply. The two primary rankings for computer science are:
 
