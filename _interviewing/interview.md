@@ -10,8 +10,6 @@ The purpose of the interview is almost always to help the decision-maker make a 
 {% include quote.html content=" Interviews matter: I thought that I had prepared my application well and also had strong recommendation letters. And I mostly thought that when I got interview invitations, they would be really casual and I would talk about my research, which I thought I knew really well. Although I got many interviews, in most of them the experience was different from what I expected. Since I had not prepared myself to answer technical questions outside my research or even within my research, I was not able to convince them that I had a strong fundamental knowledge. After a couple of interviews went badly, I practiced more and eventually was able to do better. But I suggest preparing for interviews, since it's the last step to getting accepted.
 " user="sdane" %}
 
----
-
 **Master’s Applications**
 
 If you applied for a coursework-based computer science masters program, it is unlikely that you will have an interview. Most decisions are made from your application materials alone. The one exception is that if you are a non-native English speaker, you may be asked to do a quick phone interview regarding your English proficiency (we describe these more below).
@@ -25,9 +23,9 @@ If you applied for a research-based (thesis) masters, you might get called in fo
 
 Interviews are generally conducted remotely over phone or video conference. There are three types of interviews you might encounter:
 
-- 1. Language-proficiency screening
-- 2. Departmental Interview
-- 3. Interviews with specific faculty who might want to hire you
+1. Language-proficiency screening
+2. Departmental Interview
+3. Interviews with specific faculty who might want to hire you
 
 In some situations, you may have more than one interview for a single school. We detail each interview type in turn.
 
@@ -40,7 +38,7 @@ In some situations, you may have more than one interview for a single school. We
 In most cases, the focus of the interview will be on determining if you and the advisor (or you and the department) have a good fit. 
 
 {% include quote.html content="Occasionally, faculty considering a specific student will also reach out to letter writers for more information. I’ve had professors I know at other schools contact me when they see one of my recommendations. Much like student interviews, these conversations are used to gauge whether there might be a good advisor fit or if the student has the needed background knowledge for a research topic.
-" user="kleach" %}
+" user="angstadt" %}
 
 
 ## How Can I Prepare for a PhD Interview?

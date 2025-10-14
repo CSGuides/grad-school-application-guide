@@ -4,13 +4,13 @@ For almost every PhD program and many master’s programs, if you are offered ad
 
 When possible, the department covers all costs (travel, lodging, food, etc.). In some cases (COVID, budget emergencies), visit days may be conducted remotely. In addition, the reimbursement amount is typically sufficient for students already in the US to visit US schools, but is rarely enough for international students to visit US schools. 
 
-{% include quote.html content=" It’s worth stating explicitly: you should attend these visit days. Depending on the number of offers you receive, you may not be able to—or want to—attend all visit days, but I encourage my students to go to no less than two. The delta between visits can be very illuminating. It’s also worth stating that missing class for visit days should be considered an excused absence. If you run into any trouble with a professor giving you a hard time, reach out to one of your letter writers (or advisor) for support—more often than not, they will gladly advocate for you.
-" user="kleach" %} 
+{% include quote.html content="It’s worth stating explicitly: you should attend these visit days. Depending on the number of offers you receive, you may not be able to—or want to—attend all visit days, but I encourage my students to go to no less than two. The delta between visits can be very illuminating. It’s also worth stating that missing class for visit days should be considered an excused absence. If you run into any trouble with a professor giving you a hard time, reach out to one of your letter writers (or advisor) for support—more often than not, they will gladly advocate for you.
+" user="angstadt" %} 
 
 A department’s visit day activities typically last one to two days. Meetings with potential advisors, meetings with current students, listening to presentations about the department and its policies and opportunities, and social or town activities are all common.
 
-{% include quote.html content="  In my opinion, the most important activity on a visit day is meeting with the advisor(s) who wants to recruit you, and the next most important ones are meeting students of that advisor and other professors who could advise you/who you could work with.
-" user="kaia" %} 
+{% include quote.html content="In my opinion, the most important activity on a visit day is meeting with the advisor(s) who wants to recruit you, and the next most important ones are meeting students of that advisor and other professors who could advise you/who you could work with.
+" user="knewman" %} 
 
 **Talking to Students.** Graduate students will give you the most accurate information about what it is like to be a graduate student. Current graduate students of a potential advisor will give you the best idea of what it is like to be a graduate student who works with that potential advisor. We encourage you to prioritize asking questions that will help you establish a personality fit. It is much easier to assess a research topic alignment remotely (e.g., by looking at the potential advisor’s papers). It is much harder to tell if you will actually be comfortable working with a potential advisor. 
 
@@ -18,10 +18,10 @@ Kaia Newman asked a number of questions of advisors and graduate students, both 
 
 
 {% include quote.html content="I prefer written information, since I can refer back to it and I express my questions and thoughts more clearly when I have time to write them down.
-" user="kaia" %} 
+" user="knewman" %} 
 
 
-{% include quote.html content="Kaia’s questions for professors included:
+Kaia’s questions for professors included:
 -What is your advising style?
 -What are your favorite and least favorite parts of being a professor?
 -How do you choose a first project for a new Ph.D. student? How did your current students get their first projects?
@@ -47,12 +47,10 @@ Kaia’s questions for students included:
 -How does the cost of living in [city] compare with your stipend?
 -How big is the department? How many Ph.D. students are there in computer science?
 
-Other potential questions include:
+Beyond Kaia's suggestions, other potential questions we recommend include:
 -Where have recently-graduated students ended up? What sort of jobs did they get? (Do those align with your career goals as an applicant?)
 -How many students do you know who were able to work as teaching assistants? As full instructors of record?
 -How many master’s degree students do you know who were hired as paid research assistants?
-
-" user="kaia" %} 
 
 **Inverted Phrasing.** By the time you are attending a visit day, the school is trying to convince you to accept the offer. Many applicants have multiple offers (see elsewhere in this guide for raw numbers). Many faculty and students will have been told to put a positive outlook on things and convince all of the visitors to accept. One the one hand, that can reduce pressure. On the other hand, that can make it difficult to be confident that you are getting precise information: you may wonder if people are just telling you what you want to hear. Sadly, direct experience with visit days (from both sides) suggests that this bias is quite real. 
 
@@ -94,7 +92,7 @@ Second, people often pay more attention to rankings than they should. Rankings a
 " user="weimer" %} 
 
 {% include quote.html content="All other things being equal, I always encourage students to prioritize themselves rather than school rankings when making this final decision, especially for PhD programs. It’s an endurance race, and giving yourself every advantage to make it over the finish line is critical to success. Don’t discount things like weather, housing, city size, location, etc. While we encourage you not to be picky when applying to schools, now is the time to bring back all these considerations.
-" user="kleach" %} 
+" user="angstadt" %} 
 
 We encourage you to talk through potential decisions with local advisors, people you meet at conferences, professors in other classes, and so on. By contrast, in our personal opinion, family members tend not to be good sources of guidance in these situations: in most cases they lack specific knowledge of what graduate degree work entails, and thus tend to over-prioritize location information and their outdated assessments of ranking. 
 
