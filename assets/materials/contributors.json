@@ -7,10 +7,30 @@
     "cv": "angstadt/angstadt_cv.pdf",
     "profileImageLoc": "angstadt/angstadt.png",
     "outcomes": "angstadt/angstadt_outcomes.docx",
-    "tags": ["PhD", "Liberal Arts Undergrad"]
+    "tags": ["PhD", "Liberal Arts Undergrad", "Computer Systems"]
   },
   {
     "id": 2,
+    "name": "Timmy Boyce",
+    "cycle": "Accepted at U. South Carolina", 
+    "statementOfPurpose": "tboyce/tboyce-statement.pdf",
+    "cv": "tboyce/tboyce-resume.pdf",
+    "profileImageLoc": "tboyce/tboyce.png",
+    "outcomes": "tboyce/tboyce-outcomes.docx",
+    "tags": ["Master's", "Liberal Arts Undergrad"]
+  },
+  {
+    "id": 3,
+    "name": "Dakota 'Cody' Bryan",
+    "cycle": "Accepted at Colorado U. Boulder", 
+    "statementOfPurpose": "cbryan/cbryan-statement.pdf",
+    "cv": "cbryan/cbryan-cv.pdf",
+    "profileImageLoc": "cbryan/cbryan-profile.jpg",
+    "outcomes": "cbryan/cbryan-outcomes.docx",
+    "tags": ["PhD", "Liberal Arts Undergrad"]
+  },
+  {
+    "id": 4,
     "name": "Serra Dane",
     "cv": "sdane/sdane_cv.pdf",
     "cycle": "Accepted at U. Michigan", 
@@ -21,7 +41,7 @@
     "tags": ["PhD", "Non-US Undergraduate", "Computer Systems"]
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "Madeline Endres",
     "cycle": "Accepted at U. Michigan", 
     "statementOfPurpose": "endremad/endres_statement.pdf",
@@ -30,7 +50,7 @@
     "tags": ["PhD", "Software Engineering"]
   },
   {
-    "id": 4,
+    "id": 6,
     "name": "Danniell Hu",
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
@@ -40,7 +60,7 @@
     "tags": ["PhD", "First Generation", "AI", "Transfer Student", "Returning Adult", "Lower GPA"]
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "Zachary Karas",
     "cycle": "Accepted at Vanderbilt U.", 
     "statementOfPurpose": "zkaras/zkaras_purpose.pdf",
@@ -48,7 +68,7 @@
     "tags": ["PhD", "Lower GPA", "First Generation", "Software Engineering", "Transfer Student", "Returning Adult"]
   },
   {
-    "id": 6,
+    "id": 8,
     "name": "Jeremy Lacomis",
     "cycle": "Accepted at Carnegie Mellon U.", 
     "statementOfPurpose": "lacomis/lacomis_purpose.pdf",
@@ -56,7 +76,7 @@
     "tags": ["PhD", "Returning Adult", "Lower GPA", "Software Engineering"]
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Kaia Newman",
     "cv": "knewman/newman_cv.pdf",
     "cycle": "Accepted at Carnegie Mellon U.", 
@@ -68,7 +88,17 @@
     "tags": ["PhD", "Lower GPA", "Software Engineering"]
   },
   {
-    "id": 8,
+    "id": 10,
+    "name": "Eduardo Puerta",
+    "cv": "epuerta/epuerta-cv.pdf",
+    "cycle": "Accepted at Northeastern U.", 
+    "statementOfPurpose": "epuerta/epuerta-statement.pdf",
+    "profileImageLoc": "epuerta/epuerta.png",
+    "outcomes": "epuerta/epuerta-outcomes.pdf",
+    "tags": ["PhD", "Liberal Arts Undergrad"]
+  },
+  {
+    "id": 11,
     "name": "Priscila Santiesteban",
     "cv": "priscila/priscila_resume.pdf",
     "cycle": "Accepted at U. Michigan", 
@@ -78,7 +108,7 @@
     "tags": ["PhD", "First Geneneration", "Software Engineering", "Liberal Arts Undergrad"]
   },
   {
-    "id": 9,
+    "id": 12,
     "name": "Rohit Sarpalle",
     "cv": "rohit/rohit_cv.pdf",
     "cycle": "Accepted at U. Michigan", 
