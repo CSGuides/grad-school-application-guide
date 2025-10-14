@@ -26,32 +26,22 @@ During the two main semesters each year (Fall and Spring), master’s degree stu
 Graduate students almost always have a desk in a shared lab in the computer science building. Master’s degree students typically have total freedom to work from home or from the office.  
 PhD students typically work out expectations about in-person attendance for certain activities (e.g., group research meetings) with their advisors.
 
-A full-time graduate student teaching assistant works 20 hours per week as a teaching assistant.  
-Although a standard “full-time job” in the U.S. is 40 hours per week, a full-time graduate student TA position is 20 hours per week.  
-The “other 20 hours” are then spent on graduate coursework and pursuing research.  
-Similarly, a PhD student paid as a full-time research assistant does 20 hours of research work per week on paper (and then typically spends the “other 20 hours” on research as well).  
+A full-time graduate student teaching assistant works 20 hours per week as a teaching assistant.  Although a standard “full-time job” in the U.S. is 40 hours per week, a full-time graduate student TA position is 20 hours per week.  The “other 20 hours” are then spent on graduate coursework and pursuing research.  Similarly, a PhD student paid as a full-time research assistant does 20 hours of research work per week on paper (and then typically spends the “other 20 hours” on research as well).  
 When we talk about a graduate student being fully funded (tuition, health insurance, and stipend), that is associated with 20 hours of paid work per week.
 
-{% include quote.html content="Graduate school is often 'bursty'. Even if the average is 40 hours per week, many weeks, such as those near paper submission deadlines, may involve significantly more work and more hours. Other weeks, such as those after a deadline, or some weeks during the summer, involve much less." user="weimer" %}
+{% include quote.html content="Graduate school is often "bursty". Even if the average is 40 hours per week, many weeks, such as those near paper submission deadlines, may involve significantly more work and more hours. Other weeks, such as those after a deadline, or some weeks during the summer, involve much less." user="weimer" %}
 
-While requirements vary from program to program, master’s degree students typically complete 6–10 courses.  
-For example, the University of Michigan CSE division requires 24 graduate credits and most graduate courses are 3 credits each, for a total of 8 courses.  
-A student could complete these in four semesters (2+2+2+2) or three semesters (2+3+3), and a student who completed one or two courses while completing the undergraduate degree could finish the rest in two semesters (in a five-year bachelor’s + master’s program).  
+While requirements vary from program to program, master’s degree students typically complete 6–10 courses.  For example, the University of Michigan CSE division requires 24 graduate credits and most graduate courses are 3 credits each, for a total of 8 courses.  A student could complete these in four semesters (2+2+2+2) or three semesters (2+3+3), and a student who completed one or two courses while completing the undergraduate degree could finish the rest in two semesters (in a five-year bachelor’s + master’s program).  
 
-Not all courses are offered every semester, and you often have to take courses from different categories (e.g., at least one Theory course, at least one Hardware course, etc.), so it sometimes takes one more semester than you might think.  
-Overall, a common day-to-day experience for a master’s student might be “three more semesters of taking rigorous courses.”
+Not all courses are offered every semester, and you often have to take courses from different categories (e.g., at least one Theory course, at least one Hardware course, etc.), so it sometimes takes one more semester than you might think.  Overall, a common day-to-day experience for a master’s student might be “three more semesters of taking rigorous courses.”
 
-Junior PhD students also take classes but may take them at a slower rate while working on research simultaneously.  
-In contrast to undergraduate or most master’s degrees where coursework is essential, **research progress** is the most important task for progressing through a PhD program.
+Junior PhD students also take classes but may take them at a slower rate while working on research simultaneously.  In contrast to undergraduate or most master’s degrees where coursework is essential, **research progress** is the most important task for progressing through a PhD program.
 
 ---
 
 ## Summers
 
-Summers can be very productive times in graduate school.  
-Most undergraduate students are away, and graduate classes are rarely offered during the summer.  
-Master’s degree students often pursue a paid, external internship during the summer (and students in a five-year bachelor’s + master’s program may not have a summer in graduate school at all).  
-PhD students typically stay during the summer to work on research without distractions but may also go on external internships or travel to conferences to present publications and network.
+Summers can be very productive times in graduate school.  Most undergraduate students are away, and graduate classes are rarely offered during the summer.  Master’s degree students often pursue a paid, external internship during the summer (and students in a five-year bachelor’s + master’s program may not have a summer in graduate school at all).  PhD students typically stay during the summer to work on research without distractions but may also go on external internships or travel to conferences to present publications and network.
 
 ---
 
@@ -111,7 +101,7 @@ For many students, especially international students and first-generation studen
 
 {% include quote.html content="Life here is different for each student. At my graduate program (the University of Michigan), it is both competitive and supportive. There will be highs and lows. You might think you were really good at something, but that might change here because courses are more rigorous and you’ll likely need to work harder than you did in your home country. For Indian students in particular, this adjustment is very real." user="sathvika" %}
 
-{% include quote.html content="Moving into an apartment alone was quite jarring after my experience living in a cooperative house in undergrad. I played videos on my TV and phone while cooking and cleaning because I felt lonely... Things are better now – I have a cat, put more sentimental items and art around the house, and grew to appreciate my privacy to a greater extent." user="kaia" %}
+{% include quote.html content="Moving into an apartment alone was quite jarring after my experience living in a cooperative house in undergrad. I played videos on my TV and phone while cooking and cleaning because I felt lonely... Things are better now – I have a cat, put more sentimental items and art around the house, and grew to appreciate my privacy to a greater extent." user="knewman" %}
 
 ---
 
