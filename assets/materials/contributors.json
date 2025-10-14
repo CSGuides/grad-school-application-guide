@@ -50,13 +50,13 @@
   },
   {
     "id": 6,
-    "name": "Danniel Hu",
+    "name": "Danniell Hu",
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
     "cycle": "Accepted at U. Michigan", 
     "statementOfPurpose": "dannihu/hu_purpose.pdf",
     "profileImageLoc": "dannihu/hu-profile.jpg",
-    "tags": ["PhD", "First Generation", "AI", "Transfer Student", "Returning Adult"]
+    "tags": ["PhD", "First Generation", "AI", "Transfer Student", "Returning Adult", "Lower GPA"]
   },
   {
     "id": 7,
@@ -74,6 +74,16 @@
     "cycle": "Accepted at Carnegie Mellon U.", 
     "statementOfPurpose": "lacomis/lacomis_purpose.pdf",
     "profileImageLoc": "lacomis/lacomis.jpg",
-    "tags": ["PhD"]
+    "tags": ["PhD", "Returning Adult", "Lower GPA", "Software Engineering"]
+  },
+  {
+    "id": 9,
+    "name": "Kevin Angstadt",
+    "cycle": "Accepted at U. Virginia", 
+    "statementOfPurpose": "angstadt/angstadt_purpose.pdf",
+    "cv": "angstadt/angstadt_cv.pdf",
+    "profileImageLoc": "angstadt/angstadt.png",
+    "outcomes": "angstadt/angstadt_outcomes.docx",
+    "tags": ["PhD", "Liberal Arts Undergrad"]
   }
 ]
