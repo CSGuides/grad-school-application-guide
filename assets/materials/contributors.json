@@ -60,5 +60,12 @@
     "statementOfPurpose": "rohit/rohit_purpose.pdf",
     "profileImageLoc": "rohit/rohit_profile.jpeg",
     "tags": ["Master's"]
+  },
+  {
+    "id": 8,
+    "name": "Jeremy Lacomis",
+    "statementOfPurpose": "lacomis/lacomis_purpose.pdf",
+    "profileImageLoc": "rohit/lacomis.jpg",
+    "tags": ["PhD"]
   }
 ]
