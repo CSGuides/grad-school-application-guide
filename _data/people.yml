@@ -151,16 +151,16 @@
 - id: sathvika
   display: Sathvika Prabhu
   role: Graduate Student Contributor
-  cycle: FIXME cycle for
+  cycle: "accepted to"
   target: Master's Programs
-  avatar: sathvika.jpeg
+  avatar: sathvika.png
   color: "#006699"
   
 
 - id: serra
   display: Serra Dane
   role: Graduate Student Contributor
-  cycle: FIXME cycle for
+  cycle: "accepted to" 
   target: PhD Programs
   avatar: sdane.jpg
   color: "#006699"
@@ -176,7 +176,7 @@
 - id: kaia
   display: Kaia Newman
   role: Graduate Student Contributor
-  cycle: FIXME cycle for
+  cycle: "accepted to"
   target: PhD Programs
   avatar: newman_profile.png
   color: "#006699"
@@ -193,7 +193,7 @@
 - id: priscila
   display: Priscila Santiesteban
   role: Graduate Student Contributor
-  cycle: 2021 cycle for
+  cycle: "accepted to" 
   target: PhD Programs
   avatar: priscila.jpg
   color: "#006699"
@@ -207,7 +207,7 @@
 - id: danni
   display: Danniel Hu
   role: Graduate Student Contributor
-  cycle: FIXME cycle for
+  cycle: "accepted to"
   target: PhD Programs
   avatar: hu-profile.jpg
   color: "#006699"
@@ -221,7 +221,7 @@
 - id: zachK
   display: Zachary Karas
   role: Graduate Student Contributor
-  cycle: FIXME cycle for
+  cycle: "accepted to"
   target: PhD Programs
   avatar: zkaras_profile.png
   color: "#006699"
@@ -231,7 +231,7 @@
 - id: rohit
   display: Rohit Sarpalle
   role: Graduate Student Contributor
-  cycle: FIXME cycle for
+  cycle: "accepted to"
   target: Master's Programs
   avatar: newman_profile.png
   color: "#006699"

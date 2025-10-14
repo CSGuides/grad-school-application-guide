@@ -59,8 +59,6 @@ A primary admission consideration is **your ability to carry out rigorous resear
 
 In this guide, we use terms like “PhD student” to refer to someone in the PhD track, even if that person is currently getting a master’s degree along the way.
 
----
-
 A university typically offers both a master’s and PhD track within its graduate program. Applications are usually due for both at the same time (often around **December** of the year before you start).  
 
 If you are earlier in your undergraduate degree, or are a returning adult or non-traditional student, this guide can help you take actions to improve your admissions chances. If you are in your final year, you’ll have to decide whether to apply for the master’s or PhD track. *This guide will help you with those decisions and applications!*

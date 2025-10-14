@@ -14,7 +14,7 @@ This may be a good opportunity to talk to some of your professors or industrial 
 {% capture quote %}
 I’ll reiterate Wes’s encouragement to talk to your professors early and often. As a student, you see one perspective of academic life at one institution. The reality is academic (and industrial) careers can be quite varied. Your professors have certainly considered (or worked in) many of these career options and are great resources for helping you learn more. Asking them about what kinds of jobs they considered and why they ultimately chose their current position can result in a very interesting conversation. Professors also often have contacts and friends from graduate school in other career paths, so they can often speak directly to non-academic careers as well.
 {% endcapture %}
-{% include quote.html content=quote user="kleach" %}
+{% include quote.html content=quote user="angstadt" %}
 
 {% capture quote %}
 Don’t wait to “feel ready.” Apply to jobs and graduate programs even if you think you aren’t prepared yet. Be delusional here too. You don’t have to know everything in advance. From my conversations with professors, for PhD all they really care about is whether you have research experience and a positive mindset. Research is a journey with highs and lows. Sometimes you work for months and realize it doesn’t lead to a valid result, and that is normal. What professors want to see is that you can stay open-minded, that you can say “I can try this, I can learn this new thing,” and that you can persist. Don’t let your own doubts stop you from applying.
@@ -40,8 +40,7 @@ A graduate degree is required for, or significantly helps with, many career opti
 - **Industrial researcher at an academic or federal lab.** These include government labs (e.g., NASA), Federally Funded Research and Development Centers (FFRDCs, such as Raytheon BBN or MITRE), and labs associated with universities (such as MIT Lincoln Labs, Johns Hopkins University Applied Physics Labs, and the Kestrel Institute near Stanford). These are similar to industrial research positions at a large company lab, but with research results supporting broader governmental or national goals, rather than a specific company product.
 - **Industrial researcher at a specialized lab.** While larger companies and labs are more frequently discussed, many (most?) students completing graduate programs work at smaller, specialized companies that focus on a particular sub-area (usually the area the student also focused on during graduate school). These jobs typically involve research and development or contracts with a shorter time horizon.
 
-While this guide defaults to a US perspective, these positions have international analogs.  
-A tenure-track faculty position at McGill University in Canada or the National University of Singapore or University College London is very similar to one in the US. An institution like the CISPA Helmholtz Center for Information Security (in Germany), Max Planck Institutes (in Germany), or the National Institute for Research in Digital Science and Technology (Inria in France) is very similar to a federal lab in the US.
+While this guide defaults to a US perspective, these positions have international analogs. A tenure-track faculty position at McGill University in Canada or the National University of Singapore or University College London is very similar to one in the US. An institution like the CISPA Helmholtz Center for Information Security (in Germany), Max Planck Institutes (in Germany), or the National Institute for Research in Digital Science and Technology (Inria in France) is very similar to a federal lab in the US.
 
 Our associated graduate job guide details which jobs are available to students completing a graduate degree and offers advice on how to get them. [Link](https://csguides.github.io/grad-job-guide/jobs/)
 
@@ -87,7 +86,7 @@ In practice, these often have less-obvious constraints. For example, they may re
 
 ---
 
-**International Considerations.** FIXME: 
+**International Considerations.** Attending a graduate school in another country offers both challenges and opportunities. If you are considering applying internationally, we recommend augmenting this guide with specific advice for that aspect. 
 
 {% capture quote %}
 Ignore unnecessary outside noise. You’ll hear a lot about jobs, funding, visas, and the future. It’s important to stay informed, but don’t get consumed. Visa news in particular can feel scary. One week there’s a rumor, the next week it’s withdrawn or forgotten. If you constantly dwell on these uncertainties, you’ll only add stress. Focus on what you can control, on your own journey, your effort, and your growth.
