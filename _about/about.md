@@ -46,24 +46,25 @@ These individuals are not formal authors but have provided valuable context and 
 
 On the faculty side, we are indebted to:
 - Hammad Ahmad (Assistant Teaching Professor, Carnegie Mellon University)
+- James Perretta (Teaching Faculty, UMass Amherst)
+- Kevin Leach (Assistant Professor, Vanderbilt University)
 - Steph Forest (Professor, Arizona State University)
 - Yu Huang (Assistant Professor, Vanderbilt University)
-- Kevin Leach (Assistant Professor, Vanderbilt University)
-- James Perretta (Teaching Faculty, UMass Amherst)
 
 
 On the staff side, we are indebted to:
-- Magdalena Calvillo (Graduate Student Coaching and Community Engagement Manager, U. Michigan)
 - Amanda Feaganes (Graduate Program Coordinator, U. Michigan)
+- Magdalena Calvillo (Graduate Student Coaching and Community Engagement Manager, U. Michigan)
 - Sarah Snay (Outreach Coordinator and Program Evaluator, U. Michigan)
 
 On the student side, we are indebted to:
-- Serra Dane (U. Colorado Boulder → U. Michigan, PhD)
-- Zach Karas (U. Michigan → Vanderbilt U., PhD)
+- Danniell Hu (U. Michigan → U. Michigan, PhD)
 - Jeremy Lacomis (U. Virginia → Carnegie Mellon U., PhD)
 - Kaia Newman (U. Michigan → Carnegie Mellon U., PhD)
-- Sathvika Prabhu (NA → U. Michigan, Master's)
 - Priscila Santiesteban (Coe College → U. Michigan, PhD)
+- Sathvika Prabhu (NA → U. Michigan, Master's)
+- Serra Dane (U. Colorado Boulder → U. Michigan, PhD)
+- Zach Karas (U. Michigan → Vanderbilt U., PhD)
 
 
 

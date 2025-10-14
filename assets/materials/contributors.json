@@ -2,47 +2,42 @@
   {
     "id": 1,
     "name": "Serra Dane",
-    "cycle": "FIXME",
     "cv": "sdane/sdane_cv.pdf",
     "transcript": "sdane/sdane_transcript.pdf",
     "statementOfPurpose": "sdane/sdane_purpose.pdf",
     "personalStatement": "sdane/sdane_personal.pdf",
-    "profileImageLoc": "sdane/sdane.jpg",
-    "tags": ["PhD", "International", "Computer Systems"]
+    "profileImageLoc": "sdane/sdane.png",
+    "tags": ["PhD", "Non-US Undergraduate", "Computer Systems"]
   },
   {
     "id": 2,
     "name": "Priscila Santiesteban",
-    "cycle": "2021",
     "cv": "priscila/priscila_resume.pdf",
     "transcript": "priscila/priscila_transcript.pdf",
     "statementOfPurpose": "priscila/priscila_purpose.pdf",
-    "profileImageLoc": "priscila/priscila.jpg",
-    "tags": ["PhD", "First-Gen", "Software Engineering", "Liberal Arts Undergrad"]
+    "profileImageLoc": "priscila/pasanti2025.jpeg",
+    "tags": ["PhD", "First Geneneration", "Software Engineering", "Liberal Arts Undergrad"]
   },
   {
     "id": 3,
     "name": "Kaia Newman",
-    "cycle": "FIXME",
     "cv": "knewman/newman_cv.pdf",
     "transcript": "knewman/newman_transcript.pdf",
     "statementOfPurpose": "knewman/newman_purpose.pdf",
     "profileImageLoc": "knewman/newman_profile.png",
     "GREscores": "knewman/newman_gre.png",
-    "tags": ["PhD", "Low-GPA", "Software Engineering"]
+    "tags": ["PhD", "Lower GPA", "Software Engineering"]
   },
   {
     "id": 4,
     "name": "Zachary Karas",
-    "cycle": "FIXME",
     "statementOfPurpose": "zkaras/zkaras_purpose.pdf",
     "profileImageLoc": "zkaras/zkaras_profile.png",
-    "tags": ["PhD", "Low-GPA", "First-Gen", "Software Engineering", "Returning-Adult"]
+    "tags": ["PhD", "Lower GPA", "First Generation", "Software Engineering", "Transfer Student", "Returning Adult"]
   },
   {
     "id": 5,
     "name": "Madeline Endres",
-    "cycle": "FIXME",
     "statementOfPurpose": "endremad/endres_statement.pdf",
     "personalStatement": "endremad/endres_personal.pdf",
     "profileImageLoc": "endremad/Endres_headshot.jpeg",
@@ -51,17 +46,15 @@
   {
     "id": 6,
     "name": "Danniel Hu",
-    "cycle": "FIXME",
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
     "statementOfPurpose": "dannihu/hu_purpose.pdf",
     "profileImageLoc": "dannihu/hu-profile.jpg",
-    "tags": ["PhD", "First-Gen", "AI", "Tranfser Student"]
+    "tags": ["PhD", "First Generation", "AI", "Transfer Student", "Returning Adult"]
   },
   {
     "id": 7,
     "name": "Rohit Sarpalle",
-    "cycle": "FIXME",
     "cv": "rohit/rohit_cv.pdf",
     "transcript": "rohit/rohit_transcript.pdf",
     "statementOfPurpose": "rohit/rohit_purpose.pdf",
