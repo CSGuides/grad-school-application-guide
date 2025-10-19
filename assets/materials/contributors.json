@@ -7,7 +7,7 @@
     "cv": "angstadt/angstadt_cv.pdf",
     "profileImageLoc": "angstadt/angstadt.png",
     "outcomes": "angstadt/angstadt_outcomes.docx",
-    "tags": ["PhD", "Liberal Arts Undergrad", "Computer Systems"]
+    "tags": ["PhD", "Liberal Arts Undergrad", "Computer Systems", "No Published Research"]
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "cv": "tboyce/tboyce-resume.pdf",
     "profileImageLoc": "tboyce/tboyce.png",
     "outcomes": "tboyce/tboyce-outcomes.docx",
-    "tags": ["Master's", "Liberal Arts Undergrad"]
+    "tags": ["Master's", "Liberal Arts Undergrad", "No Published Research"]
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "cv": "cbryan/cbryan-cv.pdf",
     "profileImageLoc": "cbryan/cbryan-profile.jpg",
     "outcomes": "cbryan/cbryan-outcomes.docx",
-    "tags": ["PhD", "Liberal Arts Undergrad"]
+    "tags": ["PhD", "Liberal Arts Undergrad", "No Published Research"]
   },
   {
     "id": 4,
@@ -38,7 +38,7 @@
     "statementOfPurpose": "sdane/sdane_purpose.pdf",
     "personalStatement": "sdane/sdane_personal.pdf",
     "profileImageLoc": "sdane/sdane.png",
-    "tags": ["PhD", "Non-US Undergraduate", "Computer Systems"]
+    "tags": ["PhD", "Non-US Undergraduate", "Computer Systems", "No Published Research"]
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "statementOfPurpose": "endremad/endres_statement.pdf",
     "personalStatement": "endremad/endres_personal.pdf",
     "profileImageLoc": "endremad/Endres_headshot.jpeg",
-    "tags": ["PhD", "Software Engineering"]
+    "tags": ["PhD", "Software Engineering", "No Published Research"]
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "cycle": "Accepted at U. Michigan", 
     "statementOfPurpose": "dannihu/hu_purpose.pdf",
     "profileImageLoc": "dannihu/hu-profile.jpg",
-    "tags": ["PhD", "AI", "Software Engineering", "Transfer Student", "Returning Adult", "Lower GPA"]
+    "tags": ["PhD", "AI", "Software Engineering", "Transfer Student", "Returning Adult", "Lower GPA", "No Published Research"]
   },
   {
     "id": 7,
@@ -73,7 +73,7 @@
     "cycle": "Accepted at Carnegie Mellon U.", 
     "statementOfPurpose": "lacomis/lacomis_purpose.pdf",
     "profileImageLoc": "lacomis/lacomis.jpg",
-    "tags": ["PhD", "Returning Adult", "Lower GPA", "Software Engineering"]
+    "tags": ["PhD", "Returning Adult", "Lower GPA", "Software Engineering", "No Published Research"]
   },
   {
     "id": 9,
@@ -95,7 +95,7 @@
     "statementOfPurpose": "epuerta/epuerta-statement.pdf",
     "profileImageLoc": "epuerta/epuerta.png",
     "outcomes": "epuerta/epuerta-outcomes.pdf",
-    "tags": ["PhD", "Liberal Arts Undergrad"]
+    "tags": ["PhD", "Liberal Arts Undergrad", "No Published Research"]
   },
   {
     "id": 11,
@@ -105,7 +105,7 @@
     "transcript": "priscila/priscila_transcript.pdf",
     "statementOfPurpose": "priscila/priscila_purpose.pdf",
     "profileImageLoc": "priscila/pasanti2025.jpeg",
-    "tags": ["PhD", "First Generation", "Software Engineering", "Liberal Arts Undergrad"]
+    "tags": ["PhD", "First Generation", "Software Engineering", "Liberal Arts Undergrad", "No Published Research"]
   },
   {
     "id": 12,
@@ -115,6 +115,6 @@
     "transcript": "rohit/rohit_transcript.pdf",
     "statementOfPurpose": "rohit/rohit_purpose.pdf",
     "profileImageLoc": "rohit/rohit_profile.jpeg",
-    "tags": ["Master's"]
+    "tags": ["Master's", "No Published Research"]
   }
 ]
