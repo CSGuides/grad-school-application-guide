@@ -4,5 +4,6 @@
   "statementOfPurpose": [3, "Application Essay", "applying/#writing-your-essays"],
   "personalStatement": [4, "Personal Statement", "applying/#writing-your-essays"],
   "GREscores":[5, "GRE Score", "applying/#preparing-your-resume"],
-  "outcomes":[6, "Application Outcome", "interviewing"]
+  "presentation": [6, "Interview Presentation", "interviewing"],
+  "outcomes":[7, "Application Outcome", "interviewing"]
 }
