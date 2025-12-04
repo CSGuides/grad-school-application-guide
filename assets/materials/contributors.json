@@ -6,7 +6,7 @@
     "statementOfPurpose": "angstadt/angstadt_purpose.pdf",
     "cv": "angstadt/angstadt_cv.pdf",
     "profileImageLoc": "angstadt/angstadt.png",
-    "outcomes": "angstadt/angstadt_outcomes.docx",
+    "outcomes": "angstadt/angstadt_outcomes.pdf",
     "tags": ["PhD", "Liberal Arts Undergrad", "Computer Systems", "No Published Research"]
   },
   {
@@ -16,7 +16,7 @@
     "statementOfPurpose": "tboyce/tboyce-statement.pdf",
     "cv": "tboyce/tboyce-resume.pdf",
     "profileImageLoc": "tboyce/tboyce.png",
-    "outcomes": "tboyce/tboyce-outcomes.docx",
+    "outcomes": "tboyce/tboyce-outcomes.pdf",
     "tags": ["Master's", "Liberal Arts Undergrad", "No Published Research"]
   },
   {
@@ -26,7 +26,7 @@
     "statementOfPurpose": "cbryan/cbryan-statement.pdf",
     "cv": "cbryan/cbryan-cv.pdf",
     "profileImageLoc": "cbryan/cbryan-profile.jpg",
-    "outcomes": "cbryan/cbryan-outcomes.docx",
+    "outcomes": "cbryan/cbryan-outcomes.pdf",
     "tags": ["PhD", "Liberal Arts Undergrad", "No Published Research"]
   },
   {
