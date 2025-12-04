@@ -11,7 +11,7 @@ information about each author's search below to provide context.
 
 * [Priscila Santiesteban](https://pasantiesteban.github.io/ps.gitbub.io/) Is completing her PhD in Computer Science and Engineering at the University of Michigan and plans to pursue faculty positions upon graduation.
 
-* [Kevin Angstadt](https://myslu.stlawu.edu/~kangstadt/): Completed his PhD in Computer Science at the University of Michigan and joined St. Lawrence University as a tenure-track assistant professor in 2019.
+* [Kevin Angstadt](https://myslu.stlawu.edu/~kangstadt/): Started his PhD in Computer Science at the University of Virginia, received Masters, then transferred to and completed his PhD in Computer Science at the University of Michigan, and joined St. Lawrence University as a tenure-track assistant professor in 2020.
 
 * [Claire Le Goues](https://clairelegoues.com/):Completed her PhD in Computer Science at the University of Virginia and joined Carnegie Mellon University as a tenure-track assistant professor in 2013. She has since served multiple times on, and chaired, the faculty hiring committee in her department, [S3D](https://s3d.cmu.edu/).
 
