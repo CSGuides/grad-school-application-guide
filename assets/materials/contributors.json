@@ -127,5 +127,13 @@
     "statementOfPurpose": "rohit/rohit_purpose.pdf",
     "profileImageLoc": "rohit/rohit_profile.jpeg",
     "tags": ["Master's", "No Published Research"]
+  }, 
+  {
+    "id": 13,
+    "name": "Annie Li",
+    "cycle": "Accepted at Carnegie Mellon U.", 
+    "statementOfPurpose": "annieli/annieli.pdf",
+    "profileImageLoc": "annieli/annieli.png",
+    "tags": ["PhD", "Software Engineering", "Returning Adult"]
   }
 ]

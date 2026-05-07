@@ -224,6 +224,15 @@
   personalStatement:
     - file: rohit_personal.pdf
   
+- id: annieli
+  display: Annie Li
+  role: Graduate Student Contributor
+  cycle: "accepted to"
+  target: PhD Programs
+  avatar: annieli.png
+  color: "#006699"
+  statementOfPurpose:
+    - file: annieli.pdf
   
 
 
