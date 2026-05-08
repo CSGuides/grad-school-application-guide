@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Kevin Angstadt",
-    "cycle": "Accepted at U. Virginia", 
+    "cycle": "Admitted to U. Virginia", 
     "statementOfPurpose": "angstadt/angstadt_purpose.pdf",
     "cv": "angstadt/angstadt_cv.pdf",
     "profileImageLoc": "angstadt/angstadt.png",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Timmy Boyce",
-    "cycle": "Accepted at Syracuse U.", 
+    "cycle": "Admitted to Syracuse U.", 
     "statementOfPurpose": "tboyce/tboyce-statement.pdf",
     "cv": "tboyce/tboyce-resume.pdf",
     "profileImageLoc": "tboyce/tboyce.png",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Dakota 'Cody' Bryan",
-    "cycle": "Accepted at Colorado U. Boulder", 
+    "cycle": "Admitted to Colorado U. Boulder", 
     "statementOfPurpose": "cbryan/cbryan-statement.pdf",
     "cv": "cbryan/cbryan-cv.pdf",
     "profileImageLoc": "cbryan/cbryan-profile.jpg",
@@ -33,7 +33,7 @@
     "id": 4,
     "name": "Serra Dane",
     "cv": "sdane/sdane_cv.pdf",
-    "cycle": "Accepted at U. Michigan", 
+    "cycle": "Admitted to U. Michigan", 
     "transcript": "sdane/sdane_transcript.pdf",
     "statementOfPurpose": "sdane/sdane_purpose.pdf",
     "personalStatement": "sdane/sdane_personal.pdf",
@@ -43,7 +43,7 @@
   {
     "id": 5,
     "name": "Madeline Endres",
-    "cycle": "Accepted at U. Michigan", 
+    "cycle": "Admitted to U. Michigan", 
     "statementOfPurpose": "endremad/endres_statement.pdf",
     "personalStatement": "endremad/endres_personal.pdf",
     "profileImageLoc": "endremad/Endres_headshot.jpeg",
@@ -54,7 +54,7 @@
     "name": "Danniell Hu",
     "cv": "dannihu/hu_resume.pdf",
     "transcript": "dannihu/hu_transcript.pdf",
-    "cycle": "Accepted at U. Michigan", 
+    "cycle": "Admitted to U. Michigan", 
     "statementOfPurpose": "dannihu/hu_purpose.pdf",
     "profileImageLoc": "dannihu/hu-profile.jpg",
     "tags": ["PhD", "AI", "Software Engineering", "Transfer Student", "Returning Adult", "Lower GPA", "No Published Research"]
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "Zachary Karas",
-    "cycle": "Accepted at Vanderbilt U.", 
+    "cycle": "Admitted to Vanderbilt U.", 
     "statementOfPurpose": "zkaras/zkaras_purpose.pdf",
     "profileImageLoc": "zkaras/zkaras_profile.png",
     "tags": ["PhD", "Lower GPA", "First Generation", "Software Engineering", "Transfer Student", "Returning Adult"]
@@ -70,7 +70,7 @@
   {
     "id": 8,
     "name": "Jeremy Lacomis",
-    "cycle": "Accepted at Carnegie Mellon U.", 
+    "cycle": "Admitted to Carnegie Mellon U.", 
     "statementOfPurpose": "lacomis/lacomis_purpose.pdf",
     "profileImageLoc": "lacomis/lacomis.jpg",
     "tags": ["PhD", "Returning Adult", "Lower GPA", "Software Engineering", "No Published Research"]
@@ -78,19 +78,20 @@
   {
     "id": 9,
     "name": "Cai Lemieux-Mack",
-    "cycle": "Accepted at Vanderbilt U.",
+    "cycle": "Admitted to Vanderbilt U.",
     "statementOfPurpose": "clemieuxmack/Lemieux_Mack_Statement_of_Purpose.pdf",
     "cv": "clemieuxmack/Lemieux_Mack_CV.pdf",
     "profileImageLoc": "clemieuxmack/cai.jpg",
     "presentation": "clemieuxmack/Lemieux_Mack_Interview_Presentation.pdf",
     "transcript": "clemieuxmack/Lemieux_Mack_Transcript.pdf",
+    "outcomes": "clemieuxmack/Lemieux_Mack_Schools.pdf",
     "tags": ["PhD", "Liberal Arts Undergrad", "Software Engineering", "No Published Research"]
   },
   {
     "id": 10,
     "name": "Kaia Newman",
     "cv": "knewman/newman_cv.pdf",
-    "cycle": "Accepted at Carnegie Mellon U.", 
+    "cycle": "Admitted to Carnegie Mellon U.", 
     "transcript": "knewman/newman_transcript.pdf",
     "statementOfPurpose": "knewman/newman_purpose.pdf",
     "outcomes": "knewman/newman_outcomes.pdf",
@@ -102,7 +103,7 @@
     "id": 11,
     "name": "Eduardo Puerta",
     "cv": "epuerta/epuerta-cv.pdf",
-    "cycle": "Accepted at Northeastern U.", 
+    "cycle": "Admitted to Northeastern U.", 
     "statementOfPurpose": "epuerta/epuerta-statement.pdf",
     "profileImageLoc": "epuerta/epuerta.png",
     "outcomes": "epuerta/epuerta-outcomes.pdf",
@@ -112,7 +113,7 @@
     "id": 12,
     "name": "Priscila Santiesteban",
     "cv": "priscila/priscila_resume.pdf",
-    "cycle": "Accepted at U. Michigan", 
+    "cycle": "Admitted to U. Michigan", 
     "transcript": "priscila/priscila_transcript.pdf",
     "statementOfPurpose": "priscila/priscila_purpose.pdf",
     "profileImageLoc": "priscila/pasanti2025.jpeg",
@@ -122,7 +123,7 @@
     "id": 13,
     "name": "Rohit Sarpalle",
     "cv": "rohit/rohit_cv.pdf",
-    "cycle": "Accepted at U. Michigan", 
+    "cycle": "Admitted to U. Michigan", 
     "transcript": "rohit/rohit_transcript.pdf",
     "statementOfPurpose": "rohit/rohit_purpose.pdf",
     "profileImageLoc": "rohit/rohit_profile.jpeg",
@@ -131,7 +132,7 @@
   {
     "id": 14,
     "name": "Annie Li",
-    "cycle": "Accepted at Carnegie Mellon U.", 
+    "cycle": "Admitted to Carnegie Mellon U.", 
     "statementOfPurpose": "annieli/annieli.pdf",
     "profileImageLoc": "annieli/annieli.png",
     "tags": ["PhD", "Software Engineering", "Returning Adult"]
