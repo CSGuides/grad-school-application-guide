@@ -136,5 +136,17 @@
     "statementOfPurpose": "annieli/annieli.pdf",
     "profileImageLoc": "annieli/annieli.png",
     "tags": ["PhD", "Software Engineering", "Returning Adult"]
+  }, 
+  {
+    "id": 15,
+    "name": "Amy Wei",
+    "cycle": "Admitted to U. Massachusetts-Amherst",
+    "personalStatement": "amywei/amywei-personal-statement.pdf", 
+    "statementOfPurpose": "amywei/amywei-statement-of-purpose.pdf",
+    "profileImageLoc": "amywei/amywei.jpg",
+    "presentation": "amywei/amywei-interview-prez.pdf",
+    "outcomes": "amywei/amywei-grad-outcomes.pdf",
+    "cv": "amywei/amywei-cv.pdf",
+    "tags": ["PhD", "Software Engineering"]
   }
 ]

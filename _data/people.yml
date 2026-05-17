@@ -233,6 +233,16 @@
   color: "#006699"
   statementOfPurpose:
     - file: annieli.pdf
+
+- id: amywei
+  display: Amy Wei
+  role: Graduate Student Contributor
+  cycle: "accepted to"
+  target: PhD Programs
+  avatar: amywei.jpg
+  color: "#006699"
+  statementOfPurpose:
+    - file: amywei-statement-of-purpose.pdf
   
 
 
