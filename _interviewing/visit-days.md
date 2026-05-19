@@ -2,7 +2,7 @@
 
 For almost every PhD program and many master’s programs, if you are offered admission, the department will also pay for you to fly out and visit in person. Visit day invitations are typically only extended to people who are admitted, but in some rare cases you may be invited to interview on a visit day without your admission status being certain.
 
-When possible, the department covers all costs (travel, lodging, food, etc.). In some cases (COVID, budget emergencies), visit days may be conducted remotely. In addition, the reimbursement amount is typically sufficient for students already in the US to visit US schools, but is rarely enough for international students to visit US schools. 
+When possible, the department covers all costs (travel, lodging, food, etc.). In some cases (health concerns, budget emergencies), visit days may be conducted remotely. In addition, the reimbursement amount is typically sufficient for students already in the US to visit US schools, but is rarely enough for international students to visit US schools. 
 
 {% include quote.html content="It’s worth stating explicitly: you should attend these visit days. Depending on the number of offers you receive, you may not be able to—or want to—attend all visit days, but I encourage my students to go to no less than two. The delta between visits can be very illuminating. It’s also worth stating that missing class for visit days should be considered an excused absence. If you run into any trouble with a professor giving you a hard time, reach out to one of your letter writers (or advisor) for support—more often than not, they will gladly advocate for you.
 " user="angstadt" %} 
@@ -13,6 +13,16 @@ A department’s visit day activities typically last one to two days. Meetings w
 " user="knewman" %} 
 
 **Talking to Students.** Graduate students will give you the most accurate information about what it is like to be a graduate student. Current graduate students of a potential advisor will give you the best idea of what it is like to be a graduate student who works with that potential advisor. We encourage you to prioritize asking questions that will help you establish a personality fit. It is much easier to assess a research topic alignment remotely (e.g., by looking at the potential advisor’s papers). It is much harder to tell if you will actually be comfortable working with a potential advisor. 
+
+
+You should not be worried about asking students or professors questions
+during a visit day. The purpose of a visit day is for you to evaluate the
+school. You have already been given an offer of admission. 
+
+{% include quote.html content="Visit days are not to evaluate you. You've
+already been accepted and don't need to worry about impressing your
+potential advisor or their students." user="amywei" %}
+
 
 Kaia Newman asked a number of questions of advisors and graduate students, both virtually and via in-person visit days for multiple schools (Arizona State U., Carnegie Mellon U., North Carolina State U., Oregon State U., U. Southern California, and U. Virginia). She emailed and met with students and professors who were interested in working with her before the in-person visit days as well. 
 
@@ -52,6 +62,10 @@ Beyond Kaia's suggestions, other potential questions we recommend include:
 -How many students do you know who were able to work as teaching assistants? As full instructors of record?
 -How many master’s degree students do you know who were hired as paid research assistants?
 
+{% include quote.html content="At visit days, ask other prospective
+students for their contact info! You may be in a position where you are
+looking for housing in the area and might want a roommate." user="amywei" %}
+
 **Inverted Phrasing.** By the time you are attending a visit day, the school is trying to convince you to accept the offer. Many applicants have multiple offers (see elsewhere in this guide for raw numbers). Many faculty and students will have been told to put a positive outlook on things and convince all of the visitors to accept. One the one hand, that can reduce pressure. On the other hand, that can make it difficult to be confident that you are getting precise information: you may wonder if people are just telling you what you want to hear. Sadly, direct experience with visit days (from both sides) suggests that this bias is quite real. 
 
 If you ask something like “Do people change their advising situations here commonly? I don’t want to have to worry about changing groups all the time” you are likely to get an answer like “No, almost everyone settles down with their first advisor, don’t worry about that!” But if you were instead to ask “Do people change their advising situations here commonly? I think I might want to do interdisciplinary research and I want to add a co-advisor without much hassle” you are likely to get an answer like ”Sure, I know many people who changed or added advisors, don’t worry about that!” Those two claims aren’t strictly contradictory, but if you only hear one of them (because you only ask one framing of the question) it can be hard to tell what the real situation is. This isn’t malicious: people are not trying to deceive you, they are trying to solve your problem. Informally, your question about “X” gets translated into “Is it possible for X to turn out the way I’d like it to if I come here?”, to which the answer is almost always “Yes, that’s possible!” 
@@ -70,7 +84,7 @@ This leads to a conversational strategy where you “invert” the implicit dire
   - Suppose they say “No, I don’t know anyone like that. Don’t worry about it!” You gain no information (or information that paints things negatively). Since you know advisor switching does (or should) happen, if people are not hearing about it, that’s probably a bad sign (e.g., it’s very difficult in practice). On average, a more senior graduate student “should” know someone who switched advisors. 
   - Suppose they say “Actually, yes, over the last few years I know two people who switched advisors. It was a little tricky, and one of them said they felt like they ended up a semester behind, but it seemed to work out.” The person thinks they are disappointing you, so this answer gives you a lot of confidence that it is possible. (Even though it is described as somewhat onerous, this is actually a much more positive result than people saying they have never heard of anyone switching.) 
 
-Consider writing your persuasive statement of purpose. Elsewhere in this guide, we encourage you to provide concrete evidence, and the same concept can apply to your visit day questions. While there are many fact-based, yes/no questions you want answered, try to frame your questions to collect evidence. For example, instead of asking “will this program prepare me to teach computer science in a liberal arts school?” (to which the answer is most likely “yes, sure!”), ask questions like “how many courses a semester have graduate students as instructors of record?” Just like with the phone interviews, what information professors and students share with you is just as important as how they respond. Be observant, and take lots of notes on your visit.
+This is similar to some aspects of writing your persuasive statement of purpose. Elsewhere in this guide, we encourage you to provide concrete evidence, and the same concept can apply to your visit day questions. While there are many fact-based, yes/no questions you want answered, try to frame your questions to collect evidence. For example, instead of asking “will this program prepare me to teach computer science in a liberal arts school?” (to which the answer is most likely “yes, sure!”), ask questions like “how many courses a semester have graduate students as instructors of record?” Just like with the phone interviews, what information professors and students share with you is just as important as how they respond. Be observant, and take lots of notes on your visit.
 
 # Making Decisions
 In the United States, universities coordinate to require graduate school decisions on the same date: April 15th. That means that if you hear from one University in February, you do not have to decide immediately, and can wait to hear from another one in March. 

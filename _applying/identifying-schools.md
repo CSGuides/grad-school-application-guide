@@ -30,6 +30,14 @@ Graduate programs are often assessed using nebulous metrics known as **rankings.
 
 One powerful trick is to use CSRankings to identify a school that is ranked higher in the area you care about but lower overall. For example, suppose you are interested in Programming Languages and Software Engineering. In a particular semester, North Carolina State University may be ranked 34th by CSRankings and 51st by US News when all disciplines are included. However, if you turn off all of the areas and then turn on just Software Engineering and Programming Languages, NCSU is now ranked 13th by CSRankings! This suggests that NCSU is particularly strong in PL and SE, but may be weaker in other areas. If you are worried about getting into graduate school, that can be very helpful information. All other things being equal (this is a big simplification), the selectivity of a school is more related to its overall ranking, but the benefit you get out of it may be based on its ranking in your area. So if you know that you want to focus on PL or SE, NCSU may be easier to get into and may offer you a very high quality education once you arrive. (You can repeat this sort of search for whichever areas you personally care about.) 
 
+{% capture quote %} 
+School rankings are not precise, and may even change during the 
+years you are in grad school. Beyond some threshold, other factors
+will matter much more for your happiness and later career outcomes.
+{% endcapture %}
+{% include quote.html content=quote user="amywei" %} 
+
+
 
 You may find [Philip Guo’s vlog on choosing CS graduate schools](https://www.youtube.com/watch?v=hOSl3xPmHiQ&t=1s) useful as an additional perspective.  
 
