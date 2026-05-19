@@ -89,6 +89,14 @@
   },
   {
     "id": 10,
+    "name": "Annie Li",
+    "cycle": "Admitted to Carnegie Mellon U.", 
+    "statementOfPurpose": "annieli/annieli.pdf",
+    "profileImageLoc": "annieli/annieli.png",
+    "tags": ["PhD", "Software Engineering", "Returning Adult"]
+  }, 
+  {
+    "id": 11,
     "name": "Kaia Newman",
     "cv": "knewman/newman_cv.pdf",
     "cycle": "Admitted to Carnegie Mellon U.", 
@@ -100,7 +108,7 @@
     "tags": ["PhD", "Lower GPA", "Software Engineering"]
   },
   {
-    "id": 11,
+    "id": 12,
     "name": "Eduardo Puerta",
     "cv": "epuerta/epuerta-cv.pdf",
     "cycle": "Admitted to Northeastern U.", 
@@ -110,7 +118,7 @@
     "tags": ["PhD", "Liberal Arts Undergrad", "No Published Research"]
   },
   {
-    "id": 12,
+    "id": 13,
     "name": "Priscila Santiesteban",
     "cv": "priscila/priscila_resume.pdf",
     "cycle": "Admitted to U. Michigan", 
@@ -120,7 +128,7 @@
     "tags": ["PhD", "First Generation", "Software Engineering", "Liberal Arts Undergrad", "No Published Research"]
   },
   {
-    "id": 13,
+    "id": 14,
     "name": "Rohit Sarpalle",
     "cv": "rohit/rohit_cv.pdf",
     "cycle": "Admitted to U. Michigan", 
@@ -130,15 +138,7 @@
     "tags": ["Master's", "No Published Research"]
   }, 
   {
-    "id": 14,
-    "name": "Annie Li",
-    "cycle": "Admitted to Carnegie Mellon U.", 
-    "statementOfPurpose": "annieli/annieli.pdf",
-    "profileImageLoc": "annieli/annieli.png",
-    "tags": ["PhD", "Software Engineering", "Returning Adult"]
-  }, 
-  {
-    "id": 15,
+    "id": 16,
     "name": "Amy Wei",
     "cycle": "Admitted to U. Massachusetts-Amherst",
     "personalStatement": "amywei/amywei-personal-statement.pdf", 
