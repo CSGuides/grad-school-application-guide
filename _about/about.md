@@ -9,7 +9,7 @@ information about each author's search below to provide context.
 
 * [Madeline Endres](https://madelineendres.com): Completed her PhD in Computer Science and Engineering at the University of Michigan and, in 2024, pursued academic research positions before joining the University of Massachusetts Amherst as a tenure-track assistant professor.
 
-* [Priscila Santiesteban](https://pasantiesteban.github.io/ps.gitbub.io/) Is completing her PhD in Computer Science and Engineering at the University of Michigan and plans to pursue faculty positions upon graduation.
+* [Priscila Santiesteban](https://pasantiesteban.github.io) Is completing her PhD in Computer Science and Engineering at the University of Michigan and plans to pursue faculty positions upon graduation.
 
 * [Kevin Angstadt](https://myslu.stlawu.edu/~kangstadt/): Started his PhD in Computer Science at the University of Virginia, received Masters, then transferred to and completed his PhD in Computer Science at the University of Michigan, and joined St. Lawrence University as a tenure-track assistant professor in 2020.
 
