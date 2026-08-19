@@ -148,5 +148,15 @@
     "outcomes": "amywei/amywei-grad-outcomes.pdf",
     "cv": "amywei/amywei-cv.pdf",
     "tags": ["PhD", "Software Engineering"]
+  },
+  {
+    "id": 17,
+    "name": "Derek Yang",
+    "cycle": "Admitted to U. Michigan",
+    "personalStatement": "dyang/Derek_Yang_personal_statement - Derek Yang.pdf", 
+    "statementOfPurpose": "dyang/Derek_Yang_sop - Derek Yang.pdf",
+    "profileImageLoc": "dyang/derek_headshot.jpeg",
+    "cv": "dyang/Derek_Yang_resume__SUGS_App_ - Derek Yang.pdf",
+    "tags": ["Master's", "No Published Research"]
   }
 ]
