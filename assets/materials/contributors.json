@@ -158,5 +158,14 @@
     "profileImageLoc": "dyang/derek_headshot.jpeg",
     "cv": "dyang/Derek_Yang_resume__SUGS_App_ - Derek Yang.pdf",
     "tags": ["Master's", "No Published Research"]
+  },
+  {
+    "id": 18,
+    "name": "Brodey Miller",
+    "cycle": "Admitted to Western U. (Canada)", 
+    "statementOfPurpose": "bmiller/BM_Western_StatementOfInterest.pdf",
+    "profileImageLoc": "bmiller/bmiller-photo.JPG",
+    "cv": "bmiller/BM_Resume_Masters.docx.pdf",
+    "tags": ["Master's", "No Published Research"]
   }
 ]
