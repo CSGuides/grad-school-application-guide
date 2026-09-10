@@ -25,7 +25,7 @@ there, but we anticipate this site to be most up-to-date).
 # Contributing
 
 We welcome contributions from the community to this guide.  The repository is
-[hosted on GitHub]({{site.repo}}). If you have any questions about contributing, please email Madeline Endres at <mendres@umass.edu> or Priscila Santiesteban <pasanti@umich.edu>.
+[hosted on GitHub]({{site.repo}}). If you have any questions about contributing, please email Priscila Santiesteban <pasanti@umich.edu> or Westley Weimer <weimerw@umich.edu>.
 
 ## Contributing Application Materials
 
