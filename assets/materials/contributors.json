@@ -167,5 +167,17 @@
     "profileImageLoc": "bmiller/bmiller-photo.JPG",
     "cv": "bmiller/BM_Resume_Masters.docx.pdf",
     "tags": ["Master's", "No Published Research"]
+  },
+  {
+    "id": 19,
+    "name": "Veronica Pimenova",
+    "cycle": "Admitted to U. Michigan", 
+    "transcript": "veronica/Veronica Pimenova Transcript.pdf",
+    "personalStatement": "veronica/UMass Amherst Pimenova Statement.pdf",
+    "profileImageLoc": "veronica/veronica_umsi_headshot.png",
+    "presentation": "veronica/Presentation Veronica.pdf",
+    "outcomes": "veronica/Results.pdf",
+    "cv": "veronica/Pimenova_grad_app_CV.pdf",
+    "tags": ["PhD", "No Published Research", "Software Engineering", "HCI", "Accessibility"]
   }
 ]
